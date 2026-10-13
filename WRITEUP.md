@@ -2,7 +2,7 @@
 
 *Entry: label-free expected-value model of the Overture coverage-gap score, plus a bias-discovery analysis of road-attribute completeness. All code is open source (Python 3.11), deterministic (no random seeds are consumed; where a library accepts one it is fixed to 0), and runs on a laptop in under 25 minutes after download.*
 
-Public repository: `<REPO_URL>` — `features.py`, `baseline_v1.py`, `make_submission.py`, `hypotheses.py`, `blend.py`, `blend_v2.py`, `bias_discovery.py`, `figure_unnamed_roads.py`, the executed notebook `writeup.ipynb` (Eastern WA end to end in about one minute, plus every Section 7 table), `figures/fig_unnamed_roads.png`, `requirements.txt`, and this file.
+Public repository: `https://github.com/vigohan95/zindi-bias-bounty` — `features.py`, `baseline_v1.py`, `make_submission.py`, `hypotheses.py`, `blend.py`, `blend_v2.py`, `bias_discovery.py`, `figure_unnamed_roads.py`, the executed notebook `writeup.ipynb` (Eastern WA end to end in about one minute, plus every Section 7 table), `figures/fig_unnamed_roads.png`, `requirements.txt`, and this file.
 
 ---
 
