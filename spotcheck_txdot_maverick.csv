@@ -1,0 +1,61 @@
+id,class,overture_name,len_m,lon,lat,txdot_features,txdot_names,txdot_hwy,txdot_has_name,maint_agency,rural_urban,sample
+d167236a-4614-4101-add3-d1f4a1438d06,residential,,599,-100.24398,28.78368,0,,,False,,,unnamed
+cedb021a-c3c4-40d9-8929-1096bfaa0319,residential,,1250,-100.27193,28.44991,0,,,False,,,unnamed
+0bc91c38-a834-43fc-866f-1e4fa0653c6d,residential,,100,-100.4957,28.67199,1,COUNTY ROAD 97,,True,2,3,unnamed
+80e9121f-00be-483d-b93e-9409059083ca,residential,,1908,-100.1182,28.33925,0,,,False,,,unnamed
+ad22fd8e-2dc6-43f6-a834-86979828e9d1,residential,,114,-100.2605,28.34779,0,,,False,,,unnamed
+c0d5af93-3329-4a1b-a497-cecdba125b6e,trunk,,42,-100.43213,28.70575,3,,SL0480; US0277,True,1;None,1,unnamed
+df9671ec-f235-41af-ba1e-7b14cf605463,residential,,187,-100.40093,28.9378,0,,,False,,,unnamed
+db9787d6-39e2-427e-892e-abe736f43234,residential,,1914,-100.15605,28.74705,0,,,False,,,unnamed
+88e30481-85c7-458c-a491-c3c8b1fd1d0c,residential,,160,-100.39141,28.72337,0,,,False,,,unnamed
+ae95449c-a741-4828-8434-fbac79baa99e,residential,,655,-100.30812,28.90932,0,,,False,,,unnamed
+3c77ac27-f96f-4a5d-998c-b0b7a59fe2b2,residential,,1425,-100.23211,28.91835,0,,,False,,,unnamed
+1371514b-19f7-4fc0-90ee-d94bed45bf20,residential,,408,-100.3707,28.95215,0,,,False,,,unnamed
+7579e2f6-2d27-486e-876a-3f33234c75c2,residential,,829,-100.13504,28.46739,0,,,False,,,unnamed
+8eeed8d6-11b3-402c-b8e5-02c772ab5bbf,residential,,1458,-100.42494,28.70858,0,,,False,,,unnamed
+3b112b5c-d148-49b2-be2b-a5b231f01bad,residential,,41,-100.15219,28.92033,0,,,False,,,unnamed
+f750a5e7-88b5-4c2e-9989-192cfa2bef4c,residential,,2203,-100.27402,28.69039,0,,,False,,,unnamed
+731c9363-a98b-4cde-bcd6-e0ac730fa167,unclassified,,726,-100.30798,28.34705,0,,,False,,,unnamed
+c77a8a7a-f131-4eb9-a687-324a98a191a6,residential,,763,-100.27231,28.7224,0,,,False,,,unnamed
+268d68bc-7696-40bf-bc56-8d3cf912ba0f,residential,,1492,-100.23414,28.79972,0,,,False,,,unnamed
+d644ea6f-1971-4b89-86b8-d93e894e0258,residential,,733,-100.25118,28.70822,0,,,False,,,unnamed
+39393dee-1308-4adf-9817-5f449a27beed,residential,,2290,-100.14495,29.05835,0,,,False,,,unnamed
+63cbc2f9-29dc-4ca5-a5a9-45913bafa7de,residential,,632,-100.1957,28.7603,0,,,False,,,unnamed
+cb1ff5ce-5c1f-4531-9f8b-13b2b70c67aa,residential,,63,-100.15221,28.85013,0,,,False,,,unnamed
+9a63d530-273f-46fb-a933-25a7ffdd7dac,residential,,953,-100.12496,28.24344,0,,,False,,,unnamed
+a65e4362-3a91-4303-b75f-621e83e55b48,residential,,951,-100.31368,28.86946,0,,,False,,,unnamed
+0e7fcabd-7d12-4f99-976a-43d318d44cad,residential,,314,-100.25998,28.90827,0,,,False,,,unnamed
+43ff7d9f-51b8-4256-9ca1-d9f3ffe21a38,residential,,45,-100.27908,28.48494,0,,,False,,,unnamed
+f707603d-5318-4835-80c8-8859577e2c43,residential,,514,-100.40268,28.79558,0,,,False,,,unnamed
+57579134-0dc7-4939-b4b6-08135cdc7e21,residential,,832,-100.36629,28.79175,0,,,False,,,unnamed
+0e09e176-75bf-48ac-810b-cd3b13315318,residential,,743,-100.44079,28.78017,0,,,False,,,unnamed
+631e4b44-3199-46d3-b16b-646b283d9e09,residential,Madison Street,156,-100.50191,28.70936,2,MADISON; QUARRY,,True,4,3,named (control)
+b0ee4b9d-373c-4e4f-954f-31e535e42237,residential,Ricks Drive,99,-100.49548,28.72824,1,RICKS DR,,True,4,3,named (control)
+3535704b-24d8-409c-ab0c-3da294d772ae,residential,Christina Parkway,189,-100.45634,28.70527,2,CHRISTINA PKWY; NICOLE ST,,True,4,3,named (control)
+3df8eb33-1315-4262-8cfe-b2750b4bdbea,trunk,South Monroe Street,611,-100.50645,28.69903,2,Camino Real International Bridge,TL0004,True,4,3,named (control)
+e64dd5ed-7077-4c7a-aee0-56c1573e407f,residential,Callejon Albores,111,-100.49276,28.68978,1,CALLE ALBORES,,True,2,3,named (control)
+1b8b9127-98df-400d-bb03-3d1cd03f5a99,tertiary,North Comal Street,173,-100.49099,28.71128,2,QUARRY; S COMAL  ST,,True,4,3,named (control)
+31378412-863b-4047-9086-d29b170bed4b,residential,Leona Street,109,-100.50128,28.71289,1,LEONA ST,,True,4,3,named (control)
+977fe8ed-91e1-4946-976d-e4774e0de8ee,residential,West Lloyd 34B,1030,-100.13837,28.37227,0,,,False,,,named (control)
+8fec965f-7a20-48dc-82e0-2500aeae8dd4,residential,Las Sauces Road,160,-100.41849,28.65309,1,LOS SAUCES,,True,2,3,named (control)
+f41fb3d0-08ba-4dfe-a4ca-45c35dd9cd7b,residential,Lance Drive,156,-100.49518,28.73512,1,LANCE DR,,True,4,3,named (control)
+1ca0ef93-1f74-4d54-ae5b-e5709d48783f,residential,Hillcrest Boulevard,112,-100.4921,28.71307,2,COLORADO ST; HILLCREST BLVD,,True,4,3,named (control)
+3c470796-9cab-4a25-a41a-db094803fa68,primary,East Garrison Street,51,-100.50102,28.70601,1,,US0057,True,1,3,named (control)
+a3965844-6821-4183-b9e6-ed56c34d134f,residential,Church Street,111,-100.49563,28.71688,2,CHURCH ST; MEDINA ST,,True,4,3,named (control)
+8c1fae23-f5dc-4d84-98ee-7f1849ffcf34,residential,4th Street,109,-100.62182,28.94841,2,CROCKETT AVE; MOORE ST,,True,2,1,named (control)
+da405cc1-f29d-48d6-8c86-984cb23ad041,residential,Church Street,109,-100.49998,28.71616,1,CHURCH ST,,True,4,3,named (control)
+ce28a3be-94c9-424c-b450-a6dfcc074d89,residential,Williams Street,121,-100.49357,28.70419,2,AUSTIN ST; WILLIAMS,,True,4,3,named (control)
+3b17efc7-6d84-4a91-b646-f811e34724c0,residential,Lewis Street,111,-100.47243,28.68514,6,LEWIS ST,FM1021,True,1;2,3,named (control)
+38d8a7e5-c3fa-4eb4-aa29-6596bcccf0bd,residential,Foothills Street,111,-100.48236,28.73261,2,FOOTHILLS ST; MALIBU BLVD,,True,4,3,named (control)
+a117175e-67df-4ee1-b3dc-e85243a691f5,residential,García Drive,107,-100.42974,28.61377,2,GARCIA DR; HERRERA DR,,True,2,3,named (control)
+995caa5d-bdca-405a-8bfd-5beae8fb2ea3,residential,Six Shooter Road,177,-100.41708,28.64143,2,CHUCK WAGON RD; SIX SHOOTER RD,,True,2,3,named (control)
+d3215fd1-7932-4b21-be04-004184d641aa,residential,Lisa Boulevard,172,-100.4257,28.61848,2,COUNTY ROAD 0317; LISA BLVD,,True,2,3,named (control)
+817d11f7-809b-4feb-b4a3-e20d5d998eda,residential,Diupi Circle,119,-100.43269,28.61027,1,ROSITA GARDEN ST,,True,2,3,named (control)
+00d95e98-c3ca-4113-bf95-4e05c269979f,residential,North Veterans Boulevard,86,-100.50192,28.73761,1,N VETERANS BLVD,,True,4,3,named (control)
+fcaf6e78-21d9-47e4-8382-163b186c6b0a,secondary,North Bibb Avenue,132,-100.48323,28.72647,2,MARIA DEL REFUGIO DR; N BIBB AVE,,True,4,3,named (control)
+a122c4e5-54af-4116-87b0-6146e7938fae,residential,49ers Street,211,-100.42837,28.61326,2,49ERS ST; THUNDERHEART ST,,True,2,3,named (control)
+ec220413-34f9-436e-b508-969189ecb853,residential,Delcrest Drive,88,-100.47609,28.69387,2,DELLCREST DR; PASEO ENCINAL DR,,True,4,3,named (control)
+e2da44d6-9cb6-48a9-a615-de623f065f36,residential,Saint Anne Road,146,-100.528,28.85928,2,ST. ANNIE ST; STYX ST,,True,2,1,named (control)
+236f584a-59d4-4fd3-850f-e1af21101970,residential,Richard Lane Drive,232,-100.47673,28.68038,2,MEMO ROBINSON  RD; RICHARD DR,,True,2,3,named (control)
+ebfd9a24-8de0-4256-997e-0865c65d8b13,residential,Arroyo Street,115,-100.49986,28.70526,1,ARROYO ST,,True,4,3,named (control)
+921f5183-28f7-4dfd-9f7f-d99684509deb,residential,North County Road 253,15,-100.42577,28.63536,1,N COUNTY ROAD 253,,True,2,3,named (control)

@@ -1,0 +1,17 @@
+# Pipeline (features, model, submission, hypotheses, blends, bias discovery) — Python 3.11.9
+duckdb==1.5.6
+pyarrow==25.0.1
+pandas==3.0.3
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.1
+statsmodels==0.15.0
+tabulate==0.10.0
+# Figure
+matplotlib==3.11.2
+geopandas==1.2.0
+shapely==2.2.0
+# Notebook execution (optional)
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel
