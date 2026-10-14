@@ -1,0 +1,2 @@
+# store every file byte-for-byte: the SHA256SUMS manifest under spotcheck/ must survive checkout on any OS
+* -text

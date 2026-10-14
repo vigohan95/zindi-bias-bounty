@@ -115,7 +115,8 @@ def fetch_and_freeze(county: str, seg: pd.Series, sample_label: str) -> dict:
     }
     d = RESP_DIR / county
     d.mkdir(parents=True, exist_ok=True)
-    (d / f"{seg.id}.json").write_text(json.dumps(rec, indent=1, ensure_ascii=False), encoding="utf-8")
+    with open(d / f"{seg.id}.json", "w", encoding="utf-8", newline="\n") as fh:  # LF on every platform so SHA256SUMS is portable
+        fh.write(json.dumps(rec, indent=1, ensure_ascii=False) + "\n")
     return rec
 
 
@@ -139,7 +140,8 @@ def write_manifest() -> Path:
         if p.is_file() and p.name != "SHA256SUMS":
             lines.append(f"{hashlib.sha256(p.read_bytes()).hexdigest()}  {p.relative_to(RESP_DIR).as_posix()}")
     m = RESP_DIR / "SHA256SUMS"
-    m.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    with open(m, "w", encoding="utf-8", newline="\n") as fh:
+        fh.write("\n".join(lines) + "\n")
     return m
 
 
@@ -209,7 +211,8 @@ def main() -> None:
         meta.mkdir(parents=True, exist_ok=True)
         (meta / "layer.json").write_bytes(_get(SERVICE_LAYER + "?f=pjson"))
         (meta / "item.json").write_bytes(_get(ITEM_URL))
-        (meta / "retrieved.txt").write_text(datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ") + "\n", encoding="utf-8")
+        with open(meta / "retrieved.txt", "w", encoding="utf-8", newline="\n") as fh:
+            fh.write(datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ") + "\n")
         rows = []
         for county in counties:
             fips = COUNTIES[county]
@@ -224,7 +227,8 @@ def main() -> None:
     res = res.sort_values(["county", "sample", "id"]).reset_index(drop=True)
     res.to_csv(OUT_DIR / "spotcheck_txdot_results.csv", index=False, quoting=csv.QUOTE_MINIMAL, lineterminator="\n")
     summary = summarise(res)
-    (OUT_DIR / "spotcheck_txdot_summary.md").write_text(summary, encoding="utf-8")
+    with open(OUT_DIR / "spotcheck_txdot_summary.md", "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(summary)
     print(summary)
     print("\nwrote", OUT_DIR / "spotcheck_txdot_results.csv", "and", OUT_DIR / "spotcheck_txdot_summary.md")
 
