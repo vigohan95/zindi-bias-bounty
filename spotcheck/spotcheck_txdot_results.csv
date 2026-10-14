@@ -1,361 +1,361 @@
-county,sample,id,class,overture_name,overture_last_update,len_m,lon,lat,txdot_features,txdot_names,txdot_hwy,txdot_in_inventory,txdot_has_name,maint_agency,f_system,rural_urban,retrieved_utc
-brooks,named (control),07e52781-382d-448e-868a-1a624d9734b7,tertiary,North US Highway 281,2026-07-30T12:32:01Z,9.6,-98.139848,27.232612,3,E TERRY ST,US0281,True,True,1;4,3;5;7,1,2026-10-14T03:17:04Z
-brooks,named (control),0b91baad-2973-45a3-9cd4-597a68fe6ba6,residential,Baluarte Creek Road,2010-04-07T08:37:19Z,1951.0,-98.333301,27.125322,0,,,False,False,,,,2026-10-14T03:16:54Z
-brooks,named (control),16f06823-b2cf-4fe8-9b60-1fc2787ff9dc,residential,South Caldwell Street,2025-02-28T17:44:31Z,125.5,-98.145746,27.223977,2,S CALDWELL ST; W BLUCHER ST,,True,True,4,7,1,2026-10-14T03:16:55Z
-brooks,named (control),21bd8de7-d6ea-4517-b867-79251527d493,residential,East Crockett Street,2021-08-28T14:43:20Z,162.5,-98.137021,27.227918,1,E CROCKETT ST,,True,True,4,7,1,2026-10-14T03:17:17Z
-brooks,named (control),2eb22055-6b74-4995-afea-96ac32fc1e72,residential,County Road 110,2025-04-16T16:52:48Z,73.1,-98.325867,27.158026,1,COUNTY ROAD 110,,True,True,2,7,1,2026-10-14T03:16:52Z
-brooks,named (control),365d4fc8-1d5e-4dec-bd5a-e82c2c2b4329,residential,County Road 314,2025-01-08T01:55:08Z,28.1,-98.309539,26.917272,0,,,False,False,,,,2026-10-14T03:17:11Z
-brooks,named (control),3d4c7f7f-4412-45f3-b5b0-e413d853e8cf,unclassified,Baluarte Creek Road,2025-01-08T01:55:09Z,324.7,-98.374304,27.113945,2,COUNTY ROAD 407; COUNTY ROAD 408,,True,True,2,7,1,2026-10-14T03:17:00Z
-brooks,named (control),3e9eb78c-8918-437c-98b2-09a2c99c2d61,residential,West Stockton Street,2021-08-28T14:43:20Z,71.6,-98.154048,27.226727,2,S FITZGERALD ST; W STOCKTON ST,,True,True,4,7,1,2026-10-14T03:17:09Z
-brooks,named (control),3f471277-04a6-4578-8e00-095d8c341336,residential,West Bennett Street,2025-02-28T17:44:31Z,140.4,-98.146986,27.223088,2,TERRELL; W BENNETT ST,,True,True,4,5;7,1,2026-10-14T03:16:53Z
-brooks,named (control),4c505807-cf6b-4f19-a701-401776ac52d5,residential,West Trevino Street,2021-08-28T14:43:20Z,84.9,-98.146518,27.230741,2,N NOPAL ST; W TREVINO ST,,True,True,4,7,1,2026-10-14T03:17:15Z
-brooks,named (control),603c5a75-77fd-48fb-ab14-ac7adaa4610f,tertiary,North US Highway 281,2026-07-30T12:32:01Z,373.2,-98.13826,27.241026,2,E LEE ST,US0281,True,True,1;2,5;7,1,2026-10-14T03:17:18Z
-brooks,named (control),716aa411-dd22-41df-bee8-d50d4b3cf330,residential,County Road 216,2025-01-08T01:55:09Z,1327.8,-98.088501,27.197878,2,COUNTY ROAD 216; COUNTY ROAD 217,,True,True,2,7,1,2026-10-14T03:17:07Z
-brooks,named (control),73887246-1fba-4399-901b-a12eaae002e9,residential,North Chester Street,2021-08-28T14:43:20Z,107.1,-98.150785,27.227906,1,N CHESTER ST,,True,True,4,7,1,2026-10-14T03:17:19Z
-brooks,named (control),91a38bb2-2d56-4317-87a4-178f1c5f49ea,primary,East Rice Street,2025-12-03T21:40:18Z,31.8,-98.142805,27.22658,3,N LAS PITAS ST,SH0285,True,True,1;4,4;7,1,2026-10-14T03:17:02Z
-brooks,named (control),96d51f46-68a5-475f-8cba-e622b107476b,residential,North Vargas Street,2021-08-28T14:43:20Z,132.2,-98.140431,27.239424,2,VARGAS N ST; W 16TH ST,,True,True,4,5;7,1,2026-10-14T03:16:59Z
-brooks,named (control),97eaa684-aee2-47f8-8c93-c815822b4607,residential,East Miller Street,2016-10-17T10:22:24Z,70.1,-98.141399,27.225794,4,E MILLER ST,US0281,True,True,1;4,3;5;7,1,2026-10-14T03:16:56Z
-brooks,named (control),a4711d1c-d0ef-448e-ab78-2e00cae52e5a,unclassified,Baluarte Creek Road,2025-04-16T19:36:04Z,785.2,-98.374304,27.142601,1,COUNTY ROAD 110,,True,True,2,7,1,2026-10-14T03:17:16Z
-brooks,named (control),a7bb8b85-0e02-4bad-b2e3-f3a8005ef9d8,residential,South Gardner Street,2021-12-01T00:52:42Z,201.7,-98.148726,27.217875,1,S GARDNER ST,,True,True,4,7,1,2026-10-14T03:17:06Z
-brooks,named (control),aeda9a2f-526b-4314-a238-9fb8f65c5590,residential,County Road 308,2025-01-08T01:55:08Z,2452.6,-98.219628,26.904955,1,COUNTY ROAD 308,,True,True,2,7,1,2026-10-14T03:17:01Z
-brooks,named (control),b042ceb0-37cd-4a46-ae1e-bb45fcb206f3,residential,North Lincoln Street,2021-08-28T14:43:20Z,110.5,-98.138667,27.228589,1,N LINCOLN ST,,True,True,4,7,1,2026-10-14T03:17:08Z
-brooks,named (control),b152d9d0-f29a-4619-be62-154d48086d19,tertiary,Baluarte Creek Road,2026-07-30T12:32:01Z,1630.5,-98.174396,27.192905,1,,FM3066,True,True,1,5,1,2026-10-14T03:17:12Z
-brooks,named (control),ba55fe4c-e34f-4b8e-b7dd-edae0d8cafc8,residential,East 14th Street,2021-12-01T02:10:20Z,160.9,-98.138924,27.237587,5,E 14TH ST,BU0281T; US0281,True,True,1;4,3;5;7,1,2026-10-14T03:16:58Z
-brooks,named (control),bfcd07d8-d992-4d89-a452-3e7fae3f03d5,residential,Lucero Street,2025-01-08T01:55:10Z,47.5,-98.101003,26.934394,1,COUNTY ROAD 305,,True,True,2,7,1,2026-10-14T03:16:51Z
-brooks,named (control),c1a11d44-e0c4-4828-bd18-12d3f02b2195,tertiary,North US Highway 281,2026-07-30T12:32:01Z,220.3,-98.140333,27.22816,6,,US0281,True,True,1,3;5,1,2026-10-14T03:17:03Z
-brooks,named (control),c36eff37-598c-4292-8836-96c608654d28,tertiary,North US Highway 281,2026-07-30T12:32:01Z,166.5,-98.140295,27.235198,4,,US0281,True,True,1,3;5,1,2026-10-14T03:17:20Z
-brooks,named (control),d1c95a8d-8527-4026-9e18-c8d71546fe3b,residential,County Road 220,2025-01-08T01:55:10Z,802.6,-98.072671,27.219878,2,COUNTY ROAD 220; COUNTY ROAD 221,,True,True,2,7,1,2026-10-14T03:17:10Z
-brooks,named (control),d5cfe642-a9f1-4875-badd-18721265f5bb,residential,West Adams Street,2025-04-16T18:31:03Z,159.8,-98.150927,27.222513,1,W ADAMS ST,,True,True,4,7,1,2026-10-14T03:17:22Z
-brooks,named (control),d8cafcb1-16b6-4f88-9507-faaab49b66d2,residential,East Maupin Street,2017-03-22T03:20:07Z,99.2,-98.141815,27.220536,3,E MAUPIN ST,US0281,True,True,1;4,3;5;7,1,2026-10-14T03:16:49Z
-brooks,named (control),e272a082-1f04-42dd-86c4-52af15e73cec,residential,South Caldwell Street,2025-02-28T17:44:31Z,109.7,-98.145946,27.222503,1,S CALDWELL ST,,True,True,4,7,1,2026-10-14T03:17:14Z
-brooks,named (control),f9ba1eff-98e6-4575-819d-654f5a6db871,residential,West Candela Street,2015-02-26T12:17:41Z,124.9,-98.147582,27.231772,2,N PALO BLANCO ST; W CANDELA ST,,True,True,4,7,1,2026-10-14T03:16:50Z
-brooks,unnamed,0c3e2c76-22ab-40cf-8a00-0a8072248591,residential,,2009-10-31T15:20:37Z,315.6,-98.126983,27.149918,0,,,False,False,,,,2026-10-14T03:16:31Z
-brooks,unnamed,15a47fdf-e32c-4a86-901c-f524f3040be0,residential,,2009-10-31T15:33:06Z,1042.4,-98.14108,27.087298,0,,,False,False,,,,2026-10-14T03:16:47Z
-brooks,unnamed,1a1fbd93-d4b6-4ba6-94d8-b7c450cd0f37,residential,,2009-10-31T15:40:59Z,781.6,-98.280403,26.999087,0,,,False,False,,,,2026-10-14T03:16:28Z
-brooks,unnamed,22049325-c7da-4a8f-9f04-eb32477e81d4,residential,,2009-10-31T15:37:30Z,1716.5,-98.343486,27.015343,0,,,False,False,,,,2026-10-14T03:16:26Z
-brooks,unnamed,277a0286-3ef4-4eee-8b07-ffd9e93d3ae4,residential,,2009-10-31T15:35:39Z,4413.1,-98.434994,27.197099,0,,,False,False,,,,2026-10-14T03:16:32Z
-brooks,unnamed,2d268a95-8e07-434a-b363-cd94e28fe733,residential,,2022-05-25T16:18:18Z,2455.8,-98.094901,26.838107,0,,,False,False,,,,2026-10-14T03:16:24Z
-brooks,unnamed,2ebbee62-cd51-4493-8cf9-b5fc49e96ffd,residential,,2009-10-31T15:14:15Z,56.2,-98.355262,27.151345,0,,,False,False,,,,2026-10-14T03:16:13Z
-brooks,unnamed,2f563d94-2d8f-4c85-b8ef-4bdf04b3b1fb,residential,,2025-04-16T18:31:03Z,2487.7,-98.432739,27.154079,0,,,False,False,,,,2026-10-14T03:16:22Z
-brooks,unnamed,31d14ab0-ef7f-4a48-ad98-a67ca87b3ff8,residential,,2026-05-21T00:08:25Z,713.4,-98.217756,27.084459,0,,,False,False,,,,2026-10-14T03:16:19Z
-brooks,unnamed,34006547-b087-4369-92ce-f0aa551c390d,residential,,2015-02-26T14:49:15Z,185.5,-98.082439,27.228511,0,,,False,False,,,,2026-10-14T03:16:44Z
-brooks,unnamed,3889025a-dd22-4216-b3a7-0b37f8a8c85e,residential,,2009-10-31T15:19:03Z,1055.1,-98.267491,26.834416,0,,,False,False,,,,2026-10-14T03:16:27Z
-brooks,unnamed,39d7686c-2716-452b-8c82-bc5704903a00,residential,,2009-10-31T15:17:56Z,78.7,-97.9928,27.128967,0,,,False,False,,,,2026-10-14T03:16:39Z
-brooks,unnamed,3b816daf-2359-42f6-b065-99b51cade1e6,residential,,2009-10-31T15:18:43Z,2175.9,-98.321598,27.05761,0,,,False,False,,,,2026-10-14T03:16:14Z
-brooks,unnamed,3dc8f1ec-a66a-41a0-80fd-54476407132d,residential,,2020-06-27T16:55:00Z,1389.7,-98.166499,26.92899,0,,,False,False,,,,2026-10-14T03:16:20Z
-brooks,unnamed,5a53abe1-99e0-42d6-a220-d512466cb3de,motorway,,2018-03-05T20:28:01Z,481.5,-98.143422,27.207747,4,,US0281,True,True,1,3;5,1,2026-10-14T03:16:40Z
-brooks,unnamed,5ca30e0a-4332-4d66-8712-0157e0a3bb14,residential,,2009-10-31T15:28:53Z,622.7,-98.111267,26.827354,0,,,False,False,,,,2026-10-14T03:16:37Z
-brooks,unnamed,5d626267-ba3d-411b-a49a-6a978daaaa0a,residential,,2009-10-31T15:30:45Z,132.0,-98.316906,26.917845,0,,,False,False,,,,2026-10-14T03:16:17Z
-brooks,unnamed,5f06f247-4a3f-4319-b4f6-138cf585f1d1,residential,,2009-10-31T15:22:03Z,1055.9,-98.304191,27.237273,0,,,False,False,,,,2026-10-14T03:16:23Z
-brooks,unnamed,84aeb25f-a47e-44c8-9232-f0d8481c190d,residential,,2025-04-16T19:36:04Z,2249.6,-98.28925,27.173431,0,,,False,False,,,,2026-10-14T03:16:38Z
-brooks,unnamed,867bf91a-1f14-4067-b813-c8b2ef81a278,residential,,2009-10-31T15:14:50Z,119.5,-98.341362,27.018302,0,,,False,False,,,,2026-10-14T03:16:41Z
-brooks,unnamed,877d2c9d-86e4-4c24-8031-85dab5cfe3c2,residential,,2026-05-21T00:08:25Z,28.4,-98.217628,27.084688,0,,,False,False,,,,2026-10-14T03:16:34Z
-brooks,unnamed,8a2d2765-1da0-4205-9fc3-d2f8256bc49e,residential,,2026-05-20T15:16:40Z,338.3,-98.334886,26.897021,0,,,False,False,,,,2026-10-14T03:16:15Z
-brooks,unnamed,a0907136-75d9-48f6-bad9-d7394733fd67,residential,,2009-10-31T15:34:27Z,2479.0,-98.457375,27.152152,0,,,False,False,,,,2026-10-14T03:16:36Z
-brooks,unnamed,a8bff323-5856-4c28-ad07-d116bc71e335,residential,,2009-10-31T15:14:27Z,964.5,-98.260809,27.026482,0,,,False,False,,,,2026-10-14T03:16:18Z
-brooks,unnamed,c079ee0e-c2ae-4507-927b-c926abdecbf6,residential,,2009-10-31T15:36:49Z,258.3,-98.31202,26.927132,0,,,False,False,,,,2026-10-14T03:16:33Z
-brooks,unnamed,e1280425-7000-4257-8462-6802c9bb76b4,residential,,2026-05-20T15:16:40Z,584.4,-98.288473,26.8563,0,,,False,False,,,,2026-10-14T03:16:30Z
-brooks,unnamed,ecbf4025-c3e6-4029-ad8d-db52e4ac6fff,residential,,2010-04-15T04:22:50Z,831.0,-98.385602,26.925608,0,,,False,False,,,,2026-10-14T03:16:21Z
-brooks,unnamed,ed65afea-1fd6-46bc-b7d2-8b70a5db4001,residential,,2022-05-18T16:09:19Z,2549.6,-98.404087,26.962282,0,,,False,False,,,,2026-10-14T03:16:43Z
-brooks,unnamed,efde7dbe-1248-4598-a609-8c105afe2dd4,residential,,2009-10-31T15:29:51Z,1178.5,-98.38186,27.142625,0,,,False,False,,,,2026-10-14T03:16:46Z
-brooks,unnamed,f919cb69-8df4-4ae0-ad1e-7c33cb5dde65,secondary,,2026-06-14T03:11:24Z,356.2,-98.237246,26.891581,4,COUNTY ROAD 309; COUNTY ROAD 310,FM0755,True,True,1;2,5;7,1,2026-10-14T03:16:45Z
-edwards,named (control),15e48ca2-f0fd-43ea-9c49-2900520e4ef9,residential,County Road 104 East,2012-12-26T23:31:51Z,268.0,-100.465258,30.019156,1,COUNTY ROAD 440,,True,True,2,7,1,2026-10-14T03:20:59Z
-edwards,named (control),20c9c5b5-9109-45a6-8135-79bff0f2a16d,residential,Golf Course Road,2024-12-05T17:44:02Z,318.0,-100.169187,29.939914,1,COUNTY ROAD 310,,True,True,2,7,1,2026-10-14T03:21:00Z
-edwards,named (control),271ed824-2a72-4dc7-9514-5673fe44f8c3,residential,County Road 24,2025-06-16T17:18:54Z,1554.1,-100.076608,29.720846,1,COUNTY ROAD 353,,True,True,2,7,1,2026-10-14T03:21:22Z
-edwards,named (control),35cc8e7f-1f05-4f3f-a238-401f70265179,residential,Cedar Creek Road,2024-12-05T17:44:02Z,1338.7,-100.271425,29.777004,1,COUNTY ROAD 310,,True,True,2,7,1,2026-10-14T03:20:55Z
-edwards,named (control),37e637aa-0a83-43e1-a4aa-b69681e8495d,trunk,North Texas Highway 55,2026-05-21T12:00:43Z,389.5,-100.570211,30.262639,1,,SH0055,True,True,1,5,1,2026-10-14T03:21:15Z
-edwards,named (control),3a752276-190d-4950-b26e-752fa86d003e,residential,Private Road 2086,2009-12-10T12:32:04Z,226.4,-100.675225,29.791387,0,,,False,False,,,,2026-10-14T03:21:16Z
-edwards,named (control),3e7c13e4-5c06-49f5-ae00-6fa081607abd,residential,County Road 24,2024-12-31T16:25:57Z,100.4,-100.081203,29.726895,0,,,False,False,,,,2026-10-14T03:21:26Z
-edwards,named (control),42930013-e99e-41c4-bbf9-5cc9813cdc2c,residential,West Austin Street,2025-08-17T05:00:09Z,103.5,-100.20847,30.016625,2,N SWEETEN ST; W AUSTIN ST,,True,True,4,7,1,2026-10-14T03:21:02Z
-edwards,named (control),4f0495bf-92b7-4776-9d4a-5de9c73160f0,residential,County Road 27,2026-04-14T17:05:39Z,886.2,-100.539853,29.653228,1,COUNTY ROAD 650,,True,True,2,7,1,2026-10-14T03:21:06Z
-edwards,named (control),553e35fb-6f16-4cbd-8d18-63f163fe52f3,residential,County Road 22,2009-12-10T12:44:52Z,359.6,-100.556578,29.845537,1,COUNTY ROAD 468,,True,True,2,7,1,2026-10-14T03:21:01Z
-edwards,named (control),55447722-11b5-4a99-9344-81e367142228,residential,Bond Road,2025-09-25T06:22:39Z,956.4,-100.287533,30.277309,0,,,False,False,,,,2026-10-14T03:21:18Z
-edwards,named (control),63d0231c-ddd5-405a-b5f4-99905c6576c1,residential,West Bandera Street,2025-08-15T14:47:44Z,103.0,-100.21164,30.014697,2,S LIVE OAK ST; W BANDERA ST,,True,True,4,7,1,2026-10-14T03:21:13Z
-edwards,named (control),6b45b56a-6955-44bb-8fc6-59de28a338b1,tertiary,Ranch to Market Road 2995,2025-06-02T06:12:36Z,163.1,-100.335209,30.155843,1,,RM2995,True,True,1,6,1,2026-10-14T03:21:07Z
-edwards,named (control),7806264e-5ffd-44ef-a396-24fa7751f83b,residential,Old Junction Road,2026-04-18T13:25:44Z,532.3,-100.136154,30.23945,1,COUNTY ROAD 900,,True,True,2,7,1,2026-10-14T03:20:58Z
-edwards,named (control),7bed0681-b35a-4dcb-96e5-86c331a87101,residential,County Road 391,2025-08-21T04:30:37Z,835.3,-100.025196,29.672265,1,COUNTY ROAD 391,,True,True,2,7,1,2026-10-14T03:21:25Z
-edwards,named (control),8115918e-2d42-4b43-9d15-aa4c9522849c,residential,Stovall Street,2025-06-17T15:42:11Z,317.8,-100.033482,29.723961,0,,,False,False,,,,2026-10-14T03:21:21Z
-edwards,named (control),95b71165-fbf3-4ab4-a77a-27966c4ab21a,residential,Fagan Ranch Road,2019-10-27T08:50:12Z,1327.9,-100.589565,30.273763,0,,,False,False,,,,2026-10-14T03:20:53Z
-edwards,named (control),ab9766b7-2afa-4e50-8dca-418c1d504ee6,residential,Cedar Creek Road,2026-03-25T15:39:40Z,433.6,-100.166123,29.778746,1,COUNTY ROAD 350,,True,True,2,7,1,2026-10-14T03:21:09Z
-edwards,named (control),b3f2f0be-0711-4311-975d-5d4beca03875,residential,County Road 37,2009-12-10T12:31:57Z,166.3,-100.095989,29.632385,1,COUNTY ROAD 398,,True,True,2,7,1,2026-10-14T03:21:10Z
-edwards,named (control),bc2dbe77-fb6d-481a-a381-6c7460483e9a,residential,South Nueces Street,2025-08-14T04:45:20Z,102.6,-100.206716,30.011939,2,E HOUSTON ST; S NUECES ST,,True,True,4,7,1,2026-10-14T03:21:12Z
-edwards,named (control),cb8a2935-bae8-4b3e-8c19-816ead563b99,trunk,North Texas Highway 55,2026-05-21T12:00:43Z,609.3,-100.271168,30.041061,1,,SH0055,True,True,1,5,1,2026-10-14T03:21:05Z
-edwards,named (control),cbf86375-3491-47a9-95fe-2f2755dbbe71,residential,East Austin Street,2025-08-17T05:00:09Z,102.5,-100.206708,30.016633,2,E AUSTIN ST; N NUECES ST,,True,True,4,7,1,2026-10-14T03:21:24Z
-edwards,named (control),d5f13dce-2752-4d4b-b757-5bda5716fc40,primary,Kerrville Road,2025-06-02T06:14:00Z,980.2,-100.081975,30.082606,1,,SH0041,True,True,1,5,1,2026-10-14T03:21:17Z
-edwards,named (control),de1d517f-9b1b-493e-b895-a17a969acaad,residential,Old Junction Road,2019-09-29T21:18:23Z,22.6,-100.121585,30.163833,1,COUNTY ROAD 900,,True,True,2,7,1,2026-10-14T03:20:54Z
-edwards,named (control),ea204ec6-38a4-410a-b595-ab8b2f716055,residential,County Road 408,2026-02-02T01:04:55Z,41.4,-99.987763,30.232378,1,COUNTY ROAD 160,,True,True,2,7,1,2026-10-14T03:20:56Z
-edwards,named (control),f73085e6-0dac-48da-b718-41a8a5590c5e,residential,Nuby Ranch Road,2010-04-07T08:16:52Z,307.2,-100.581565,30.090556,0,,,False,False,,,,2026-10-14T03:21:19Z
-edwards,named (control),fa105377-dddd-42f6-b283-1a30be07420e,residential,County Road 34,2024-12-31T16:25:57Z,275.3,-100.042947,29.691192,1,COUNTY ROAD 389,,True,True,2,7,1,2026-10-14T03:21:28Z
-edwards,named (control),fa1186c8-eed5-4f66-8e67-6fc202054eb9,primary,North US Highway 377,2025-08-18T03:54:05Z,102.0,-100.205479,30.017541,3,E KERR ST,US0377,True,True,1;4,5;7,1,2026-10-14T03:21:23Z
-edwards,named (control),fca13a79-b857-42c9-9768-2825e1adfa31,residential,South Well Street,2025-08-14T14:04:03Z,101.6,-100.207751,30.012873,3,E KINNEY ST; S WELL ST; W KINNEY ST,,True,True,4,7,1,2026-10-14T03:21:04Z
-edwards,named (control),fde3edc2-a020-4704-894a-c65d23e1631f,residential,West Edwards Street,2025-08-17T22:08:12Z,102.5,-100.210601,30.021205,2,N PRICE ST; W EDWARDS ST,,True,True,4,7,1,2026-10-14T03:21:11Z
-edwards,unnamed,0ab54c79-01b1-414b-acde-d5cf76578fce,residential,,2024-04-15T02:01:42Z,327.5,-100.016529,29.640748,0,,,False,False,,,,2026-10-14T03:20:46Z
-edwards,unnamed,10e2a931-494d-4d8e-b91a-40ffce506c56,residential,,2019-09-29T20:53:45Z,41.2,-100.159258,30.119096,1,COUNTY ROAD 900,,True,True,2,7,1,2026-10-14T03:20:27Z
-edwards,unnamed,161d83f0-f196-40df-a69d-b463a83e23d6,residential,,2022-11-15T21:45:43Z,717.4,-100.369052,29.637028,0,,,False,False,,,,2026-10-14T03:20:47Z
-edwards,unnamed,16bbeaca-5cfa-4ac6-9776-c5e1b3d5b46b,residential,,2009-12-10T12:34:14Z,156.4,-100.397144,30.121553,0,,,False,False,,,,2026-10-14T03:20:25Z
-edwards,unnamed,1f8b6fad-5bbb-4d51-ad8b-14af0755a469,residential,,2009-12-10T12:43:31Z,1261.1,-100.46398,29.960898,1,COUNTY ROAD 430,,True,True,2,7,1,2026-10-14T03:20:23Z
-edwards,unnamed,21d4f543-c9ce-4a4a-9504-31245b12cd38,residential,,2009-12-10T12:43:43Z,463.2,-99.800213,30.119704,0,,,False,False,,,,2026-10-14T03:20:36Z
-edwards,unnamed,2442828a-e9f3-4c03-9601-68d390f60ef7,residential,,2009-12-10T12:40:30Z,155.8,-100.331959,30.242344,0,,,False,False,,,,2026-10-14T03:20:29Z
-edwards,unnamed,428a408c-e0e0-429b-b22e-cd711815f69a,residential,,2009-12-10T12:44:23Z,814.9,-100.403885,30.047871,0,,,False,False,,,,2026-10-14T03:20:20Z
-edwards,unnamed,48226def-911e-4b50-a9a3-60b4540cd00c,residential,,2009-12-10T12:33:02Z,1135.7,-100.53131,29.641218,0,,,False,False,,,,2026-10-14T03:20:35Z
-edwards,unnamed,50bf2a30-c937-4e58-9365-5d5affeb4ec1,residential,,2009-12-10T12:37:28Z,836.0,-100.03384,29.924479,0,,,False,False,,,,2026-10-14T03:20:41Z
-edwards,unnamed,52d75550-0baf-4472-aafb-5745929bd306,residential,,2009-12-10T12:39:07Z,66.0,-99.82634,30.22515,0,,,False,False,,,,2026-10-14T03:20:49Z
-edwards,unnamed,554a5bf7-ddcd-4549-aacb-9f69befe2430,residential,,2019-10-26T14:26:55Z,36.2,-100.608974,30.281109,0,,,False,False,,,,2026-10-14T03:20:21Z
-edwards,unnamed,5c879844-ef6f-41ab-8801-1c8d20f8871e,residential,,2019-10-27T09:18:12Z,93.1,-100.533787,30.265466,0,,,False,False,,,,2026-10-14T03:20:24Z
-edwards,unnamed,5fb8fedd-4ef1-4e44-9360-de8798606508,residential,,2009-12-10T12:38:11Z,138.0,-100.331405,30.210872,0,,,False,False,,,,2026-10-14T03:20:42Z
-edwards,unnamed,728437a1-60f1-4533-89d2-367547ac2073,residential,,2009-12-10T12:36:06Z,290.1,-100.205953,30.288347,0,,,False,False,,,,2026-10-14T03:20:51Z
-edwards,unnamed,9e09ce2e-5cef-49b6-a201-7bad02c0508d,residential,,2026-02-02T01:04:55Z,419.5,-99.954061,30.170662,0,,,False,False,,,,2026-10-14T03:20:50Z
-edwards,unnamed,a3a46444-9ea5-48e8-8864-2cc848cc0232,residential,,2009-12-10T12:43:54Z,466.2,-100.08222,30.124548,0,,,False,False,,,,2026-10-14T03:20:43Z
-edwards,unnamed,a5149320-03ab-423e-a3fa-3989b9c737c6,residential,,2009-12-10T12:36:06Z,137.1,-100.032964,29.832804,0,,,False,False,,,,2026-10-14T03:20:34Z
-edwards,unnamed,caed5fe0-5550-46da-951a-277971aff3b8,residential,,2009-12-10T12:42:54Z,1220.6,-100.447414,30.181643,0,,,False,False,,,,2026-10-14T03:20:18Z
-edwards,unnamed,ce01ac42-02e8-4ff7-acfc-4519c4b6db99,residential,,2019-12-21T21:13:51Z,707.2,-100.607541,30.263821,0,,,False,False,,,,2026-10-14T03:20:44Z
-edwards,unnamed,ce91f12e-11d7-44c1-8f5b-8b7e947d7bc4,residential,,2019-10-26T14:26:55Z,67.5,-100.604739,30.28134,0,,,False,False,,,,2026-10-14T03:20:31Z
-edwards,unnamed,d199d4ab-3273-430f-b1c9-400f810d37e5,residential,,2009-12-10T12:33:37Z,2808.4,-100.27679,30.236417,0,,,False,False,,,,2026-10-14T03:20:30Z
-edwards,unnamed,d402cc71-5756-4a22-bf9b-c538a58c10cb,residential,,2019-10-13T21:47:03Z,840.1,-100.369027,30.251695,0,,,False,False,,,,2026-10-14T03:20:38Z
-edwards,unnamed,dad7d42f-3dae-4b36-8365-1008e2fcaf59,residential,,2009-12-10T12:43:16Z,167.6,-99.987575,30.045009,0,,,False,False,,,,2026-10-14T03:20:39Z
-edwards,unnamed,e5f393cd-d294-4c7f-8f87-378989a3c185,residential,,2014-09-28T07:42:42Z,519.8,-100.30486,30.243493,0,,,False,False,,,,2026-10-14T03:20:22Z
-edwards,unnamed,e864ca30-50a8-4596-a61a-277cc1905fd9,secondary,,2025-08-20T02:44:58Z,870.1,-100.035023,29.7476,1,,RM0335,True,True,1,6,1,2026-10-14T03:20:32Z
-edwards,unnamed,ebceee3e-1ac9-4470-825c-a33a0570b57f,residential,,2009-12-10T12:35:03Z,361.1,-100.392693,29.625413,0,,,False,False,,,,2026-10-14T03:20:40Z
-edwards,unnamed,ef530526-0895-4c6d-9e8c-d0cb9bff5b91,residential,,2009-12-10T12:38:29Z,311.4,-100.444144,30.055265,0,,,False,False,,,,2026-10-14T03:20:17Z
-edwards,unnamed,f553a0cc-2808-48ed-b8db-b9d1ae502383,residential,,2009-12-10T12:44:18Z,293.1,-100.044433,30.174637,0,,,False,False,,,,2026-10-14T03:20:28Z
-edwards,unnamed,fdfa8046-c25e-4c87-9453-c7823cfa69fd,secondary,,2025-06-02T06:13:17Z,7019.9,-100.405498,29.804129,1,,RM0674,True,True,1,5,1,2026-10-14T03:20:48Z
-kinney,named (control),00da3a7c-e9a6-471b-87ba-f48369919f67,residential,Rio Springs Road,2010-04-07T11:39:11Z,276.8,-100.645071,29.430528,0,,,False,False,,,,2026-10-14T03:18:57Z
-kinney,named (control),1492cad1-dceb-4f76-87b1-975ae3f1085f,trunk,East US Highway 90,2025-06-04T04:38:12Z,657.2,-100.202096,29.248245,1,,US0090,True,True,1,3,1,2026-10-14T03:18:50Z
-kinney,named (control),1bc8fdc3-9342-4d96-ac25-2ef433eb4006,residential,2nd Street,2018-10-19T04:39:25Z,40.6,-100.428991,29.316027,1,W LACKEY ST,,True,True,4,7,1,2026-10-14T03:18:18Z
-kinney,named (control),23195649-ab62-4876-9f8d-d1fdee8f520d,residential,Guajillo Road,2023-05-31T09:24:38Z,334.1,-100.441516,29.334521,1,GUAJILLO RD,,True,True,2,7,1,2026-10-14T03:19:01Z
-kinney,named (control),281afdab-3592-436b-860f-1af3bc1a8459,secondary,Ranch to Market Road 3008,2026-07-10T19:37:43Z,690.2,-100.582467,29.420911,1,,RM3008,True,True,1,5,1,2026-10-14T03:18:22Z
-kinney,named (control),37f72264-3fd7-48e8-bcde-ee9b8da940b2,residential,North Avenue F,2022-05-29T17:13:27Z,110.0,-100.407734,29.174479,2,N 2ND ST; N AVE F,,True,True,4,7,1,2026-10-14T03:18:05Z
-kinney,named (control),48d01922-6f8c-452d-b6f5-359867025aa9,residential,West Louise Street,2018-10-19T05:28:11Z,135.7,-100.42417,29.315041,2,S PATRICK ST; W LOUISE ST,,True,True,4,7,1,2026-10-14T03:18:13Z
-kinney,named (control),4bd40d7a-8244-4a74-9347-328c36ea1c8c,residential,Plaza Navarra Road,2016-04-10T17:20:16Z,134.0,-100.42374,29.298313,0,,,False,False,,,,2026-10-14T03:18:01Z
-kinney,named (control),554b1a17-16f5-4f4d-8ff2-3e3684129e4c,secondary,State Highway 131,2025-07-07T02:45:47Z,2045.7,-100.42302,29.157248,1,,SH0131,True,True,1,5,1,2026-10-14T03:18:24Z
-kinney,named (control),555e40da-50fe-42a8-b86a-34b3a3679c12,residential,Fort Clark Road,2026-07-19T20:45:29Z,133.8,-100.422155,29.303793,0,,,False,False,,,,2026-10-14T03:18:07Z
-kinney,named (control),713ce5aa-6da7-4d61-bf62-a8ae7074d702,residential,Brown Street,2024-11-26T04:34:16Z,128.4,-100.41573,29.317946,1,N BROWN ST,,True,True,4,7,1,2026-10-14T03:18:58Z
-kinney,named (control),8b81e72a-942a-497a-8bc2-46b4bebae15b,trunk,East US Highway 90,2025-06-04T04:38:22Z,650.8,-100.344882,29.285472,1,,US0090,True,True,1,3,1,2026-10-14T03:19:03Z
-kinney,named (control),8c837dec-f152-4813-957c-e196de05b750,residential,North Pafford Street,2018-10-19T05:30:53Z,127.5,-100.409335,29.313134,2,E REMOTE ALY; N PAFFORD ST,,True,True,4,7,1,2026-10-14T03:18:19Z
-kinney,named (control),8e533917-b445-4075-a1e5-49a5a1033633,residential,3rd Street North,2022-05-29T17:00:57Z,111.5,-100.409893,29.177002,3,N BROADWAY,,True,True,4,7,1,2026-10-14T03:18:51Z
-kinney,named (control),907459ea-e58d-40c4-846f-76aa279e2ae4,residential,Avenida Juarez Road,2010-04-07T11:39:06Z,20.0,-100.415809,29.305097,0,,,False,False,,,,2026-10-14T03:18:14Z
-kinney,named (control),92645d8b-904f-4544-bc42-0c2b697b10bb,residential,North Fort Street,2025-08-02T14:10:50Z,129.3,-100.410873,29.316688,2,E WOLF ALY; N FORT ST,,True,True,4,7,1,2026-10-14T03:19:02Z
-kinney,named (control),96766fd9-3182-4462-94a2-600391598cb4,residential,Travis Road,2017-11-26T23:16:24Z,55.1,-100.420841,29.301247,0,,,False,False,,,,2026-10-14T03:18:21Z
-kinney,named (control),9aadd192-2218-4a31-a95a-17792d47d57c,secondary,North Avenue B,2025-06-02T06:13:17Z,111.2,-100.413721,29.175713,3,N RAILROAD ST; NW RAILROAD ST,SH0131,True,True,1;4,5;7,1,2026-10-14T03:18:48Z
-kinney,named (control),a49064a3-06b2-41d2-92c0-2710f13197aa,residential,Mud Creek Road,2010-04-07T11:39:00Z,1428.6,-100.636258,29.430794,1,MUD CREEK RD,,True,True,2,7,1,2026-10-14T03:17:59Z
-kinney,named (control),aabe5d16-fe63-482f-b583-941b186bcfff,residential,Gaebler Road,2025-01-10T16:43:49Z,587.3,-100.536579,29.142985,1,LAS MORAS RD,,True,True,2,7,1,2026-10-14T03:18:00Z
-kinney,named (control),b74318e0-a15b-49c1-871c-f854ec81abad,residential,Rodeo Road,2010-04-07T11:38:59Z,370.1,-100.432592,29.338517,0,,,False,False,,,,2026-10-14T03:18:59Z
-kinney,named (control),baac7e0d-41d1-4138-b246-db1a826d6e5a,residential,Bustin Lane,2010-04-07T11:38:49Z,132.1,-100.229139,29.256734,0,,,False,False,,,,2026-10-14T03:18:55Z
-kinney,named (control),c1bf3ca5-ee24-48c1-8e0f-aae82ef6fee2,residential,East Crockett Street,2018-10-19T05:28:12Z,87.8,-100.417599,29.309268,2,E CROCKETT ST; S ELLEN ST,,True,True,4,7,1,2026-10-14T03:18:23Z
-kinney,named (control),c4bebf47-4f15-41bc-b64a-9f276278c4da,residential,North Avenue C,2022-05-29T17:13:27Z,113.4,-100.412824,29.175151,2,N AVE C; N RAILROAD ST,,True,True,4,7,1,2026-10-14T03:18:56Z
-kinney,named (control),c81b63cb-e493-4f75-a97d-191025cda50e,residential,North Avenue C,2022-05-29T17:13:27Z,541.2,-100.411175,29.177312,1,N AVE C,,True,True,4,7,1,2026-10-14T03:18:54Z
-kinney,named (control),c9cf74ea-864e-4ae5-b868-a6305264abf0,secondary,Ranch to Market Road 693,2025-06-02T06:13:17Z,449.2,-100.528376,29.25101,1,,RM0693,True,True,1,5,1,2026-10-14T03:18:06Z
-kinney,named (control),dbed7e8c-4eda-4267-a3d0-2b6ae32f8f26,residential,Schubach Lane,2015-05-07T01:17:48Z,1533.1,-100.184788,29.287048,0,,,False,False,,,,2026-10-14T03:18:02Z
-kinney,named (control),dce6ec2d-47d1-410d-9eb4-f39c249d6fa1,tertiary,West Spring Street,2026-01-19T14:31:52Z,171.0,-100.421207,29.312266,2,S ROSS ST,SL0166,True,True,1;4,5;7,1,2026-10-14T03:18:16Z
-kinney,named (control),ec8cc59d-ab7b-4b89-8cf7-82a0c3cdfa91,secondary,Ranch to Market Road 3008,2026-07-10T19:37:43Z,979.4,-100.590462,29.413315,1,,RM3008,True,True,1,5,1,2026-10-14T03:18:52Z
-kinney,named (control),ed214e9e-d410-4d11-a449-6d53cfe0f00e,residential,West Thorn Street,2018-10-19T05:28:11Z,133.9,-100.414907,29.316801,2,N SWEENEY ST; W THORN ST,,True,True,4,7,1,2026-10-14T03:18:04Z
-kinney,unnamed,198bbc79-aa99-49d9-898b-85aa4ac4c7c0,residential,,2009-11-05T04:24:18Z,332.2,-100.437677,29.333752,0,,,False,False,,,,2026-10-14T03:17:29Z
-kinney,unnamed,272192e6-aae6-445d-91cb-7e567f26a306,residential,,2026-04-14T17:05:39Z,1590.2,-100.536734,29.618543,0,,,False,False,,,,2026-10-14T03:17:31Z
-kinney,unnamed,2ca71216-030c-46ab-a8a6-55e368ec1d2a,residential,,2009-11-05T04:24:17Z,852.9,-100.318521,29.213494,0,,,False,False,,,,2026-10-14T03:17:23Z
-kinney,unnamed,4301cee0-25c1-4952-9dd4-904661922b54,residential,,2009-11-05T04:25:01Z,2236.4,-100.235217,29.233826,0,,,False,False,,,,2026-10-14T03:17:52Z
-kinney,unnamed,496ea8a8-b452-43c1-8c39-0e4640bc4e3f,residential,,2025-04-22T00:49:05Z,1275.3,-100.778415,29.237988,0,,,False,False,,,,2026-10-14T03:17:46Z
-kinney,unnamed,5f215799-13a6-4c7e-83cb-939b130a306c,residential,,2022-01-04T13:22:22Z,960.3,-100.321351,29.227327,0,,,False,False,,,,2026-10-14T03:17:26Z
-kinney,unnamed,75415cce-2cd4-423f-8e61-e1fe3fb9eb6e,residential,,2015-04-02T15:04:30Z,175.1,-100.323224,29.378393,0,,,False,False,,,,2026-10-14T03:17:58Z
-kinney,unnamed,755e9e24-f85b-4a8a-8f61-d8d16af98eb7,residential,,2009-09-11T16:38:53Z,106.5,-100.726835,29.243176,0,,,False,False,,,,2026-10-14T03:17:56Z
-kinney,unnamed,7e318b9e-3f6c-4e08-8dab-7ed0e751253e,residential,,2009-11-05T04:23:47Z,31.3,-100.512835,29.23009,0,,,False,False,,,,2026-10-14T03:17:43Z
-kinney,unnamed,7ed06da0-5ca9-42ff-b978-8c3002ac2f82,residential,,2013-08-23T13:41:01Z,67.5,-100.395202,29.427824,0,,,False,False,,,,2026-10-14T03:17:28Z
-kinney,unnamed,80005215-670f-4336-99f1-8981e4abc37d,residential,,2026-03-25T18:37:44Z,214.0,-100.678066,29.249632,0,,,False,False,,,,2026-10-14T03:17:35Z
-kinney,unnamed,824b6e29-5d1e-4609-95c4-d1e1a24127ad,residential,,2009-11-05T04:27:33Z,1706.0,-100.459377,29.376779,0,,,False,False,,,,2026-10-14T03:17:32Z
-kinney,unnamed,92a8b8e0-1904-4fd4-b26b-23c19b045bd9,residential,,2009-11-05T04:23:58Z,393.9,-100.636255,29.138194,0,,,False,False,,,,2026-10-14T03:17:49Z
-kinney,unnamed,9862c1fb-abcc-4a4b-905b-bd13fa541cb3,residential,,2025-01-10T16:43:49Z,89.2,-100.502806,29.177376,0,,,False,False,,,,2026-10-14T03:17:48Z
-kinney,unnamed,98faeac9-4fee-4009-9ce8-d73bf636c51e,residential,,2009-11-05T04:24:56Z,17.3,-100.487624,29.212603,0,,,False,False,,,,2026-10-14T03:17:36Z
-kinney,unnamed,9da4c5aa-5fba-45ec-9946-ded82b2e544f,residential,,2009-11-05T04:27:26Z,1163.3,-100.580932,29.142829,0,,,False,False,,,,2026-10-14T03:17:38Z
-kinney,unnamed,a600745e-6dda-4152-84e0-2d85747b6919,residential,,2009-09-11T16:20:37Z,84.7,-100.242343,29.207104,0,,,False,False,,,,2026-10-14T03:17:30Z
-kinney,unnamed,ada29156-a025-4e11-9b13-6e6c8bf09a31,trunk,,2025-06-04T04:38:17Z,166.5,-100.43124,29.316136,2,,SL0166; US0090,True,True,1,3;5,1,2026-10-14T03:17:37Z
-kinney,unnamed,aea81f8f-66fe-4121-994b-eed050574a95,tertiary,,2025-06-02T06:13:17Z,2038.7,-100.531455,29.127659,1,,FM1908,True,True,1,5,1,2026-10-14T03:17:40Z
-kinney,unnamed,b4b28ecf-5c98-4db3-a7c6-e79d0d7f74d8,residential,,2009-11-05T04:27:35Z,1921.2,-100.380618,29.348558,0,,,False,False,,,,2026-10-14T03:17:42Z
-kinney,unnamed,bcb0c66e-34b0-4fc6-89e9-b86cfaf8b016,residential,,2009-11-05T04:27:25Z,695.7,-100.593956,29.150292,0,,,False,False,,,,2026-10-14T03:17:34Z
-kinney,unnamed,be559a74-491f-4ce3-8f4a-06936822fd19,residential,,2009-11-05T04:24:54Z,66.1,-100.647092,29.305009,0,,,False,False,,,,2026-10-14T03:17:24Z
-kinney,unnamed,beae6bb5-acf0-4b5c-aaa9-4db6af737b61,residential,,2021-10-25T10:31:57Z,13.2,-100.583469,29.137471,0,,,False,False,,,,2026-10-14T03:17:41Z
-kinney,unnamed,c1887e4b-e049-4915-8b86-ef3e42f1a30e,residential,,2009-11-05T04:24:20Z,1822.7,-100.322323,29.58794,0,,,False,False,,,,2026-10-14T03:17:53Z
-kinney,unnamed,d3a462a7-d677-4f38-bf68-cd81a7cdef34,residential,,2009-11-05T04:28:09Z,2972.4,-100.151367,29.285224,0,,,False,False,,,,2026-10-14T03:17:54Z
-kinney,unnamed,e0b84ef4-3e96-48e8-adc8-4f7316c75066,residential,,2009-11-05T04:26:04Z,468.2,-100.241117,29.585263,0,,,False,False,,,,2026-10-14T03:17:55Z
-kinney,unnamed,e192c25d-4b4d-4b05-81f4-b90a9679b2dd,residential,,2021-10-25T10:31:57Z,682.6,-100.581647,29.13617,0,,,False,False,,,,2026-10-14T03:17:50Z
-kinney,unnamed,e3ee8664-6598-42b2-89cb-1c1aa1a2eb4f,residential,,2009-11-05T04:24:16Z,2256.4,-100.563708,29.183575,0,,,False,False,,,,2026-10-14T03:17:47Z
-kinney,unnamed,e7c83eba-880a-49ae-831c-6238d15a2461,residential,,2009-11-05T04:24:19Z,1050.5,-100.440998,29.382211,0,,,False,False,,,,2026-10-14T03:17:25Z
-kinney,unnamed,f6584a68-0ccf-4ddd-a7ec-3663178ca8df,residential,,2009-11-05T04:24:17Z,37.3,-100.402967,29.414987,0,,,False,False,,,,2026-10-14T03:17:45Z
-maverick,named (control),00d95e98-c3ca-4113-bf95-4e05c269979f,residential,North Veterans Boulevard,2025-01-09T10:57:54Z,85.7,-100.501919,28.737606,1,N VETERANS BLVD,,True,True,4,7,3,2026-10-14T03:14:53Z
-maverick,named (control),1b8b9127-98df-400d-bb03-3d1cd03f5a99,tertiary,North Comal Street,2026-06-23T04:34:01Z,172.6,-100.490991,28.711279,2,QUARRY; S COMAL  ST,,True,True,4,5,3,2026-10-14T03:14:33Z
-maverick,named (control),1ca0ef93-1f74-4d54-ae5b-e5709d48783f,residential,Hillcrest Boulevard,2023-08-13T22:23:05Z,112.3,-100.492105,28.713068,2,COLORADO ST; HILLCREST BLVD,,True,True,4,7,3,2026-10-14T03:14:39Z
-maverick,named (control),236f584a-59d4-4fd3-850f-e1af21101970,residential,Richard Lane Drive,2015-01-29T14:15:59Z,231.9,-100.476733,28.680385,2,MEMO ROBINSON  RD; RICHARD DR,,True,True,2,5;7,3,2026-10-14T03:14:59Z
-maverick,named (control),31378412-863b-4047-9086-d29b170bed4b,residential,Leona Street,2023-06-22T03:21:23Z,108.7,-100.501284,28.712892,1,LEONA ST,,True,True,4,7,3,2026-10-14T03:14:34Z
-maverick,named (control),3535704b-24d8-409c-ab0c-3da294d772ae,residential,Christina Parkway,2025-02-11T20:20:54Z,189.3,-100.456344,28.705266,2,CHRISTINA PKWY; NICOLE ST,,True,True,4,7,3,2026-10-14T03:14:29Z
-maverick,named (control),38d8a7e5-c3fa-4eb4-aa29-6596bcccf0bd,residential,Foothills Street,2020-10-18T23:16:22Z,111.0,-100.482362,28.732609,2,FOOTHILLS ST; MALIBU BLVD,,True,True,4,7,3,2026-10-14T03:14:47Z
-maverick,named (control),3b17efc7-6d84-4a91-b646-f811e34724c0,residential,Lewis Street,2025-01-09T12:13:42Z,111.0,-100.472428,28.685136,6,LEWIS ST,FM1021,True,True,1;2,4;7,3,2026-10-14T03:14:46Z
-maverick,named (control),3c470796-9cab-4a25-a41a-db094803fa68,primary,East Garrison Street,2026-07-18T15:02:57Z,51.3,-100.501022,28.706008,1,,US0057,True,True,1,3,3,2026-10-14T03:14:40Z
-maverick,named (control),3df8eb33-1315-4262-8cfe-b2750b4bdbea,trunk,South Monroe Street,2026-06-10T23:57:08Z,610.6,-100.50645,28.699032,2,Camino Real International Bridge,TL0004,True,True,4,3,3,2026-10-14T03:14:30Z
-maverick,named (control),631e4b44-3199-46d3-b16b-646b283d9e09,residential,Madison Street,2023-08-12T18:47:18Z,155.5,-100.501912,28.709358,2,MADISON; QUARRY,,True,True,4,5;7,3,2026-10-14T03:14:27Z
-maverick,named (control),817d11f7-809b-4feb-b4a3-e20d5d998eda,residential,Diupi Circle,2017-12-06T21:34:08Z,118.7,-100.432687,28.610267,1,ROSITA GARDEN ST,,True,True,2,7,3,2026-10-14T03:14:52Z
-maverick,named (control),8c1fae23-f5dc-4d84-98ee-7f1849ffcf34,residential,4th Street,2022-05-29T17:57:17Z,108.5,-100.621817,28.948409,2,CROCKETT AVE; MOORE ST,,True,True,2,7,1,2026-10-14T03:14:42Z
-maverick,named (control),8fec965f-7a20-48dc-82e0-2500aeae8dd4,residential,Las Sauces Road,2010-04-07T12:46:39Z,159.7,-100.418495,28.653091,1,LOS SAUCES,,True,True,2,7,3,2026-10-14T03:14:36Z
-maverick,named (control),921f5183-28f7-4dfd-9f7f-d99684509deb,residential,North County Road 253,2022-01-06T06:26:51Z,14.6,-100.425768,28.635358,1,N COUNTY ROAD 253,,True,True,2,7,3,2026-10-14T03:15:01Z
-maverick,named (control),977fe8ed-91e1-4946-976d-e4774e0de8ee,residential,West Lloyd 34B,2022-10-21T00:43:49Z,1029.5,-100.138372,28.372273,0,,,False,False,,,,2026-10-14T03:14:35Z
-maverick,named (control),995caa5d-bdca-405a-8bfd-5beae8fb2ea3,residential,Six Shooter Road,2023-06-27T03:23:56Z,176.8,-100.417081,28.641425,2,CHUCK WAGON RD; SIX SHOOTER RD,,True,True,2,7,3,2026-10-14T03:14:49Z
-maverick,named (control),a117175e-67df-4ee1-b3dc-e85243a691f5,residential,García Drive,2020-10-19T00:49:38Z,106.9,-100.429743,28.613772,2,GARCIA DR; HERRERA DR,,True,True,2,7,3,2026-10-14T03:14:48Z
-maverick,named (control),a122c4e5-54af-4116-87b0-6146e7938fae,residential,49ers Street,2024-12-18T01:39:49Z,211.0,-100.428368,28.613264,2,49ERS ST; THUNDERHEART ST,,True,True,2,7,3,2026-10-14T03:14:55Z
-maverick,named (control),a3965844-6821-4183-b9e6-ed56c34d134f,residential,Church Street,2023-06-22T03:21:23Z,110.7,-100.495625,28.716878,2,CHURCH ST; MEDINA ST,,True,True,4,7,3,2026-10-14T03:14:41Z
-maverick,named (control),b0ee4b9d-373c-4e4f-954f-31e535e42237,residential,Ricks Drive,2023-06-21T04:35:22Z,99.0,-100.495479,28.728242,1,RICKS DR,,True,True,4,7,3,2026-10-14T03:14:28Z
-maverick,named (control),ce28a3be-94c9-424c-b450-a6dfcc074d89,residential,Williams Street,2023-08-13T23:19:07Z,121.0,-100.493572,28.704189,2,AUSTIN ST; WILLIAMS,,True,True,4,5;7,3,2026-10-14T03:14:45Z
-maverick,named (control),d3215fd1-7932-4b21-be04-004184d641aa,residential,Lisa Boulevard,2020-10-19T00:49:38Z,171.8,-100.425702,28.618477,2,COUNTY ROAD 0317; LISA BLVD,,True,True,2,7,3,2026-10-14T03:14:50Z
-maverick,named (control),da405cc1-f29d-48d6-8c86-984cb23ad041,residential,Church Street,2023-06-22T03:21:23Z,109.0,-100.499981,28.716162,1,CHURCH ST,,True,True,4,7,3,2026-10-14T03:14:43Z
-maverick,named (control),e2da44d6-9cb6-48a9-a615-de623f065f36,residential,Saint Anne Road,2024-11-02T01:04:21Z,145.7,-100.528002,28.859282,2,ST. ANNIE ST; STYX ST,,True,True,2,7,1,2026-10-14T03:14:58Z
-maverick,named (control),e64dd5ed-7077-4c7a-aee0-56c1573e407f,residential,Callejon Albores,2023-08-08T16:07:41Z,110.7,-100.492756,28.689784,1,CALLE ALBORES,,True,True,2,7,3,2026-10-14T03:14:32Z
-maverick,named (control),ebfd9a24-8de0-4256-997e-0865c65d8b13,residential,Arroyo Street,2023-08-12T17:42:31Z,115.3,-100.499858,28.705263,1,ARROYO ST,,True,True,4,7,3,2026-10-14T03:15:00Z
-maverick,named (control),ec220413-34f9-436e-b508-969189ecb853,residential,Delcrest Drive,2025-01-09T11:15:41Z,88.5,-100.476088,28.693865,2,DELLCREST DR; PASEO ENCINAL DR,,True,True,4,7,3,2026-10-14T03:14:56Z
-maverick,named (control),f41fb3d0-08ba-4dfe-a4ca-45c35dd9cd7b,residential,Lance Drive,2015-08-03T20:50:47Z,156.3,-100.495183,28.735118,1,LANCE DR,,True,True,4,7,3,2026-10-14T03:14:37Z
-maverick,named (control),fcaf6e78-21d9-47e4-8382-163b186c6b0a,secondary,North Bibb Avenue,2025-01-09T11:46:40Z,131.7,-100.483232,28.726467,2,MARIA DEL REFUGIO DR; N BIBB AVE,,True,True,4,5;6,3,2026-10-14T03:14:54Z
-maverick,unnamed,0bc91c38-a834-43fc-866f-1e4fa0653c6d,residential,,2009-10-17T11:19:07Z,99.9,-100.495698,28.671991,1,COUNTY ROAD 97,,True,True,2,7,3,2026-10-14T03:13:54Z
-maverick,unnamed,0e09e176-75bf-48ac-810b-cd3b13315318,residential,,2022-05-18T18:52:35Z,743.1,-100.440792,28.780172,0,,,False,False,,,,2026-10-14T03:14:25Z
-maverick,unnamed,0e7fcabd-7d12-4f99-976a-43d318d44cad,residential,,2009-10-17T11:11:44Z,314.4,-100.259983,28.908265,0,,,False,False,,,,2026-10-14T03:14:21Z
-maverick,unnamed,1371514b-19f7-4fc0-90ee-d94bed45bf20,residential,,2009-10-17T11:25:27Z,407.8,-100.370696,28.952145,0,,,False,False,,,,2026-10-14T03:14:05Z
-maverick,unnamed,268d68bc-7696-40bf-bc56-8d3cf912ba0f,residential,,2009-10-17T11:24:43Z,1491.6,-100.234139,28.799723,0,,,False,False,,,,2026-10-14T03:14:13Z
-maverick,unnamed,39393dee-1308-4adf-9817-5f449a27beed,residential,,2009-10-17T11:25:14Z,2289.8,-100.144946,29.058352,0,,,False,False,,,,2026-10-14T03:14:15Z
-maverick,unnamed,3b112b5c-d148-49b2-be2b-a5b231f01bad,residential,,2023-06-21T06:00:53Z,41.0,-100.152188,28.920331,0,,,False,False,,,,2026-10-14T03:14:08Z
-maverick,unnamed,3c77ac27-f96f-4a5d-998c-b0b7a59fe2b2,residential,,2009-10-17T11:11:19Z,1425.2,-100.232108,28.918347,0,,,False,False,,,,2026-10-14T03:14:04Z
-maverick,unnamed,43ff7d9f-51b8-4256-9ca1-d9f3ffe21a38,residential,,2009-10-17T11:15:06Z,44.7,-100.279075,28.484943,0,,,False,False,,,,2026-10-14T03:14:22Z
-maverick,unnamed,57579134-0dc7-4939-b4b6-08135cdc7e21,residential,,2022-01-11T20:56:16Z,832.0,-100.366294,28.791753,0,,,False,False,,,,2026-10-14T03:14:24Z
-maverick,unnamed,63cbc2f9-29dc-4ca5-a5a9-45913bafa7de,residential,,2009-10-17T11:21:28Z,631.6,-100.195704,28.760298,0,,,False,False,,,,2026-10-14T03:14:16Z
-maverick,unnamed,731c9363-a98b-4cde-bcd6-e0ac730fa167,unclassified,,2026-04-21T12:34:20Z,725.8,-100.307977,28.347047,0,,,False,False,,,,2026-10-14T03:14:11Z
-maverick,unnamed,7579e2f6-2d27-486e-876a-3f33234c75c2,residential,,2018-03-14T17:59:21Z,828.9,-100.13504,28.467386,0,,,False,False,,,,2026-10-14T03:14:06Z
-maverick,unnamed,80e9121f-00be-483d-b93e-9409059083ca,residential,,2018-03-25T18:23:00Z,1908.1,-100.118198,28.339252,0,,,False,False,,,,2026-10-14T03:13:55Z
-maverick,unnamed,88e30481-85c7-458c-a491-c3c8b1fd1d0c,residential,,2009-10-17T11:20:23Z,159.8,-100.39141,28.723367,0,,,False,False,,,,2026-10-14T03:14:02Z
-maverick,unnamed,8eeed8d6-11b3-402c-b8e5-02c772ab5bbf,residential,,2026-05-28T03:03:38Z,1458.3,-100.424936,28.708585,0,,,False,False,,,,2026-10-14T03:14:07Z
-maverick,unnamed,9a63d530-273f-46fb-a933-25a7ffdd7dac,residential,,2009-10-17T11:10:36Z,953.5,-100.124959,28.243442,0,,,False,False,,,,2026-10-14T03:14:19Z
-maverick,unnamed,a65e4362-3a91-4303-b75f-621e83e55b48,residential,,2009-10-17T11:24:34Z,951.0,-100.31368,28.869458,0,,,False,False,,,,2026-10-14T03:14:20Z
-maverick,unnamed,ad22fd8e-2dc6-43f6-a834-86979828e9d1,residential,,2009-10-17T11:09:09Z,114.4,-100.260504,28.347789,0,,,False,False,,,,2026-10-14T03:13:57Z
-maverick,unnamed,ae95449c-a741-4828-8434-fbac79baa99e,residential,,2009-10-17T11:25:25Z,655.5,-100.308121,28.909322,0,,,False,False,,,,2026-10-14T03:14:03Z
-maverick,unnamed,c0d5af93-3329-4a1b-a497-cecdba125b6e,trunk,,2024-02-12T09:40:06Z,41.5,-100.432131,28.705753,3,,SL0480; US0277,True,True,1;None,3;7,1,2026-10-14T03:13:58Z
-maverick,unnamed,c77a8a7a-f131-4eb9-a687-324a98a191a6,residential,,2009-10-17T11:13:40Z,762.9,-100.272306,28.722402,0,,,False,False,,,,2026-10-14T03:14:12Z
-maverick,unnamed,cb1ff5ce-5c1f-4531-9f8b-13b2b70c67aa,residential,,2025-01-10T23:59:15Z,63.3,-100.152214,28.850128,0,,,False,False,,,,2026-10-14T03:14:18Z
-maverick,unnamed,cedb021a-c3c4-40d9-8929-1096bfaa0319,residential,,2009-10-17T11:25:22Z,1250.3,-100.271927,28.449908,0,,,False,False,,,,2026-10-14T03:13:53Z
-maverick,unnamed,d167236a-4614-4101-add3-d1f4a1438d06,residential,,2009-10-17T11:10:02Z,599.0,-100.24398,28.783681,0,,,False,False,,,,2026-10-14T03:13:52Z
-maverick,unnamed,d644ea6f-1971-4b89-86b8-d93e894e0258,residential,,2009-10-17T11:16:21Z,732.9,-100.25118,28.708221,0,,,False,False,,,,2026-10-14T03:14:14Z
-maverick,unnamed,db9787d6-39e2-427e-892e-abe736f43234,residential,,2009-10-17T11:25:41Z,1914.2,-100.156045,28.747054,0,,,False,False,,,,2026-10-14T03:14:00Z
-maverick,unnamed,df9671ec-f235-41af-ba1e-7b14cf605463,residential,,2017-06-01T02:29:36Z,186.8,-100.400928,28.937795,0,,,False,False,,,,2026-10-14T03:13:59Z
-maverick,unnamed,f707603d-5318-4835-80c8-8859577e2c43,residential,,2009-10-17T11:10:36Z,514.2,-100.40268,28.795579,0,,,False,False,,,,2026-10-14T03:14:23Z
-maverick,unnamed,f750a5e7-88b5-4c2e-9989-192cfa2bef4c,residential,,2009-10-17T11:10:23Z,2202.5,-100.274019,28.690387,0,,,False,False,,,,2026-10-14T03:14:09Z
-zapata,named (control),0580945c-0621-4cff-8ccb-450b7e0cd31e,residential,West 4th Avenue,2017-09-16T19:33:44Z,103.6,-99.262358,26.900899,2,4TH AVE; FRESNO ST,,True,True,2,7,2,2026-10-14T03:16:04Z
-zapata,named (control),10969099-887e-48bf-b678-a08fd2619f9f,residential,Delmar Street,2023-04-16T18:30:14Z,124.8,-99.263623,26.905656,2,8TH AVE; DELMAR ST,,True,True,2,5;7,2,2026-10-14T03:16:06Z
-zapata,named (control),297e7973-360c-4f63-bea9-a1632ff1008f,residential,3rd Street,2017-09-16T19:33:42Z,130.8,-99.262285,26.913567,2,3RD ST,SH0016,True,True,1;2,4;7,2,2026-10-14T03:15:42Z
-zapata,named (control),2d2dcee5-7ecf-4732-b97b-6ebeed69671a,tertiary,Alamo Street,2025-08-15T17:38:08Z,123.7,-99.26669,26.914196,1,ALAMO  ST,,True,True,2,5,2,2026-10-14T03:16:00Z
-zapata,named (control),2ef37e07-6d75-46a9-8f19-0f54690d7eb2,primary,West 13th Avenue,2025-08-15T17:38:08Z,2056.2,-99.22153,26.940231,1,,SH0016,True,True,1,4,1,2026-10-14T03:15:56Z
-zapata,named (control),35499bb1-fa92-48ae-b033-4785d59c5006,trunk,Texas Vietnam Veterans Memorial Highway,2026-06-01T21:57:31Z,55.7,-99.15568,26.814472,0,,,False,False,,,,2026-10-14T03:15:41Z
-zapata,named (control),3b62f279-6b39-4c3e-9351-2e40a5673582,residential,East 15th Avenue,2022-06-28T04:26:18Z,103.2,-99.275853,26.907575,2,15TH ST; LINCOLN  ST,,True,True,2,7,2,2026-10-14T03:15:57Z
-zapata,named (control),467ba4cb-b063-48f5-99ad-6fce213067f3,trunk,Texas Vietnam Veterans Memorial Highway,2026-06-01T21:57:31Z,314.6,-99.418395,27.233602,1,,US0083,True,True,1,3,1,2026-10-14T03:16:05Z
-zapata,named (control),4a89a8c9-0a0a-4f89-a46d-c6bf0010a5c3,residential,Villarrel Avenue,2024-12-28T18:15:05Z,89.4,-99.257344,26.899264,2,MEDINA ST; VILLARREL  AVE,,True,True,2,6;7,2,2026-10-14T03:16:11Z
-zapata,named (control),59f2e294-2e39-4e50-a33c-72a40ba36e6c,trunk,Texas Vietnam Veterans Memorial Highway,2026-06-01T21:57:31Z,1257.4,-99.286849,26.922339,1,,US0083,True,True,1,3,1,2026-10-14T03:15:50Z
-zapata,named (control),5e0af282-77c8-457c-ac42-ab3949f60e49,residential,Victoria Lane,2016-06-18T12:26:56Z,242.9,-99.251908,26.855774,2,MONTERREY LN; VICTORIA LN,,True,True,2,5;7,2,2026-10-14T03:16:12Z
-zapata,named (control),637b224f-e90a-4493-aac2-acbfc15e19ec,residential,East 21st Avenue,2016-06-18T11:26:10Z,114.7,-99.277862,26.914629,2,21ST ST,US0083,True,True,1;2,3;7,2,2026-10-14T03:15:45Z
-zapata,named (control),7f262e50-4d5c-4e92-83a5-4edb40b67ecf,tertiary,Alamo Street,2025-08-15T17:38:08Z,159.3,-99.272246,26.921083,3,23RD AVE; ALAMO  ST,,True,True,2,5;7,2,2026-10-14T03:15:39Z
-zapata,named (control),87da408d-b5c2-4709-a0ec-62a56aed5605,primary,West 13th Avenue,2025-05-22T07:38:09Z,102.8,-99.263968,26.912468,2,1ST ST,SH0016,True,True,1;2,4;7,2,2026-10-14T03:15:49Z
-zapata,named (control),938fa04b-63ed-482b-a5f8-6fc457bf4623,residential,Catfish Circle,2016-06-18T15:28:42Z,39.5,-99.292254,26.870239,3,BEACON DR; JAB RD; LAKE SHORE DR,,True,True,2,7,1,2026-10-14T03:16:08Z
-zapata,named (control),97ccf8aa-159b-4823-a946-4e507c945885,trunk,Texas Vietnam Veterans Memorial Highway,2026-06-01T21:57:31Z,305.9,-99.422286,27.276425,1,,US0083,True,True,1,3,1,2026-10-14T03:15:38Z
-zapata,named (control),992ef073-0799-42e3-8473-271eaa751abe,residential,Falcon Lane,2016-06-18T12:26:56Z,72.5,-99.253238,26.858478,2,CUELLAR LN; FALCON LN,,True,True,2,5;7,2,2026-10-14T03:15:53Z
-zapata,named (control),9f0057a2-0a97-4cc8-bffd-6e55e1786735,residential,Ramireno Street,2015-11-17T17:08:49Z,110.4,-99.094826,26.63835,2,FOURTH ST; RAMIRENO ST,,True,True,2,7,1,2026-10-14T03:15:44Z
-zapata,named (control),a85989f1-c2b3-4742-a3e1-fdb0fdac599e,tertiary,Oak Street,2022-05-15T22:34:33Z,43.7,-99.271733,26.881636,3,AIRSTREAM DR; OAK ST; YELLOWSTONE DR,,True,True,2,5;7,2,2026-10-14T03:16:03Z
-zapata,named (control),aecab081-88e7-4fba-baab-398e079c42a7,residential,Houston Street,2023-04-21T04:17:27Z,111.5,-99.443046,27.043627,2,GRANT AVE; HOUSTON ST,,True,True,2,7,1,2026-10-14T03:15:58Z
-zapata,named (control),b1270f84-4105-4056-b149-f5a6fa5df4db,residential,8th Avenue,2017-09-16T19:33:40Z,112.4,-99.267984,26.902817,3,8TH AVE,US0083,True,True,1;2,3;7,2,2026-10-14T03:16:01Z
-zapata,named (control),b8e21a28-827c-4260-a293-81112f9b77c0,tertiary,10th Street,2023-04-16T18:30:14Z,61.8,-99.257895,26.919272,2,10TH ST; ROMA ST,,True,True,2,7,2,2026-10-14T03:15:52Z
-zapata,named (control),c09e5424-e8b8-4ece-a3f4-93a3d9a87ee0,residential,Salvador Lane,2016-06-18T12:26:54Z,227.2,-99.254663,26.851372,3,S SIESTA  ST; SALVADORE LN,,True,True,2,7,2,2026-10-14T03:15:43Z
-zapata,named (control),d5d9fabc-5f0f-47b1-86b8-88b0cb590466,residential,East 15th Avenue,2022-06-28T04:26:18Z,104.5,-99.274575,26.908405,1,15TH ST,,True,True,2,7,2,2026-10-14T03:15:55Z
-zapata,named (control),d7d2d81b-e8e5-4e43-9daf-c74e0193f470,residential,Zapata Street,2019-11-17T19:56:36Z,148.4,-99.120742,26.779338,2,LOPEÑO AVE; ZAPATA ST,,True,True,2,7,1,2026-10-14T03:16:07Z
-zapata,named (control),da1422be-8b91-458d-986b-a3506b65c0ac,tertiary,West 1st Avenue,2023-04-23T05:38:10Z,184.7,-99.262534,26.896746,2,SINGER ST; W 1ST  AVE,,True,True,2,5;7,2,2026-10-14T03:15:47Z
-zapata,named (control),e0eac9de-1f9e-4905-b72f-c99eeca6e09b,residential,16th Street,2016-06-18T11:26:05Z,61.7,-99.252097,26.921655,3,16TH ST; MIER ST,,True,True,2,7,2,2026-10-14T03:16:09Z
-zapata,named (control),f324bc24-722e-48c9-bde1-4bfb8de6cfba,residential,Ledge Lane,2016-06-18T12:26:39Z,97.5,-99.25624,26.870712,3,LEDGE LN; SUNSET DR,,True,True,2,7,2,2026-10-14T03:15:59Z
-zapata,named (control),f603627a-c636-4b45-aeb0-e2b9eda90501,residential,Elm Street,2016-06-18T11:26:10Z,125.3,-99.277084,26.92071,2,25TH AVE; ELM ST,,True,True,2,7,2,2026-10-14T03:15:46Z
-zapata,named (control),fe4b1bdf-544b-4eaa-aecf-16ff70854c88,residential,Crow Avenue,2016-06-18T15:28:43Z,106.9,-99.284328,26.871172,2,CROW AVE; EAGLE ST,,True,True,2,7,1,2026-10-14T03:15:51Z
-zapata,unnamed,015db873-be7b-4fc3-aad8-526f9e9d5e48,residential,,2026-04-22T22:59:32Z,87.6,-99.383443,27.006102,1,,US0083,True,True,1,3,1,2026-10-14T03:15:08Z
-zapata,unnamed,0fd25b1d-45fa-481b-9bab-3e5f0efaa970,residential,,2023-04-14T11:49:21Z,1344.0,-99.017624,27.247063,0,,,False,False,,,,2026-10-14T03:15:33Z
-zapata,unnamed,1682fdd3-20b8-4d8a-971e-42c0be18174e,residential,,2014-04-23T21:54:19Z,534.2,-98.968784,27.094475,0,,,False,False,,,,2026-10-14T03:15:19Z
-zapata,unnamed,2d2aef57-d6ac-4194-92b1-1fb760958f50,residential,,2009-09-07T17:55:41Z,2028.2,-99.100279,26.889324,0,,,False,False,,,,2026-10-14T03:15:28Z
-zapata,unnamed,32b8f703-495a-4b2c-9c82-ef614d94cc77,residential,,2009-09-07T17:55:07Z,314.4,-99.312456,27.001685,0,,,False,False,,,,2026-10-14T03:15:23Z
-zapata,unnamed,3f5e93a4-7bff-47b2-947a-fc8d18eb891e,residential,,2009-09-07T17:56:44Z,652.9,-99.005619,26.796269,0,,,False,False,,,,2026-10-14T03:15:37Z
-zapata,unnamed,43426e78-a384-41bc-880a-147f7f37b582,residential,,2009-09-07T17:47:00Z,974.8,-99.388837,27.155974,0,,,False,False,,,,2026-10-14T03:15:30Z
-zapata,unnamed,44a8ab39-aa30-4861-8808-70fc41156b91,residential,,2009-09-07T17:34:29Z,168.5,-99.183311,26.876507,0,,,False,False,,,,2026-10-14T03:15:12Z
-zapata,unnamed,56a462bf-54a5-4ee9-bc21-8317618ecd9a,residential,,2009-09-07T17:35:41Z,310.9,-99.327365,27.104398,0,,,False,False,,,,2026-10-14T03:15:03Z
-zapata,unnamed,594e29b0-7f33-476c-82cd-b123e2d87f46,unclassified,,2026-04-23T13:37:02Z,1386.4,-99.420648,27.037481,1,COUNTY ROAD 1304,,True,True,2,7,1,2026-10-14T03:15:17Z
-zapata,unnamed,5ec7fe8f-387c-4078-ace8-ae107d710e6b,residential,,2016-06-18T15:39:31Z,139.0,-99.275472,26.953628,0,,,False,False,,,,2026-10-14T03:15:06Z
-zapata,unnamed,67c65214-c062-4300-8a0a-478f253220e8,residential,,2023-05-17T04:28:53Z,1950.7,-99.429635,27.23265,0,,,False,False,,,,2026-10-14T03:15:35Z
-zapata,unnamed,75b2ab1e-f157-4619-88f6-0e9675d0f0d8,unclassified,,2022-04-25T06:34:05Z,1907.4,-99.013965,26.990458,0,,,False,False,,,,2026-10-14T03:15:09Z
-zapata,unnamed,785c69e2-0381-4acb-9cb7-be0582fc0384,residential,,2009-09-07T17:50:25Z,1623.8,-99.225901,27.215287,0,,,False,False,,,,2026-10-14T03:15:13Z
-zapata,unnamed,79e8363d-4948-441b-93ab-267cf657b750,residential,,2009-09-07T17:35:34Z,855.3,-99.039417,26.850079,0,,,False,False,,,,2026-10-14T03:15:16Z
-zapata,unnamed,7c09e761-0b45-42d4-b45e-34e8c2997de2,residential,,2026-05-20T18:54:24Z,2519.5,-99.038627,27.070556,0,,,False,False,,,,2026-10-14T03:15:26Z
-zapata,unnamed,82c64d13-4029-4e93-ad6c-1fc1e0b587cb,residential,,2009-11-18T01:07:32Z,1494.3,-99.161211,27.216485,0,,,False,False,,,,2026-10-14T03:15:29Z
-zapata,unnamed,89b15546-269b-44cc-b9d6-15c9704f2068,residential,,2009-09-07T17:32:44Z,142.4,-99.374025,27.140175,0,,,False,False,,,,2026-10-14T03:15:22Z
-zapata,unnamed,933b39df-9f3b-438d-a3d1-f4bccad926a1,residential,,2009-09-07T17:55:11Z,841.5,-99.068882,27.10624,0,,,False,False,,,,2026-10-14T03:15:05Z
-zapata,unnamed,a0a4699d-ec3d-4850-8519-e80a0ad4ae13,residential,,2009-09-07T17:35:06Z,2436.9,-99.09472,26.948309,0,,,False,False,,,,2026-10-14T03:15:18Z
-zapata,unnamed,abb64ecf-1da9-42ac-8128-53022bdf8d09,unclassified,,2022-04-21T14:17:51Z,72.6,-99.206977,26.8924,0,,,False,False,,,,2026-10-14T03:15:04Z
-zapata,unnamed,ad29253a-7497-4a88-843a-7c781de3fd26,residential,,2025-01-04T14:32:44Z,7234.2,-99.16189,27.090184,0,,,False,False,,,,2026-10-14T03:15:31Z
-zapata,unnamed,af766506-9ea4-430a-953e-eb3c7e5a94a0,residential,,2025-05-19T05:55:04Z,496.1,-99.335407,26.935143,0,,,False,False,,,,2026-10-14T03:15:10Z
-zapata,unnamed,b022bc12-7e42-4d23-b0fe-2319b8e8fcef,residential,,2009-09-07T17:37:14Z,175.2,-99.050332,26.86446,0,,,False,False,,,,2026-10-14T03:15:25Z
-zapata,unnamed,b21cde11-1175-4558-8a2e-58c790fac9e5,residential,,2026-05-20T19:35:40Z,503.1,-99.059093,27.115115,0,,,False,False,,,,2026-10-14T03:15:34Z
-zapata,unnamed,c4a6d5fa-a5ee-461b-a6be-8133a3278991,unclassified,,2022-04-25T06:26:28Z,69.0,-99.032463,26.972381,0,,,False,False,,,,2026-10-14T03:15:20Z
-zapata,unnamed,c74abe5d-bc9c-4b36-ada6-bbc39d4cc85a,residential,,2009-11-18T01:07:32Z,699.6,-99.173736,27.158835,0,,,False,False,,,,2026-10-14T03:15:27Z
-zapata,unnamed,d339aa6e-9757-4e77-adae-16da07c05dfa,residential,,2022-04-25T06:20:15Z,2235.4,-98.982602,26.974843,0,,,False,False,,,,2026-10-14T03:15:15Z
-zapata,unnamed,d417e98a-0a47-48b7-a381-d891e475bbe6,unclassified,,2022-04-25T06:37:14Z,886.9,-99.010273,26.952208,0,,,False,False,,,,2026-10-14T03:15:36Z
-zapata,unnamed,f7c29477-1aff-4f5e-91eb-b41332e38e7f,residential,,2011-11-19T08:32:46Z,572.2,-99.010607,26.865686,1,,FM2687,True,True,1,5,1,2026-10-14T03:15:11Z
-zavala,named (control),07d91679-5b26-441a-91a5-19c7f5e1ed40,residential,East Maverick Street,2025-06-06T12:25:49Z,327.3,-99.825338,28.682545,2,4TH ST; E MAVERICK ST,,True,True,4,6;7,2,2026-10-14T03:19:57Z
-zavala,named (control),0b4fea61-d305-44c2-a8f0-c1dcb5e8b632,residential,North 6th Avenue,2016-02-23T03:16:45Z,258.3,-99.828276,28.6939,2,ALAMO ST; N 6TH AVE,,True,True,4,7,2,2026-10-14T03:19:42Z
-zavala,named (control),0bebfe6c-1ef0-4a8f-a205-6d689a178d01,residential,Bates Road,2021-05-28T10:14:14Z,34.2,-99.618095,28.961259,1,PLAZA SQ,,True,True,2,7,1,2026-10-14T03:19:44Z
-zavala,named (control),17621834-ad2e-447f-91a1-3a4f6f3f946d,residential,Las Palmas Avenue,2010-04-07T13:53:50Z,225.4,-99.804475,28.65889,1,HUERTA LOOP,,True,True,2,7,2,2026-10-14T03:20:15Z
-zavala,named (control),1e69f6d2-4b60-4147-9dda-0d7c1e48c45d,residential,West Vanham Street,2021-02-28T18:18:58Z,103.0,-99.850013,28.950944,2,VALDEZ ST,US0083,True,True,1;2,3;7,1,2026-10-14T03:19:48Z
-zavala,named (control),251d6ef3-537f-4cb7-8878-5809fd51ac66,residential,Allende Street,2010-04-07T13:53:57Z,89.1,-99.816035,28.676185,2,ALLENDE ST; HIDALGO ST,,True,True,4,7,2,2026-10-14T03:19:43Z
-zavala,named (control),2e7e4958-5c16-4229-85e2-f28987542556,trunk,West US Highway 57,2025-05-22T07:38:32Z,163.0,-99.850075,28.941375,6,,US0057; US0083,True,True,1,3,1,2026-10-14T03:19:49Z
-zavala,named (control),3aa7facd-8bd5-4bc7-a65e-1389b38990b8,residential,Zavala Road,2010-04-07T13:53:37Z,149.3,-99.618651,28.960683,2,W BATES ST; ZAVALA,,True,True,2,7,1,2026-10-14T03:20:08Z
-zavala,named (control),3ca9faf1-e5f9-4433-bb8d-af8564740da7,residential,North Withers Avenue,2025-05-18T13:54:48Z,133.6,-99.84832,28.948276,2,MELENDREZ; WITHERS ST,,True,True,2,7,1,2026-10-14T03:19:56Z
-zavala,named (control),44cf5f23-ae7a-4e4b-bb00-f2153ca43604,residential,Tortuga Rch Road,2010-04-07T13:54:23Z,830.8,-99.715292,28.658761,1,MILLER RD,,True,True,2,7,1,2026-10-14T03:19:45Z
-zavala,named (control),607fa233-d132-4853-a94c-fa4e5a5c9134,residential,East Nueces Street,2023-12-07T01:01:50Z,112.4,-99.828595,28.680528,1,E NUECES ST,,True,True,4,7,2,2026-10-14T03:20:01Z
-zavala,named (control),7245ab9a-b45e-41a4-8eec-a4bd6d125a30,residential,Diaz Street,2010-04-07T13:53:48Z,95.7,-99.818112,28.679423,2,LAREDO ST; S DIAZ ST,,True,True,4,7,2,2026-10-14T03:19:53Z
-zavala,named (control),7bb79433-59af-4465-9c59-9f00bd075058,residential,South Withers Avenue,2025-05-18T13:54:48Z,132.3,-99.844589,28.939339,2,WALTERS ST; WITHERS ST,,True,True,2,7,1,2026-10-14T03:20:04Z
-zavala,named (control),86a2d7d9-eb19-49f0-8c70-ca5e500e794e,residential,South Withers Avenue,2025-05-18T13:54:48Z,131.2,-99.844115,28.938232,3,DAVID ST; WITHERS ST,,True,True,2,7,1,2026-10-14T03:20:13Z
-zavala,named (control),8ed80a00-2874-46fe-a05c-4a7865daffbc,residential,County Road 4002,2009-11-28T03:29:56Z,1151.9,-99.865143,28.736155,0,,,False,False,,,,2026-10-14T03:19:55Z
-zavala,named (control),8f070365-0aba-4082-aa67-6044b4c39b92,residential,West Walters Street,2025-05-18T13:54:48Z,131.4,-99.845861,28.93895,2,W EDITH  ST; WALTERS ST,,True,True,2,7,1,2026-10-14T03:20:14Z
-zavala,named (control),985cdeb6-e12e-428e-aa42-f6c75bda01f5,trunk,West US Highway 57,2025-06-10T12:50:31Z,349.4,-100.101941,28.929327,1,,US0057,True,True,1,3,1,2026-10-14T03:19:50Z
-zavala,named (control),9861134b-8da6-4a4e-a31c-7ca7161c8796,residential,Loma Vista Road,2010-04-07T13:54:46Z,353.9,-99.613883,28.949319,1,LOMA VISTA RD,,True,True,2,7,1,2026-10-14T03:19:59Z
-zavala,named (control),a4f722be-87c7-4e75-93a7-83ee8772ff9f,residential,West Vanham Street,2021-02-28T18:18:58Z,136.3,-99.853367,28.949867,2,DUTTON ST; VALDEZ ST,,True,True,2,7,1,2026-10-14T03:20:12Z
-zavala,named (control),ac8f196f-21a8-45ce-9f6a-2f15f7cae313,residential,East Uvalde Street,2023-12-07T01:01:50Z,20.4,-99.818347,28.682648,1,E UVALDE ST,,True,True,4,7,2,2026-10-14T03:20:03Z
-zavala,named (control),add478e7-9535-46f3-92ea-e40e3145f46f,residential,Aberhoff Landing Road,2021-03-15T19:17:19Z,28.5,-99.799355,28.80466,2,ABERHOFF LANDING RD; PIGGY BOAT LN,,True,True,2,7,1,2026-10-14T03:19:40Z
-zavala,named (control),b419a501-eee2-4c6d-9bb9-08b22f11ed82,trunk,Texas Vietnam Veterans Memorial Highway,2026-06-01T21:57:31Z,1367.0,-99.851401,28.794698,1,,US0083,True,True,1,3,1,2026-10-14T03:20:02Z
-zavala,named (control),b4afacb7-aa21-4742-b1f9-26a9ab5e9951,residential,North 4th Avenue,2016-02-23T03:16:44Z,106.9,-99.829248,28.690541,2,4TH ST; E REFUGIO ST,,True,True,4,6;7,2,2026-10-14T03:19:46Z
-zavala,named (control),ba34c1b8-a4d4-4b2c-bb98-844154e89171,residential,South Withers Avenue,2025-05-18T13:54:48Z,133.3,-99.845521,28.94156,2,RUE ST; WITHERS ST,,True,True,2,7,1,2026-10-14T03:19:58Z
-zavala,named (control),c0a69878-85c9-4d6a-a253-fc1a263700e6,residential,County Road 1005B,2009-11-28T03:59:29Z,613.6,-99.624453,28.980662,1,UPPER DITCH RD,,True,True,2,7,1,2026-10-14T03:20:09Z
-zavala,named (control),c76acdb2-d1c2-4b2f-9890-ae4bc8eff1ac,secondary,Big Wells Highway,2025-06-02T06:16:02Z,1451.0,-99.78581,28.65464,1,,FM0065,True,True,1,4,1,2026-10-14T03:19:52Z
-zavala,named (control),d11c38cc-aace-45e7-9bd2-8c8450606f99,residential,Northern Gas Road,2010-04-07T13:54:38Z,626.6,-99.765167,28.79487,1,NORTHERN GAS RD,,True,True,2,7,1,2026-10-14T03:19:51Z
-zavala,named (control),e138f0fd-b765-409c-9756-543f7c13ab0d,trunk,Texas Vietnam Veterans Memorial Highway,2026-06-01T21:57:31Z,1217.9,-99.839984,29.072792,1,,US0083,True,True,1,3,1,2026-10-14T03:20:07Z
-zavala,named (control),ee02d86f-fd5e-41b4-934d-50e458713974,residential,Fresno Street,2010-04-07T13:54:18Z,146.1,-99.805275,28.659898,1,CARRANZA ST,,True,True,2,7,2,2026-10-14T03:20:11Z
-zavala,named (control),f0e29961-79d1-43f6-8ebc-23345413fd2c,residential,North Parish Avenue,2025-05-18T13:54:48Z,131.9,-99.840931,28.951276,1,PARISH ST,,True,True,2,7,1,2026-10-14T03:20:06Z
-zavala,unnamed,04c888d6-ef17-4702-9104-fdfdb6aa467d,residential,,2009-11-28T03:22:26Z,365.7,-99.810096,29.02796,0,,,False,False,,,,2026-10-14T03:19:10Z
-zavala,unnamed,0d2d2ed8-3689-42ae-a2ab-512d125b8897,residential,,2009-11-28T03:18:26Z,680.4,-100.072455,28.775337,0,,,False,False,,,,2026-10-14T03:19:36Z
-zavala,unnamed,1193a1a5-5deb-4302-9448-068328a735e9,residential,,2009-11-28T03:50:30Z,1528.0,-99.903394,29.08318,0,,,False,False,,,,2026-10-14T03:19:15Z
-zavala,unnamed,13ffe352-ee68-48ac-bc15-af472ff18fdd,residential,,2009-11-28T03:26:31Z,559.9,-100.046767,28.967602,0,,,False,False,,,,2026-10-14T03:19:14Z
-zavala,unnamed,1b4d4d05-f696-48ce-b8bf-4ddc8270c532,residential,,2009-11-28T03:31:22Z,2781.2,-99.572756,29.078421,0,,,False,False,,,,2026-10-14T03:19:35Z
-zavala,unnamed,1c43f6a1-cf0d-4a3e-b96c-0fdd4dc9ea0b,residential,,2009-11-28T03:18:23Z,465.4,-99.419573,29.076266,0,,,False,False,,,,2026-10-14T03:19:27Z
-zavala,unnamed,1d360642-7eec-413c-b680-7a95cec6c397,residential,,2009-11-28T03:53:51Z,779.4,-100.020208,28.74409,0,,,False,False,,,,2026-10-14T03:19:32Z
-zavala,unnamed,28225c58-88f5-41e1-821a-7e2bb431cad7,residential,,2009-11-28T03:52:39Z,1183.7,-99.918033,28.956089,0,,,False,False,,,,2026-10-14T03:19:24Z
-zavala,unnamed,58e23c75-998e-4226-abd0-8df96b92eca0,residential,,2009-11-28T03:38:38Z,79.1,-100.0197,28.711499,0,,,False,False,,,,2026-10-14T03:19:38Z
-zavala,unnamed,5c0539d0-42e5-47b1-8dbd-48efafe07868,residential,,2009-11-28T03:20:36Z,57.9,-99.937102,28.891866,0,,,False,False,,,,2026-10-14T03:19:18Z
-zavala,unnamed,6a352607-1dd0-4bc3-bd88-0c9e705ac91b,residential,,2020-11-25T07:58:05Z,1406.1,-99.707827,28.711911,0,,,False,False,,,,2026-10-14T03:19:13Z
-zavala,unnamed,7025eeb8-f3aa-4d24-9fb4-7f5ba53d99ff,residential,,2009-11-28T03:26:25Z,104.3,-99.897898,28.882254,0,,,False,False,,,,2026-10-14T03:19:07Z
-zavala,unnamed,7aa803e0-05c2-4392-b9f9-18513e26f068,residential,,2009-11-28T03:43:31Z,556.0,-99.963367,28.734344,0,,,False,False,,,,2026-10-14T03:19:34Z
-zavala,unnamed,7d491c3a-db61-4360-a9b2-e02af8e63801,residential,,2009-11-28T03:45:04Z,2294.6,-99.426823,29.064708,0,,,False,False,,,,2026-10-14T03:19:12Z
-zavala,unnamed,8289ee20-9d68-4b70-8af5-04c515320137,residential,,2009-11-28T03:44:29Z,832.0,-100.024963,29.065843,0,,,False,False,,,,2026-10-14T03:19:20Z
-zavala,unnamed,84c8a765-ce5b-4e12-a47b-7e1641f4af3d,residential,,2025-01-09T16:05:19Z,810.8,-99.880646,28.66662,0,,,False,False,,,,2026-10-14T03:19:08Z
-zavala,unnamed,8a02a18a-e8dc-4271-9599-1972f475098e,residential,,2009-11-28T03:32:30Z,1958.3,-99.903459,29.015049,0,,,False,False,,,,2026-10-14T03:19:09Z
-zavala,unnamed,8b77c4ce-315e-4e10-8f8f-2ff43c910c77,residential,,2009-11-28T03:41:42Z,1981.9,-99.77249,28.890935,0,,,False,False,,,,2026-10-14T03:19:33Z
-zavala,unnamed,90f2ef29-2f89-48c5-bd9a-07c9a31ba22a,residential,,2009-11-28T03:52:24Z,624.5,-99.867531,28.959027,1,,FM1986,True,True,1,6,1,2026-10-14T03:19:04Z
-zavala,unnamed,9aa58226-ea75-4a14-ba0a-ebdc0c8b84e5,secondary,,2025-06-02T06:13:39Z,2278.4,-100.084629,29.055788,1,,FM0481,True,True,1,5,1,2026-10-14T03:19:28Z
-zavala,unnamed,9ff92f44-81dd-4e51-bcb4-ab1d07091aec,residential,,2020-11-16T09:40:01Z,5013.5,-99.805492,28.827972,0,,,False,False,,,,2026-10-14T03:19:21Z
-zavala,unnamed,a58db61a-4ba4-4efa-9a2f-30c7cf1e2534,residential,,2009-11-28T03:47:07Z,1075.9,-99.558316,28.950043,0,,,False,False,,,,2026-10-14T03:19:26Z
-zavala,unnamed,abaea92c-9c9d-41fa-974d-b3c992a078b9,residential,,2009-11-28T03:20:01Z,259.8,-100.057382,28.687303,0,,,False,False,,,,2026-10-14T03:19:22Z
-zavala,unnamed,b38b8659-c9c0-4526-a2e9-c05ed0322e0f,residential,,2009-11-28T03:32:10Z,835.2,-99.785778,29.074102,0,,,False,False,,,,2026-10-14T03:19:17Z
-zavala,unnamed,b47e9ba6-ab63-42c7-92b3-4cb1d2bf8f58,residential,,2009-11-28T03:31:15Z,961.9,-100.106572,28.922169,0,,,False,False,,,,2026-10-14T03:19:30Z
-zavala,unnamed,bb673bb3-6a35-47c5-85dc-3e9233b218cc,residential,,2009-11-28T03:20:51Z,530.6,-99.872196,28.949247,1,COUNTY ROAD 162,,True,True,2,7,1,2026-10-14T03:19:16Z
-zavala,unnamed,c785934f-a149-4cc5-89ee-1e10f60d7720,residential,,2009-11-28T03:28:24Z,324.0,-99.822038,28.696848,1,N 7TH AVE,,True,True,4,7,2,2026-10-14T03:19:39Z
-zavala,unnamed,ca9ddeba-ea3d-4894-ab0c-8c50755866da,residential,,2009-11-28T03:49:01Z,699.3,-99.559329,28.991817,0,,,False,False,,,,2026-10-14T03:19:23Z
-zavala,unnamed,e1339e16-99d3-44c1-87ec-53c2d4ba172f,residential,,2009-11-28T03:43:33Z,190.7,-99.620735,28.983298,0,,,False,False,,,,2026-10-14T03:19:29Z
-zavala,unnamed,e40761a9-ffae-4ea1-ba6a-2a037344159b,residential,,2009-11-28T03:20:36Z,1969.1,-99.912278,28.910566,0,,,False,False,,,,2026-10-14T03:19:06Z
+county,sample,id,class,import_era,overture_last_update,len_m,lon,lat,txdot_features,in_inventory,has_txdot_name,retrieved_utc,response_sha256
+brooks,named (control),07e52781-382d-448e-868a-1a624d9734b7,tertiary,False,2026-07-30T12:32:01Z,9.6,-98.139848,27.232612,3,True,True,2026-10-14T03:17:04Z,7e7f9a1b070fa45c130d3e5a017b2bcb1ada5a365e502138eb40fe17eede51bf
+brooks,named (control),0b91baad-2973-45a3-9cd4-597a68fe6ba6,residential,True,2010-04-07T08:37:19Z,1951.0,-98.333301,27.125322,0,False,False,2026-10-14T03:16:54Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,named (control),16f06823-b2cf-4fe8-9b60-1fc2787ff9dc,residential,False,2025-02-28T17:44:31Z,125.5,-98.145746,27.223977,2,True,True,2026-10-14T03:16:55Z,23a033c81af1e5ac5e9693aca392df5cf57d5e1bf9325729ef865d53ee2c4f3f
+brooks,named (control),21bd8de7-d6ea-4517-b867-79251527d493,residential,False,2021-08-28T14:43:20Z,162.5,-98.137021,27.227918,1,True,True,2026-10-14T03:17:17Z,d999e11065b6814b3cd4a2edd87a44975da8d7daf15c83290c519cedbe4f6747
+brooks,named (control),2eb22055-6b74-4995-afea-96ac32fc1e72,residential,False,2025-04-16T16:52:48Z,73.1,-98.325867,27.158026,1,True,True,2026-10-14T03:16:52Z,0d8177d4f21a00d85fab1b561c0f67ffa91fd948ee669d92c2e9efc74bd60af2
+brooks,named (control),365d4fc8-1d5e-4dec-bd5a-e82c2c2b4329,residential,False,2025-01-08T01:55:08Z,28.1,-98.309539,26.917272,0,False,False,2026-10-14T03:17:11Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,named (control),3d4c7f7f-4412-45f3-b5b0-e413d853e8cf,unclassified,False,2025-01-08T01:55:09Z,324.7,-98.374304,27.113945,2,True,True,2026-10-14T03:17:00Z,d512ff6a417ac7bf3942fea5ba96de203bde42183ea31d9b7987147edac92057
+brooks,named (control),3e9eb78c-8918-437c-98b2-09a2c99c2d61,residential,False,2021-08-28T14:43:20Z,71.6,-98.154048,27.226727,2,True,True,2026-10-14T03:17:09Z,2bc7c7c63b2d83f665b63d5b2a390b8333465be51a1adc893a18c61ac8792010
+brooks,named (control),3f471277-04a6-4578-8e00-095d8c341336,residential,False,2025-02-28T17:44:31Z,140.4,-98.146986,27.223088,2,True,True,2026-10-14T03:16:53Z,fbd29ba99232acc44c892cf52c7e4a3d330afbdca00cf0db456bbcd110cd898f
+brooks,named (control),4c505807-cf6b-4f19-a701-401776ac52d5,residential,False,2021-08-28T14:43:20Z,84.9,-98.146518,27.230741,2,True,True,2026-10-14T03:17:15Z,ea073501104141b3a4e49f0a1adb04af5cf5dc2c29be89e7b728bf26b6cf4289
+brooks,named (control),603c5a75-77fd-48fb-ab14-ac7adaa4610f,tertiary,False,2026-07-30T12:32:01Z,373.2,-98.13826,27.241026,2,True,True,2026-10-14T03:17:18Z,b66b28a0cba58ea63c06226aec7d961b499cebd69cbd6d7784cd5b76554674f1
+brooks,named (control),716aa411-dd22-41df-bee8-d50d4b3cf330,residential,False,2025-01-08T01:55:09Z,1327.8,-98.088501,27.197878,2,True,True,2026-10-14T03:17:07Z,d9a81ecacfb925da8d8c00b97504ad2f4d01639a77fdcc0efaab349f83b5328f
+brooks,named (control),73887246-1fba-4399-901b-a12eaae002e9,residential,False,2021-08-28T14:43:20Z,107.1,-98.150785,27.227906,1,True,True,2026-10-14T03:17:19Z,5552cede91a98b52ed938e86ec1c5ba003d1d0c2b9dafef64b8f8788ecf83b32
+brooks,named (control),91a38bb2-2d56-4317-87a4-178f1c5f49ea,primary,False,2025-12-03T21:40:18Z,31.8,-98.142805,27.22658,3,True,True,2026-10-14T03:17:02Z,ff54e8d2463fcf87b4d925c6d9daf05ab6f0206e47192bc76fead9f4d846f6ad
+brooks,named (control),96d51f46-68a5-475f-8cba-e622b107476b,residential,False,2021-08-28T14:43:20Z,132.2,-98.140431,27.239424,2,True,True,2026-10-14T03:16:59Z,119f3a439db736d27a823c379b460d709b1f8b326304ab7fcb8c0c6f68aad70b
+brooks,named (control),97eaa684-aee2-47f8-8c93-c815822b4607,residential,False,2016-10-17T10:22:24Z,70.1,-98.141399,27.225794,4,True,True,2026-10-14T03:16:56Z,5365e771ee5af0754a2ecd8b3fb37eea1ba257d0df89cf52ba1b61d4c5ce76a7
+brooks,named (control),a4711d1c-d0ef-448e-ab78-2e00cae52e5a,unclassified,False,2025-04-16T19:36:04Z,785.2,-98.374304,27.142601,1,True,True,2026-10-14T03:17:16Z,0d8177d4f21a00d85fab1b561c0f67ffa91fd948ee669d92c2e9efc74bd60af2
+brooks,named (control),a7bb8b85-0e02-4bad-b2e3-f3a8005ef9d8,residential,False,2021-12-01T00:52:42Z,201.7,-98.148726,27.217875,1,True,True,2026-10-14T03:17:06Z,0cc014fec395eb873bb3b6296bcf262388a251aa19fb82da37bdc1382f3b9937
+brooks,named (control),aeda9a2f-526b-4314-a238-9fb8f65c5590,residential,False,2025-01-08T01:55:08Z,2452.6,-98.219628,26.904955,1,True,True,2026-10-14T03:17:01Z,583f2b6278f455ace3049e5bf36bb55d7d186164bd1d591be23152c3193c94b5
+brooks,named (control),b042ceb0-37cd-4a46-ae1e-bb45fcb206f3,residential,False,2021-08-28T14:43:20Z,110.5,-98.138667,27.228589,1,True,True,2026-10-14T03:17:08Z,df711e3c42271318568ca4e229c5a089439679840f04edbe4aae1c5604fb2048
+brooks,named (control),b152d9d0-f29a-4619-be62-154d48086d19,tertiary,False,2026-07-30T12:32:01Z,1630.5,-98.174396,27.192905,1,True,True,2026-10-14T03:17:12Z,b82ca497bf5eecae1cf67ffdf3479dc7b40716e1558956d443c4e4795470ed0c
+brooks,named (control),ba55fe4c-e34f-4b8e-b7dd-edae0d8cafc8,residential,False,2021-12-01T02:10:20Z,160.9,-98.138924,27.237587,5,True,True,2026-10-14T03:16:58Z,9a1a53256c297ca589f428b7bde8d5a9284e9204b8f95d19535876381b4e1495
+brooks,named (control),bfcd07d8-d992-4d89-a452-3e7fae3f03d5,residential,False,2025-01-08T01:55:10Z,47.5,-98.101003,26.934394,1,True,True,2026-10-14T03:16:51Z,657bef9182a123470e442dde0ffd8e217193af38e3243760598bad66b9560e20
+brooks,named (control),c1a11d44-e0c4-4828-bd18-12d3f02b2195,tertiary,False,2026-07-30T12:32:01Z,220.3,-98.140333,27.22816,6,True,True,2026-10-14T03:17:03Z,83dbb2d5182efdf7b75b2bf404cd07cc51a04391c144d438a09b02374f8b7dc4
+brooks,named (control),c36eff37-598c-4292-8836-96c608654d28,tertiary,False,2026-07-30T12:32:01Z,166.5,-98.140295,27.235198,4,True,True,2026-10-14T03:17:20Z,7784bdb7332e93735e04de95598b2e274fe1d08bac460f0230772eb543c26049
+brooks,named (control),d1c95a8d-8527-4026-9e18-c8d71546fe3b,residential,False,2025-01-08T01:55:10Z,802.6,-98.072671,27.219878,2,True,True,2026-10-14T03:17:10Z,b41cafb13badac25ea9c42ce6ad50fc905fff3c90a7825052c68c6db61fbf3d4
+brooks,named (control),d5cfe642-a9f1-4875-badd-18721265f5bb,residential,False,2025-04-16T18:31:03Z,159.8,-98.150927,27.222513,1,True,True,2026-10-14T03:17:22Z,085f2ff8b52a59e1f72c43380c480b4437953d3fb27250087fbc9c80126c5f9d
+brooks,named (control),d8cafcb1-16b6-4f88-9507-faaab49b66d2,residential,False,2017-03-22T03:20:07Z,99.2,-98.141815,27.220536,3,True,True,2026-10-14T03:16:49Z,3a5fa471228b96e92307900500b4b160fb5dc9c605cefbc8cd82eb782ad21639
+brooks,named (control),e272a082-1f04-42dd-86c4-52af15e73cec,residential,False,2025-02-28T17:44:31Z,109.7,-98.145946,27.222503,1,True,True,2026-10-14T03:17:14Z,23c6f62dca7c48d6706b3578f4043abde22eed1a262e6b63d4cfaecc74ce0edf
+brooks,named (control),f9ba1eff-98e6-4575-819d-654f5a6db871,residential,False,2015-02-26T12:17:41Z,124.9,-98.147582,27.231772,2,True,True,2026-10-14T03:16:50Z,9e68cf3289e6dd96f8c349a01569698043319de932c614009cde74d3254911ac
+brooks,unnamed,0c3e2c76-22ab-40cf-8a00-0a8072248591,residential,True,2009-10-31T15:20:37Z,315.6,-98.126983,27.149918,0,False,False,2026-10-14T03:16:31Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,15a47fdf-e32c-4a86-901c-f524f3040be0,residential,True,2009-10-31T15:33:06Z,1042.4,-98.14108,27.087298,0,False,False,2026-10-14T03:16:47Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,1a1fbd93-d4b6-4ba6-94d8-b7c450cd0f37,residential,True,2009-10-31T15:40:59Z,781.6,-98.280403,26.999087,0,False,False,2026-10-14T03:16:28Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,22049325-c7da-4a8f-9f04-eb32477e81d4,residential,True,2009-10-31T15:37:30Z,1716.5,-98.343486,27.015343,0,False,False,2026-10-14T03:16:26Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,277a0286-3ef4-4eee-8b07-ffd9e93d3ae4,residential,True,2009-10-31T15:35:39Z,4413.1,-98.434994,27.197099,0,False,False,2026-10-14T03:16:32Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,2d268a95-8e07-434a-b363-cd94e28fe733,residential,False,2022-05-25T16:18:18Z,2455.8,-98.094901,26.838107,0,False,False,2026-10-14T03:16:24Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,2ebbee62-cd51-4493-8cf9-b5fc49e96ffd,residential,True,2009-10-31T15:14:15Z,56.2,-98.355262,27.151345,0,False,False,2026-10-14T03:16:13Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,2f563d94-2d8f-4c85-b8ef-4bdf04b3b1fb,residential,False,2025-04-16T18:31:03Z,2487.7,-98.432739,27.154079,0,False,False,2026-10-14T03:16:22Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,31d14ab0-ef7f-4a48-ad98-a67ca87b3ff8,residential,False,2026-05-21T00:08:25Z,713.4,-98.217756,27.084459,0,False,False,2026-10-14T03:16:19Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,34006547-b087-4369-92ce-f0aa551c390d,residential,False,2015-02-26T14:49:15Z,185.5,-98.082439,27.228511,0,False,False,2026-10-14T03:16:44Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,3889025a-dd22-4216-b3a7-0b37f8a8c85e,residential,True,2009-10-31T15:19:03Z,1055.1,-98.267491,26.834416,0,False,False,2026-10-14T03:16:27Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,39d7686c-2716-452b-8c82-bc5704903a00,residential,True,2009-10-31T15:17:56Z,78.7,-97.9928,27.128967,0,False,False,2026-10-14T03:16:39Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,3b816daf-2359-42f6-b065-99b51cade1e6,residential,True,2009-10-31T15:18:43Z,2175.9,-98.321598,27.05761,0,False,False,2026-10-14T03:16:14Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,3dc8f1ec-a66a-41a0-80fd-54476407132d,residential,False,2020-06-27T16:55:00Z,1389.7,-98.166499,26.92899,0,False,False,2026-10-14T03:16:20Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,5a53abe1-99e0-42d6-a220-d512466cb3de,motorway,False,2018-03-05T20:28:01Z,481.5,-98.143422,27.207747,4,True,True,2026-10-14T03:16:40Z,d9424bd22126d28ed4763b7c4162b58dd314da39e063bd4e70df98b53ffc53a8
+brooks,unnamed,5ca30e0a-4332-4d66-8712-0157e0a3bb14,residential,True,2009-10-31T15:28:53Z,622.7,-98.111267,26.827354,0,False,False,2026-10-14T03:16:37Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,5d626267-ba3d-411b-a49a-6a978daaaa0a,residential,True,2009-10-31T15:30:45Z,132.0,-98.316906,26.917845,0,False,False,2026-10-14T03:16:17Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,5f06f247-4a3f-4319-b4f6-138cf585f1d1,residential,True,2009-10-31T15:22:03Z,1055.9,-98.304191,27.237273,0,False,False,2026-10-14T03:16:23Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,84aeb25f-a47e-44c8-9232-f0d8481c190d,residential,False,2025-04-16T19:36:04Z,2249.6,-98.28925,27.173431,0,False,False,2026-10-14T03:16:38Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,867bf91a-1f14-4067-b813-c8b2ef81a278,residential,True,2009-10-31T15:14:50Z,119.5,-98.341362,27.018302,0,False,False,2026-10-14T03:16:41Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,877d2c9d-86e4-4c24-8031-85dab5cfe3c2,residential,False,2026-05-21T00:08:25Z,28.4,-98.217628,27.084688,0,False,False,2026-10-14T03:16:34Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,8a2d2765-1da0-4205-9fc3-d2f8256bc49e,residential,False,2026-05-20T15:16:40Z,338.3,-98.334886,26.897021,0,False,False,2026-10-14T03:16:15Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,a0907136-75d9-48f6-bad9-d7394733fd67,residential,True,2009-10-31T15:34:27Z,2479.0,-98.457375,27.152152,0,False,False,2026-10-14T03:16:36Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,a8bff323-5856-4c28-ad07-d116bc71e335,residential,True,2009-10-31T15:14:27Z,964.5,-98.260809,27.026482,0,False,False,2026-10-14T03:16:18Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,c079ee0e-c2ae-4507-927b-c926abdecbf6,residential,True,2009-10-31T15:36:49Z,258.3,-98.31202,26.927132,0,False,False,2026-10-14T03:16:33Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,e1280425-7000-4257-8462-6802c9bb76b4,residential,False,2026-05-20T15:16:40Z,584.4,-98.288473,26.8563,0,False,False,2026-10-14T03:16:30Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,ecbf4025-c3e6-4029-ad8d-db52e4ac6fff,residential,True,2010-04-15T04:22:50Z,831.0,-98.385602,26.925608,0,False,False,2026-10-14T03:16:21Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,ed65afea-1fd6-46bc-b7d2-8b70a5db4001,residential,False,2022-05-18T16:09:19Z,2549.6,-98.404087,26.962282,0,False,False,2026-10-14T03:16:43Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,efde7dbe-1248-4598-a609-8c105afe2dd4,residential,True,2009-10-31T15:29:51Z,1178.5,-98.38186,27.142625,0,False,False,2026-10-14T03:16:46Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+brooks,unnamed,f919cb69-8df4-4ae0-ad1e-7c33cb5dde65,secondary,False,2026-06-14T03:11:24Z,356.2,-98.237246,26.891581,4,True,True,2026-10-14T03:16:45Z,8c121935bb2b2ac3c87292ea4ca7f73a0139088dbd467eecbb563991dcbeffff
+edwards,named (control),15e48ca2-f0fd-43ea-9c49-2900520e4ef9,residential,False,2012-12-26T23:31:51Z,268.0,-100.465258,30.019156,1,True,True,2026-10-14T03:20:59Z,657b2c19e4b6af350c91e4364fb49126101bc2734350b7f206c2609c21943d55
+edwards,named (control),20c9c5b5-9109-45a6-8135-79bff0f2a16d,residential,False,2024-12-05T17:44:02Z,318.0,-100.169187,29.939914,1,True,True,2026-10-14T03:21:00Z,549f443d542d5dbad0b4bf67034d97ceb4e51e94213de80142c40184d0e59825
+edwards,named (control),271ed824-2a72-4dc7-9514-5673fe44f8c3,residential,False,2025-06-16T17:18:54Z,1554.1,-100.076608,29.720846,1,True,True,2026-10-14T03:21:22Z,68af05e63836802a10de5e42906cf31eaecf6dc41a815104bb0bfe87f826d53b
+edwards,named (control),35cc8e7f-1f05-4f3f-a238-401f70265179,residential,False,2024-12-05T17:44:02Z,1338.7,-100.271425,29.777004,1,True,True,2026-10-14T03:20:55Z,549f443d542d5dbad0b4bf67034d97ceb4e51e94213de80142c40184d0e59825
+edwards,named (control),37e637aa-0a83-43e1-a4aa-b69681e8495d,trunk,False,2026-05-21T12:00:43Z,389.5,-100.570211,30.262639,1,True,True,2026-10-14T03:21:15Z,ef8d2b98ec08c83485d63f4df2d6882ee72afc2fe92b41ad9ae4eda9d60264af
+edwards,named (control),3a752276-190d-4950-b26e-752fa86d003e,residential,True,2009-12-10T12:32:04Z,226.4,-100.675225,29.791387,0,False,False,2026-10-14T03:21:16Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,named (control),3e7c13e4-5c06-49f5-ae00-6fa081607abd,residential,False,2024-12-31T16:25:57Z,100.4,-100.081203,29.726895,0,False,False,2026-10-14T03:21:26Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,named (control),42930013-e99e-41c4-bbf9-5cc9813cdc2c,residential,False,2025-08-17T05:00:09Z,103.5,-100.20847,30.016625,2,True,True,2026-10-14T03:21:02Z,9f9813511e7a3f3da0f85ced4a0df375596a75cdbcafb7de94690244fb219849
+edwards,named (control),4f0495bf-92b7-4776-9d4a-5de9c73160f0,residential,False,2026-04-14T17:05:39Z,886.2,-100.539853,29.653228,1,True,True,2026-10-14T03:21:06Z,7fb53f4b9a575448044607e7edfe2041ede9b6285013365fc81d9293cb2e34f0
+edwards,named (control),553e35fb-6f16-4cbd-8d18-63f163fe52f3,residential,True,2009-12-10T12:44:52Z,359.6,-100.556578,29.845537,1,True,True,2026-10-14T03:21:01Z,8c7494d08bfef5ab7511e08d2220f29fd7536396f961360afb2680b8430524c7
+edwards,named (control),55447722-11b5-4a99-9344-81e367142228,residential,False,2025-09-25T06:22:39Z,956.4,-100.287533,30.277309,0,False,False,2026-10-14T03:21:18Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,named (control),63d0231c-ddd5-405a-b5f4-99905c6576c1,residential,False,2025-08-15T14:47:44Z,103.0,-100.21164,30.014697,2,True,True,2026-10-14T03:21:13Z,3ed799a8cb11f7f19e4969cedb2f2fa1d4eada8ee31bef22f833e97fbcd78eee
+edwards,named (control),6b45b56a-6955-44bb-8fc6-59de28a338b1,tertiary,False,2025-06-02T06:12:36Z,163.1,-100.335209,30.155843,1,True,True,2026-10-14T03:21:07Z,fee97a30990f826a812d714123e674496077dde10d5da0fb353fe869d6ac30f7
+edwards,named (control),7806264e-5ffd-44ef-a396-24fa7751f83b,residential,False,2026-04-18T13:25:44Z,532.3,-100.136154,30.23945,1,True,True,2026-10-14T03:20:58Z,ba974531eeaa73b4affa70a2544322aad3f3aac56d856756c0fbf2c7259e1dcf
+edwards,named (control),7bed0681-b35a-4dcb-96e5-86c331a87101,residential,False,2025-08-21T04:30:37Z,835.3,-100.025196,29.672265,1,True,True,2026-10-14T03:21:25Z,1d93666b49219249e04f4cbfbc973eadd26c1d26746618c44c23f3c5296c0485
+edwards,named (control),8115918e-2d42-4b43-9d15-aa4c9522849c,residential,False,2025-06-17T15:42:11Z,317.8,-100.033482,29.723961,0,False,False,2026-10-14T03:21:21Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,named (control),95b71165-fbf3-4ab4-a77a-27966c4ab21a,residential,False,2019-10-27T08:50:12Z,1327.9,-100.589565,30.273763,0,False,False,2026-10-14T03:20:53Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,named (control),ab9766b7-2afa-4e50-8dca-418c1d504ee6,residential,False,2026-03-25T15:39:40Z,433.6,-100.166123,29.778746,1,True,True,2026-10-14T03:21:09Z,4d6487e264132247e4d5ba958741cede02da56791bd3457e437efc46caffb334
+edwards,named (control),b3f2f0be-0711-4311-975d-5d4beca03875,residential,True,2009-12-10T12:31:57Z,166.3,-100.095989,29.632385,1,True,True,2026-10-14T03:21:10Z,d5fbceb3cc361adcd4c7d17226dc5c8ae270ba3af903a9a90f27c89fbd714775
+edwards,named (control),bc2dbe77-fb6d-481a-a381-6c7460483e9a,residential,False,2025-08-14T04:45:20Z,102.6,-100.206716,30.011939,2,True,True,2026-10-14T03:21:12Z,f336b3943883b241b679d825927c6202bb45e823ad5ab5ca26ef51b49f27e595
+edwards,named (control),cb8a2935-bae8-4b3e-8c19-816ead563b99,trunk,False,2026-05-21T12:00:43Z,609.3,-100.271168,30.041061,1,True,True,2026-10-14T03:21:05Z,f418615de030a6defe2109287d1cdf94c9241bc8827d346771837100b289f929
+edwards,named (control),cbf86375-3491-47a9-95fe-2f2755dbbe71,residential,False,2025-08-17T05:00:09Z,102.5,-100.206708,30.016633,2,True,True,2026-10-14T03:21:24Z,5cfe72f0f719fc68ed785433df661cfa011020cb48efed06f196e7ef43ef5c03
+edwards,named (control),d5f13dce-2752-4d4b-b757-5bda5716fc40,primary,False,2025-06-02T06:14:00Z,980.2,-100.081975,30.082606,1,True,True,2026-10-14T03:21:17Z,4b0b6b490bd2edb6771ef3a93ae7eab17df7b78223b6222d9988dad7aadd7c9c
+edwards,named (control),de1d517f-9b1b-493e-b895-a17a969acaad,residential,False,2019-09-29T21:18:23Z,22.6,-100.121585,30.163833,1,True,True,2026-10-14T03:20:54Z,ba974531eeaa73b4affa70a2544322aad3f3aac56d856756c0fbf2c7259e1dcf
+edwards,named (control),ea204ec6-38a4-410a-b595-ab8b2f716055,residential,False,2026-02-02T01:04:55Z,41.4,-99.987763,30.232378,1,True,True,2026-10-14T03:20:56Z,33631e2300e0c359c272f7d24a09fc377f419ffca6a47fa30782bfd27a39ae58
+edwards,named (control),f73085e6-0dac-48da-b718-41a8a5590c5e,residential,True,2010-04-07T08:16:52Z,307.2,-100.581565,30.090556,0,False,False,2026-10-14T03:21:19Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,named (control),fa105377-dddd-42f6-b283-1a30be07420e,residential,False,2024-12-31T16:25:57Z,275.3,-100.042947,29.691192,1,True,True,2026-10-14T03:21:28Z,948ad38f201272eafc4104517c938a91c55e2ed71904cc493a2d925ed9913d75
+edwards,named (control),fa1186c8-eed5-4f66-8e67-6fc202054eb9,primary,False,2025-08-18T03:54:05Z,102.0,-100.205479,30.017541,3,True,True,2026-10-14T03:21:23Z,3e8d0f689bd315e302ec77c2476bff03a8893ffff2325d7457043c87642527b3
+edwards,named (control),fca13a79-b857-42c9-9768-2825e1adfa31,residential,False,2025-08-14T14:04:03Z,101.6,-100.207751,30.012873,3,True,True,2026-10-14T03:21:04Z,71c4f9665b1098d1a1463ca5c55d98e5219193bfed1fb042e03d7d8f600d12ff
+edwards,named (control),fde3edc2-a020-4704-894a-c65d23e1631f,residential,False,2025-08-17T22:08:12Z,102.5,-100.210601,30.021205,2,True,True,2026-10-14T03:21:11Z,00f8a6860b3a079336d87dec4dc3a14ff70fcfc2c92b13098ec3524233e477e6
+edwards,unnamed,0ab54c79-01b1-414b-acde-d5cf76578fce,residential,False,2024-04-15T02:01:42Z,327.5,-100.016529,29.640748,0,False,False,2026-10-14T03:20:46Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,10e2a931-494d-4d8e-b91a-40ffce506c56,residential,False,2019-09-29T20:53:45Z,41.2,-100.159258,30.119096,1,True,True,2026-10-14T03:20:27Z,ba974531eeaa73b4affa70a2544322aad3f3aac56d856756c0fbf2c7259e1dcf
+edwards,unnamed,161d83f0-f196-40df-a69d-b463a83e23d6,residential,False,2022-11-15T21:45:43Z,717.4,-100.369052,29.637028,0,False,False,2026-10-14T03:20:47Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,16bbeaca-5cfa-4ac6-9776-c5e1b3d5b46b,residential,True,2009-12-10T12:34:14Z,156.4,-100.397144,30.121553,0,False,False,2026-10-14T03:20:25Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,1f8b6fad-5bbb-4d51-ad8b-14af0755a469,residential,True,2009-12-10T12:43:31Z,1261.1,-100.46398,29.960898,1,True,True,2026-10-14T03:20:23Z,e1b8dabb9c090ea7bcdb22cc78d777dd2fcdbf151fc3e5ac22f97d030967fcec
+edwards,unnamed,21d4f543-c9ce-4a4a-9504-31245b12cd38,residential,True,2009-12-10T12:43:43Z,463.2,-99.800213,30.119704,0,False,False,2026-10-14T03:20:36Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,2442828a-e9f3-4c03-9601-68d390f60ef7,residential,True,2009-12-10T12:40:30Z,155.8,-100.331959,30.242344,0,False,False,2026-10-14T03:20:29Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,428a408c-e0e0-429b-b22e-cd711815f69a,residential,True,2009-12-10T12:44:23Z,814.9,-100.403885,30.047871,0,False,False,2026-10-14T03:20:20Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,48226def-911e-4b50-a9a3-60b4540cd00c,residential,True,2009-12-10T12:33:02Z,1135.7,-100.53131,29.641218,0,False,False,2026-10-14T03:20:35Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,50bf2a30-c937-4e58-9365-5d5affeb4ec1,residential,True,2009-12-10T12:37:28Z,836.0,-100.03384,29.924479,0,False,False,2026-10-14T03:20:41Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,52d75550-0baf-4472-aafb-5745929bd306,residential,True,2009-12-10T12:39:07Z,66.0,-99.82634,30.22515,0,False,False,2026-10-14T03:20:49Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,554a5bf7-ddcd-4549-aacb-9f69befe2430,residential,False,2019-10-26T14:26:55Z,36.2,-100.608974,30.281109,0,False,False,2026-10-14T03:20:21Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,5c879844-ef6f-41ab-8801-1c8d20f8871e,residential,False,2019-10-27T09:18:12Z,93.1,-100.533787,30.265466,0,False,False,2026-10-14T03:20:24Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,5fb8fedd-4ef1-4e44-9360-de8798606508,residential,True,2009-12-10T12:38:11Z,138.0,-100.331405,30.210872,0,False,False,2026-10-14T03:20:42Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,728437a1-60f1-4533-89d2-367547ac2073,residential,True,2009-12-10T12:36:06Z,290.1,-100.205953,30.288347,0,False,False,2026-10-14T03:20:51Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,9e09ce2e-5cef-49b6-a201-7bad02c0508d,residential,False,2026-02-02T01:04:55Z,419.5,-99.954061,30.170662,0,False,False,2026-10-14T03:20:50Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,a3a46444-9ea5-48e8-8864-2cc848cc0232,residential,True,2009-12-10T12:43:54Z,466.2,-100.08222,30.124548,0,False,False,2026-10-14T03:20:43Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,a5149320-03ab-423e-a3fa-3989b9c737c6,residential,True,2009-12-10T12:36:06Z,137.1,-100.032964,29.832804,0,False,False,2026-10-14T03:20:34Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,caed5fe0-5550-46da-951a-277971aff3b8,residential,True,2009-12-10T12:42:54Z,1220.6,-100.447414,30.181643,0,False,False,2026-10-14T03:20:18Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,ce01ac42-02e8-4ff7-acfc-4519c4b6db99,residential,False,2019-12-21T21:13:51Z,707.2,-100.607541,30.263821,0,False,False,2026-10-14T03:20:44Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,ce91f12e-11d7-44c1-8f5b-8b7e947d7bc4,residential,False,2019-10-26T14:26:55Z,67.5,-100.604739,30.28134,0,False,False,2026-10-14T03:20:31Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,d199d4ab-3273-430f-b1c9-400f810d37e5,residential,True,2009-12-10T12:33:37Z,2808.4,-100.27679,30.236417,0,False,False,2026-10-14T03:20:30Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,d402cc71-5756-4a22-bf9b-c538a58c10cb,residential,False,2019-10-13T21:47:03Z,840.1,-100.369027,30.251695,0,False,False,2026-10-14T03:20:38Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,dad7d42f-3dae-4b36-8365-1008e2fcaf59,residential,True,2009-12-10T12:43:16Z,167.6,-99.987575,30.045009,0,False,False,2026-10-14T03:20:39Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,e5f393cd-d294-4c7f-8f87-378989a3c185,residential,False,2014-09-28T07:42:42Z,519.8,-100.30486,30.243493,0,False,False,2026-10-14T03:20:22Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,e864ca30-50a8-4596-a61a-277cc1905fd9,secondary,False,2025-08-20T02:44:58Z,870.1,-100.035023,29.7476,1,True,True,2026-10-14T03:20:32Z,9dd46d1b9e23e29af70c932f8075f81c2b5dc44e89b687d428421111f42b3bfe
+edwards,unnamed,ebceee3e-1ac9-4470-825c-a33a0570b57f,residential,True,2009-12-10T12:35:03Z,361.1,-100.392693,29.625413,0,False,False,2026-10-14T03:20:40Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,ef530526-0895-4c6d-9e8c-d0cb9bff5b91,residential,True,2009-12-10T12:38:29Z,311.4,-100.444144,30.055265,0,False,False,2026-10-14T03:20:17Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,f553a0cc-2808-48ed-b8db-b9d1ae502383,residential,True,2009-12-10T12:44:18Z,293.1,-100.044433,30.174637,0,False,False,2026-10-14T03:20:28Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+edwards,unnamed,fdfa8046-c25e-4c87-9453-c7823cfa69fd,secondary,False,2025-06-02T06:13:17Z,7019.9,-100.405498,29.804129,1,True,True,2026-10-14T03:20:48Z,1f6d1b975c3eb81d8a46039eea734e35f9aff60ef6a240c5ca4eb3b04e1c65fc
+kinney,named (control),00da3a7c-e9a6-471b-87ba-f48369919f67,residential,True,2010-04-07T11:39:11Z,276.8,-100.645071,29.430528,0,False,False,2026-10-14T03:18:57Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,named (control),1492cad1-dceb-4f76-87b1-975ae3f1085f,trunk,False,2025-06-04T04:38:12Z,657.2,-100.202096,29.248245,1,True,True,2026-10-14T03:18:50Z,aa6a0e7789c1fecce4881765f6a25dd19216cb05a3f7b5e88a1797e7ab4ed642
+kinney,named (control),1bc8fdc3-9342-4d96-ac25-2ef433eb4006,residential,False,2018-10-19T04:39:25Z,40.6,-100.428991,29.316027,1,True,True,2026-10-14T03:18:18Z,32eaad89db903aa5eed4d02f724696ab2639c54ccc65fb22e5f1486bc471ffaa
+kinney,named (control),23195649-ab62-4876-9f8d-d1fdee8f520d,residential,False,2023-05-31T09:24:38Z,334.1,-100.441516,29.334521,1,True,True,2026-10-14T03:19:01Z,b2f2c3d09b1bc93e6c59e45876df741d5843d38117a4ed1ab00fbe5886fbf7ac
+kinney,named (control),281afdab-3592-436b-860f-1af3bc1a8459,secondary,False,2026-07-10T19:37:43Z,690.2,-100.582467,29.420911,1,True,True,2026-10-14T03:18:22Z,3f195f68c80b489c25995948b7ba780a437ec1637ac7ed16889bafb446a8064e
+kinney,named (control),37f72264-3fd7-48e8-bcde-ee9b8da940b2,residential,False,2022-05-29T17:13:27Z,110.0,-100.407734,29.174479,2,True,True,2026-10-14T03:18:05Z,3c8610972837eb5387d9864c34168cc27e8f35eabb3d2057a3157268efacf633
+kinney,named (control),48d01922-6f8c-452d-b6f5-359867025aa9,residential,False,2018-10-19T05:28:11Z,135.7,-100.42417,29.315041,2,True,True,2026-10-14T03:18:13Z,9f9860aaa14bd6fdc14a77036d52eabe5fd14a7a62d44f6522b5f7bea4cc1d30
+kinney,named (control),4bd40d7a-8244-4a74-9347-328c36ea1c8c,residential,False,2016-04-10T17:20:16Z,134.0,-100.42374,29.298313,0,False,False,2026-10-14T03:18:01Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,named (control),554b1a17-16f5-4f4d-8ff2-3e3684129e4c,secondary,False,2025-07-07T02:45:47Z,2045.7,-100.42302,29.157248,1,True,True,2026-10-14T03:18:24Z,d42ebac6a08ec17dba6e72ba92f2f7d1fcdf937f1cbc8f15664fa8c51b8e6a1f
+kinney,named (control),555e40da-50fe-42a8-b86a-34b3a3679c12,residential,False,2026-07-19T20:45:29Z,133.8,-100.422155,29.303793,0,False,False,2026-10-14T03:18:07Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,named (control),713ce5aa-6da7-4d61-bf62-a8ae7074d702,residential,False,2024-11-26T04:34:16Z,128.4,-100.41573,29.317946,1,True,True,2026-10-14T03:18:58Z,3449483b75e0dc01ea2c072c12329ec4983e4f7ede4448a26e192bc5942efdb2
+kinney,named (control),8b81e72a-942a-497a-8bc2-46b4bebae15b,trunk,False,2025-06-04T04:38:22Z,650.8,-100.344882,29.285472,1,True,True,2026-10-14T03:19:03Z,898c4ab9d984b19557848e9d12a4d4068562cd2eac4c22763c0f647bb363dcfd
+kinney,named (control),8c837dec-f152-4813-957c-e196de05b750,residential,False,2018-10-19T05:30:53Z,127.5,-100.409335,29.313134,2,True,True,2026-10-14T03:18:19Z,b2f327c3b27cd80698c208f48264a213e8420cb6ac0921550396b2e870cd7d6f
+kinney,named (control),8e533917-b445-4075-a1e5-49a5a1033633,residential,False,2022-05-29T17:00:57Z,111.5,-100.409893,29.177002,3,True,True,2026-10-14T03:18:51Z,7c50d7f9e7798ce28d57fe9cae055e90826d434075725568fa2b2d97b59b4579
+kinney,named (control),907459ea-e58d-40c4-846f-76aa279e2ae4,residential,True,2010-04-07T11:39:06Z,20.0,-100.415809,29.305097,0,False,False,2026-10-14T03:18:14Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,named (control),92645d8b-904f-4544-bc42-0c2b697b10bb,residential,False,2025-08-02T14:10:50Z,129.3,-100.410873,29.316688,2,True,True,2026-10-14T03:19:02Z,007f7942a6e46c4ac519ab09e3f38be8348ee632355eb79667bf5aa564518de0
+kinney,named (control),96766fd9-3182-4462-94a2-600391598cb4,residential,False,2017-11-26T23:16:24Z,55.1,-100.420841,29.301247,0,False,False,2026-10-14T03:18:21Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,named (control),9aadd192-2218-4a31-a95a-17792d47d57c,secondary,False,2025-06-02T06:13:17Z,111.2,-100.413721,29.175713,3,True,True,2026-10-14T03:18:48Z,2aa6ae6788374fb18d81522d8d4a17d0651f40e9a27c15711cf1b11c5c29b293
+kinney,named (control),a49064a3-06b2-41d2-92c0-2710f13197aa,residential,True,2010-04-07T11:39:00Z,1428.6,-100.636258,29.430794,1,True,True,2026-10-14T03:17:59Z,de65d3681b79f4a7803e86bc4c266deec55a369c1c268de14691cbaa62e5dd38
+kinney,named (control),aabe5d16-fe63-482f-b583-941b186bcfff,residential,False,2025-01-10T16:43:49Z,587.3,-100.536579,29.142985,1,True,True,2026-10-14T03:18:00Z,d64b27bc75f070e0616cff7cd4af42ec887b321b80b16cf7b9342da57980fb29
+kinney,named (control),b74318e0-a15b-49c1-871c-f854ec81abad,residential,True,2010-04-07T11:38:59Z,370.1,-100.432592,29.338517,0,False,False,2026-10-14T03:18:59Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,named (control),baac7e0d-41d1-4138-b246-db1a826d6e5a,residential,True,2010-04-07T11:38:49Z,132.1,-100.229139,29.256734,0,False,False,2026-10-14T03:18:55Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,named (control),c1bf3ca5-ee24-48c1-8e0f-aae82ef6fee2,residential,False,2018-10-19T05:28:12Z,87.8,-100.417599,29.309268,2,True,True,2026-10-14T03:18:23Z,8b6ecc0822ae1ac1b5001ea6668c43f5b114af80c0ca4bea90accbe68fbeed0e
+kinney,named (control),c4bebf47-4f15-41bc-b64a-9f276278c4da,residential,False,2022-05-29T17:13:27Z,113.4,-100.412824,29.175151,2,True,True,2026-10-14T03:18:56Z,5630260ade65cf6a93478b5ffb5b861d63f6f5c15f7705640893fe4145bb6ec7
+kinney,named (control),c81b63cb-e493-4f75-a97d-191025cda50e,residential,False,2022-05-29T17:13:27Z,541.2,-100.411175,29.177312,1,True,True,2026-10-14T03:18:54Z,6f502f989a1dca9058861485f6e2d3046f83ccc866850c4410f8e010dd037e8e
+kinney,named (control),c9cf74ea-864e-4ae5-b868-a6305264abf0,secondary,False,2025-06-02T06:13:17Z,449.2,-100.528376,29.25101,1,True,True,2026-10-14T03:18:06Z,1340c546513fc4c602b9ae66707854e5161997096482a7f86a3e1847e307a573
+kinney,named (control),dbed7e8c-4eda-4267-a3d0-2b6ae32f8f26,residential,False,2015-05-07T01:17:48Z,1533.1,-100.184788,29.287048,0,False,False,2026-10-14T03:18:02Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,named (control),dce6ec2d-47d1-410d-9eb4-f39c249d6fa1,tertiary,False,2026-01-19T14:31:52Z,171.0,-100.421207,29.312266,2,True,True,2026-10-14T03:18:16Z,4fae3f624e0a5ec963651c68fbfea1738db8286b3396b0073cc164f38e3844f1
+kinney,named (control),ec8cc59d-ab7b-4b89-8cf7-82a0c3cdfa91,secondary,False,2026-07-10T19:37:43Z,979.4,-100.590462,29.413315,1,True,True,2026-10-14T03:18:52Z,3f195f68c80b489c25995948b7ba780a437ec1637ac7ed16889bafb446a8064e
+kinney,named (control),ed214e9e-d410-4d11-a449-6d53cfe0f00e,residential,False,2018-10-19T05:28:11Z,133.9,-100.414907,29.316801,2,True,True,2026-10-14T03:18:04Z,c8307060299acedc8773c6662267f041369507ccb6b6d552062f0110c2dc0254
+kinney,unnamed,198bbc79-aa99-49d9-898b-85aa4ac4c7c0,residential,True,2009-11-05T04:24:18Z,332.2,-100.437677,29.333752,0,False,False,2026-10-14T03:17:29Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,272192e6-aae6-445d-91cb-7e567f26a306,residential,False,2026-04-14T17:05:39Z,1590.2,-100.536734,29.618543,0,False,False,2026-10-14T03:17:31Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,2ca71216-030c-46ab-a8a6-55e368ec1d2a,residential,True,2009-11-05T04:24:17Z,852.9,-100.318521,29.213494,0,False,False,2026-10-14T03:17:23Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,4301cee0-25c1-4952-9dd4-904661922b54,residential,True,2009-11-05T04:25:01Z,2236.4,-100.235217,29.233826,0,False,False,2026-10-14T03:17:52Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,496ea8a8-b452-43c1-8c39-0e4640bc4e3f,residential,False,2025-04-22T00:49:05Z,1275.3,-100.778415,29.237988,0,False,False,2026-10-14T03:17:46Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,5f215799-13a6-4c7e-83cb-939b130a306c,residential,False,2022-01-04T13:22:22Z,960.3,-100.321351,29.227327,0,False,False,2026-10-14T03:17:26Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,75415cce-2cd4-423f-8e61-e1fe3fb9eb6e,residential,False,2015-04-02T15:04:30Z,175.1,-100.323224,29.378393,0,False,False,2026-10-14T03:17:58Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,755e9e24-f85b-4a8a-8f61-d8d16af98eb7,residential,True,2009-09-11T16:38:53Z,106.5,-100.726835,29.243176,0,False,False,2026-10-14T03:17:56Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,7e318b9e-3f6c-4e08-8dab-7ed0e751253e,residential,True,2009-11-05T04:23:47Z,31.3,-100.512835,29.23009,0,False,False,2026-10-14T03:17:43Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,7ed06da0-5ca9-42ff-b978-8c3002ac2f82,residential,False,2013-08-23T13:41:01Z,67.5,-100.395202,29.427824,0,False,False,2026-10-14T03:17:28Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,80005215-670f-4336-99f1-8981e4abc37d,residential,False,2026-03-25T18:37:44Z,214.0,-100.678066,29.249632,0,False,False,2026-10-14T03:17:35Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,824b6e29-5d1e-4609-95c4-d1e1a24127ad,residential,True,2009-11-05T04:27:33Z,1706.0,-100.459377,29.376779,0,False,False,2026-10-14T03:17:32Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,92a8b8e0-1904-4fd4-b26b-23c19b045bd9,residential,True,2009-11-05T04:23:58Z,393.9,-100.636255,29.138194,0,False,False,2026-10-14T03:17:49Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,9862c1fb-abcc-4a4b-905b-bd13fa541cb3,residential,False,2025-01-10T16:43:49Z,89.2,-100.502806,29.177376,0,False,False,2026-10-14T03:17:48Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,98faeac9-4fee-4009-9ce8-d73bf636c51e,residential,True,2009-11-05T04:24:56Z,17.3,-100.487624,29.212603,0,False,False,2026-10-14T03:17:36Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,9da4c5aa-5fba-45ec-9946-ded82b2e544f,residential,True,2009-11-05T04:27:26Z,1163.3,-100.580932,29.142829,0,False,False,2026-10-14T03:17:38Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,a600745e-6dda-4152-84e0-2d85747b6919,residential,True,2009-09-11T16:20:37Z,84.7,-100.242343,29.207104,0,False,False,2026-10-14T03:17:30Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,ada29156-a025-4e11-9b13-6e6c8bf09a31,trunk,False,2025-06-04T04:38:17Z,166.5,-100.43124,29.316136,2,True,True,2026-10-14T03:17:37Z,de9e22b1e7a82b44991146b5ef221a4238f76844a74d911eaa6b4d71eaf0aff2
+kinney,unnamed,aea81f8f-66fe-4121-994b-eed050574a95,tertiary,False,2025-06-02T06:13:17Z,2038.7,-100.531455,29.127659,1,True,True,2026-10-14T03:17:40Z,1aa632cdc2e0b903b1c3d5ce414f18ff0a83b792aa7a8ecd90e10ff503af12db
+kinney,unnamed,b4b28ecf-5c98-4db3-a7c6-e79d0d7f74d8,residential,True,2009-11-05T04:27:35Z,1921.2,-100.380618,29.348558,0,False,False,2026-10-14T03:17:42Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,bcb0c66e-34b0-4fc6-89e9-b86cfaf8b016,residential,True,2009-11-05T04:27:25Z,695.7,-100.593956,29.150292,0,False,False,2026-10-14T03:17:34Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,be559a74-491f-4ce3-8f4a-06936822fd19,residential,True,2009-11-05T04:24:54Z,66.1,-100.647092,29.305009,0,False,False,2026-10-14T03:17:24Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,beae6bb5-acf0-4b5c-aaa9-4db6af737b61,residential,False,2021-10-25T10:31:57Z,13.2,-100.583469,29.137471,0,False,False,2026-10-14T03:17:41Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,c1887e4b-e049-4915-8b86-ef3e42f1a30e,residential,True,2009-11-05T04:24:20Z,1822.7,-100.322323,29.58794,0,False,False,2026-10-14T03:17:53Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,d3a462a7-d677-4f38-bf68-cd81a7cdef34,residential,True,2009-11-05T04:28:09Z,2972.4,-100.151367,29.285224,0,False,False,2026-10-14T03:17:54Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,e0b84ef4-3e96-48e8-adc8-4f7316c75066,residential,True,2009-11-05T04:26:04Z,468.2,-100.241117,29.585263,0,False,False,2026-10-14T03:17:55Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,e192c25d-4b4d-4b05-81f4-b90a9679b2dd,residential,False,2021-10-25T10:31:57Z,682.6,-100.581647,29.13617,0,False,False,2026-10-14T03:17:50Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,e3ee8664-6598-42b2-89cb-1c1aa1a2eb4f,residential,True,2009-11-05T04:24:16Z,2256.4,-100.563708,29.183575,0,False,False,2026-10-14T03:17:47Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,e7c83eba-880a-49ae-831c-6238d15a2461,residential,True,2009-11-05T04:24:19Z,1050.5,-100.440998,29.382211,0,False,False,2026-10-14T03:17:25Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+kinney,unnamed,f6584a68-0ccf-4ddd-a7ec-3663178ca8df,residential,True,2009-11-05T04:24:17Z,37.3,-100.402967,29.414987,0,False,False,2026-10-14T03:17:45Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,named (control),00d95e98-c3ca-4113-bf95-4e05c269979f,residential,False,2025-01-09T10:57:54Z,85.7,-100.501919,28.737606,1,True,True,2026-10-14T03:14:53Z,e72d6ad3e0d39e7df068eb6160b24ef45b5fb355994e9db1a9bc0bce9633f387
+maverick,named (control),1b8b9127-98df-400d-bb03-3d1cd03f5a99,tertiary,False,2026-06-23T04:34:01Z,172.6,-100.490991,28.711279,2,True,True,2026-10-14T03:14:33Z,3f28b6b3a415cd75d13f6af4638162bf0d11bdfd7bb7cae52132974e2790dbe6
+maverick,named (control),1ca0ef93-1f74-4d54-ae5b-e5709d48783f,residential,False,2023-08-13T22:23:05Z,112.3,-100.492105,28.713068,2,True,True,2026-10-14T03:14:39Z,99b4771fffd85d7aa337426f8cd1474ec7be275ca475d363337250cdfecb3e30
+maverick,named (control),236f584a-59d4-4fd3-850f-e1af21101970,residential,False,2015-01-29T14:15:59Z,231.9,-100.476733,28.680385,2,True,True,2026-10-14T03:14:59Z,f9e2439ed7859a5c4fa6deb8a07c5d1af989917bc36366b1f7b660cbd63e70fe
+maverick,named (control),31378412-863b-4047-9086-d29b170bed4b,residential,False,2023-06-22T03:21:23Z,108.7,-100.501284,28.712892,1,True,True,2026-10-14T03:14:34Z,f01f4bce1771ed17c35214119acd4e946a30652a188463c33923ccc73f7160d1
+maverick,named (control),3535704b-24d8-409c-ab0c-3da294d772ae,residential,False,2025-02-11T20:20:54Z,189.3,-100.456344,28.705266,2,True,True,2026-10-14T03:14:29Z,30f89ffc6ed6f83e0862c159bcb54e91cbbd6a28d1d637b2ddaf6753c8d3bdf1
+maverick,named (control),38d8a7e5-c3fa-4eb4-aa29-6596bcccf0bd,residential,False,2020-10-18T23:16:22Z,111.0,-100.482362,28.732609,2,True,True,2026-10-14T03:14:47Z,6cbf7839636171367e8078f48c5a2f896691adf7e9e86e9fb6925e59afbff16d
+maverick,named (control),3b17efc7-6d84-4a91-b646-f811e34724c0,residential,False,2025-01-09T12:13:42Z,111.0,-100.472428,28.685136,6,True,True,2026-10-14T03:14:46Z,822087d54c915632c81f930d4073a1c73e4ed8d54d4ed7dfb8a8c788099e362c
+maverick,named (control),3c470796-9cab-4a25-a41a-db094803fa68,primary,False,2026-07-18T15:02:57Z,51.3,-100.501022,28.706008,1,True,True,2026-10-14T03:14:40Z,16ea3af878b8b6d97131890bd7ded34fe9b2c858a27b9fb04357f31ec5794e5a
+maverick,named (control),3df8eb33-1315-4262-8cfe-b2750b4bdbea,trunk,False,2026-06-10T23:57:08Z,610.6,-100.50645,28.699032,2,True,True,2026-10-14T03:14:30Z,62b4f7aba5cc76e18d2ffe03663f7cc48e5d1fa3a26dabb4e1b9ad00bb9acc40
+maverick,named (control),631e4b44-3199-46d3-b16b-646b283d9e09,residential,False,2023-08-12T18:47:18Z,155.5,-100.501912,28.709358,2,True,True,2026-10-14T03:14:27Z,c77356d69ade114147e2dc8238b1e8c46e0ce4b241968e7f295d91db49dd5b36
+maverick,named (control),817d11f7-809b-4feb-b4a3-e20d5d998eda,residential,False,2017-12-06T21:34:08Z,118.7,-100.432687,28.610267,1,True,True,2026-10-14T03:14:52Z,396ee0af1989b079643960ab31d0f874be6d24d14e66d021165301004680b6f6
+maverick,named (control),8c1fae23-f5dc-4d84-98ee-7f1849ffcf34,residential,False,2022-05-29T17:57:17Z,108.5,-100.621817,28.948409,2,True,True,2026-10-14T03:14:42Z,3274a0b58f3ec83f469e48e8ada5a1bfaa9322ec4f29e0dcb5dde3ec4714d6de
+maverick,named (control),8fec965f-7a20-48dc-82e0-2500aeae8dd4,residential,True,2010-04-07T12:46:39Z,159.7,-100.418495,28.653091,1,True,True,2026-10-14T03:14:36Z,b024e752a02d81dcfb3eca7cbb5c602a1396da7a898021395338a4538e8c5261
+maverick,named (control),921f5183-28f7-4dfd-9f7f-d99684509deb,residential,False,2022-01-06T06:26:51Z,14.6,-100.425768,28.635358,1,True,True,2026-10-14T03:15:01Z,53e6dd799b0a6bc7b0990194f7ec5e7263288205e7bc2d43396cf5572f466a2b
+maverick,named (control),977fe8ed-91e1-4946-976d-e4774e0de8ee,residential,False,2022-10-21T00:43:49Z,1029.5,-100.138372,28.372273,0,False,False,2026-10-14T03:14:35Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,named (control),995caa5d-bdca-405a-8bfd-5beae8fb2ea3,residential,False,2023-06-27T03:23:56Z,176.8,-100.417081,28.641425,2,True,True,2026-10-14T03:14:49Z,d1b6d487158ae53e908b83ee03be86f4f90fbe998201133085916f3fea1892fd
+maverick,named (control),a117175e-67df-4ee1-b3dc-e85243a691f5,residential,False,2020-10-19T00:49:38Z,106.9,-100.429743,28.613772,2,True,True,2026-10-14T03:14:48Z,aff99499b85fb81347e21a4f2b2196b409a815de71ba692afca2988fe7820d26
+maverick,named (control),a122c4e5-54af-4116-87b0-6146e7938fae,residential,False,2024-12-18T01:39:49Z,211.0,-100.428368,28.613264,2,True,True,2026-10-14T03:14:55Z,47db0153a7c7684bfc627765f481f7dd10bb0cc232c2c9b6df735848863a802a
+maverick,named (control),a3965844-6821-4183-b9e6-ed56c34d134f,residential,False,2023-06-22T03:21:23Z,110.7,-100.495625,28.716878,2,True,True,2026-10-14T03:14:41Z,8ea4b8c10b7afde765b109181944633f4cdb6a985e735e1ff917a76e0f062982
+maverick,named (control),b0ee4b9d-373c-4e4f-954f-31e535e42237,residential,False,2023-06-21T04:35:22Z,99.0,-100.495479,28.728242,1,True,True,2026-10-14T03:14:28Z,8aba0536a294afba9d3d8294020b056a3525169f992a08e3808d3bdb36028085
+maverick,named (control),ce28a3be-94c9-424c-b450-a6dfcc074d89,residential,False,2023-08-13T23:19:07Z,121.0,-100.493572,28.704189,2,True,True,2026-10-14T03:14:45Z,c0db9c5a627ad3ece2d125be5ee1804d3217cd2b44e9798a7ec48921e8fb5251
+maverick,named (control),d3215fd1-7932-4b21-be04-004184d641aa,residential,False,2020-10-19T00:49:38Z,171.8,-100.425702,28.618477,2,True,True,2026-10-14T03:14:50Z,389d263d70b36ac69251136f2109f414195ec06df7ac2671fa3bbc4d3d9b20df
+maverick,named (control),da405cc1-f29d-48d6-8c86-984cb23ad041,residential,False,2023-06-22T03:21:23Z,109.0,-100.499981,28.716162,1,True,True,2026-10-14T03:14:43Z,d23d7bd031225a0354c9292300e7449a145e55b316ba4755d1b6335f2ff603f8
+maverick,named (control),e2da44d6-9cb6-48a9-a615-de623f065f36,residential,False,2024-11-02T01:04:21Z,145.7,-100.528002,28.859282,2,True,True,2026-10-14T03:14:58Z,fb57207adc9495a67a61303bbf04d2d65be1be11c5095f8feaf0553b08045a9f
+maverick,named (control),e64dd5ed-7077-4c7a-aee0-56c1573e407f,residential,False,2023-08-08T16:07:41Z,110.7,-100.492756,28.689784,1,True,True,2026-10-14T03:14:32Z,a90a315e9058028afad656ee53546ca09dec926e09f0251dd51c495ea7e32eed
+maverick,named (control),ebfd9a24-8de0-4256-997e-0865c65d8b13,residential,False,2023-08-12T17:42:31Z,115.3,-100.499858,28.705263,1,True,True,2026-10-14T03:15:00Z,c0632dd0c5bc85782a5624386b223192d59715a00a43454322abec7caf0aa1f9
+maverick,named (control),ec220413-34f9-436e-b508-969189ecb853,residential,False,2025-01-09T11:15:41Z,88.5,-100.476088,28.693865,2,True,True,2026-10-14T03:14:56Z,2dea773f2be21f3d81a78a2d99cf80c26ec157ddf480b3302919dad0fa8f58af
+maverick,named (control),f41fb3d0-08ba-4dfe-a4ca-45c35dd9cd7b,residential,False,2015-08-03T20:50:47Z,156.3,-100.495183,28.735118,1,True,True,2026-10-14T03:14:37Z,cb6657ed542e60b2938073736091eff13de20da76c32320d90dd434394f5ff27
+maverick,named (control),fcaf6e78-21d9-47e4-8382-163b186c6b0a,secondary,False,2025-01-09T11:46:40Z,131.7,-100.483232,28.726467,2,True,True,2026-10-14T03:14:54Z,8e7cdb7f3effa698cf07f6f2d40110bc49e6124ba2d739659be9e36d5dc72723
+maverick,unnamed,0bc91c38-a834-43fc-866f-1e4fa0653c6d,residential,True,2009-10-17T11:19:07Z,99.9,-100.495698,28.671991,1,True,True,2026-10-14T03:13:54Z,7e13035f3e82e053eb2ff1868bbf6d8b5262bda753cb72324b43dae2fee35ac0
+maverick,unnamed,0e09e176-75bf-48ac-810b-cd3b13315318,residential,False,2022-05-18T18:52:35Z,743.1,-100.440792,28.780172,0,False,False,2026-10-14T03:14:25Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,0e7fcabd-7d12-4f99-976a-43d318d44cad,residential,True,2009-10-17T11:11:44Z,314.4,-100.259983,28.908265,0,False,False,2026-10-14T03:14:21Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,1371514b-19f7-4fc0-90ee-d94bed45bf20,residential,True,2009-10-17T11:25:27Z,407.8,-100.370696,28.952145,0,False,False,2026-10-14T03:14:05Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,268d68bc-7696-40bf-bc56-8d3cf912ba0f,residential,True,2009-10-17T11:24:43Z,1491.6,-100.234139,28.799723,0,False,False,2026-10-14T03:14:13Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,39393dee-1308-4adf-9817-5f449a27beed,residential,True,2009-10-17T11:25:14Z,2289.8,-100.144946,29.058352,0,False,False,2026-10-14T03:14:15Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,3b112b5c-d148-49b2-be2b-a5b231f01bad,residential,False,2023-06-21T06:00:53Z,41.0,-100.152188,28.920331,0,False,False,2026-10-14T03:14:08Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,3c77ac27-f96f-4a5d-998c-b0b7a59fe2b2,residential,True,2009-10-17T11:11:19Z,1425.2,-100.232108,28.918347,0,False,False,2026-10-14T03:14:04Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,43ff7d9f-51b8-4256-9ca1-d9f3ffe21a38,residential,True,2009-10-17T11:15:06Z,44.7,-100.279075,28.484943,0,False,False,2026-10-14T03:14:22Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,57579134-0dc7-4939-b4b6-08135cdc7e21,residential,False,2022-01-11T20:56:16Z,832.0,-100.366294,28.791753,0,False,False,2026-10-14T03:14:24Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,63cbc2f9-29dc-4ca5-a5a9-45913bafa7de,residential,True,2009-10-17T11:21:28Z,631.6,-100.195704,28.760298,0,False,False,2026-10-14T03:14:16Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,731c9363-a98b-4cde-bcd6-e0ac730fa167,unclassified,False,2026-04-21T12:34:20Z,725.8,-100.307977,28.347047,0,False,False,2026-10-14T03:14:11Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,7579e2f6-2d27-486e-876a-3f33234c75c2,residential,False,2018-03-14T17:59:21Z,828.9,-100.13504,28.467386,0,False,False,2026-10-14T03:14:06Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,80e9121f-00be-483d-b93e-9409059083ca,residential,False,2018-03-25T18:23:00Z,1908.1,-100.118198,28.339252,0,False,False,2026-10-14T03:13:55Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,88e30481-85c7-458c-a491-c3c8b1fd1d0c,residential,True,2009-10-17T11:20:23Z,159.8,-100.39141,28.723367,0,False,False,2026-10-14T03:14:02Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,8eeed8d6-11b3-402c-b8e5-02c772ab5bbf,residential,False,2026-05-28T03:03:38Z,1458.3,-100.424936,28.708585,0,False,False,2026-10-14T03:14:07Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,9a63d530-273f-46fb-a933-25a7ffdd7dac,residential,True,2009-10-17T11:10:36Z,953.5,-100.124959,28.243442,0,False,False,2026-10-14T03:14:19Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,a65e4362-3a91-4303-b75f-621e83e55b48,residential,True,2009-10-17T11:24:34Z,951.0,-100.31368,28.869458,0,False,False,2026-10-14T03:14:20Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,ad22fd8e-2dc6-43f6-a834-86979828e9d1,residential,True,2009-10-17T11:09:09Z,114.4,-100.260504,28.347789,0,False,False,2026-10-14T03:13:57Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,ae95449c-a741-4828-8434-fbac79baa99e,residential,True,2009-10-17T11:25:25Z,655.5,-100.308121,28.909322,0,False,False,2026-10-14T03:14:03Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,c0d5af93-3329-4a1b-a497-cecdba125b6e,trunk,False,2024-02-12T09:40:06Z,41.5,-100.432131,28.705753,3,True,True,2026-10-14T03:13:58Z,c30b0c0e971f7a92e55dfa8090daf9e90dcf81322429be53014e0eecc611ef77
+maverick,unnamed,c77a8a7a-f131-4eb9-a687-324a98a191a6,residential,True,2009-10-17T11:13:40Z,762.9,-100.272306,28.722402,0,False,False,2026-10-14T03:14:12Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,cb1ff5ce-5c1f-4531-9f8b-13b2b70c67aa,residential,False,2025-01-10T23:59:15Z,63.3,-100.152214,28.850128,0,False,False,2026-10-14T03:14:18Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,cedb021a-c3c4-40d9-8929-1096bfaa0319,residential,True,2009-10-17T11:25:22Z,1250.3,-100.271927,28.449908,0,False,False,2026-10-14T03:13:53Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,d167236a-4614-4101-add3-d1f4a1438d06,residential,True,2009-10-17T11:10:02Z,599.0,-100.24398,28.783681,0,False,False,2026-10-14T03:13:52Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,d644ea6f-1971-4b89-86b8-d93e894e0258,residential,True,2009-10-17T11:16:21Z,732.9,-100.25118,28.708221,0,False,False,2026-10-14T03:14:14Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,db9787d6-39e2-427e-892e-abe736f43234,residential,True,2009-10-17T11:25:41Z,1914.2,-100.156045,28.747054,0,False,False,2026-10-14T03:14:00Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,df9671ec-f235-41af-ba1e-7b14cf605463,residential,False,2017-06-01T02:29:36Z,186.8,-100.400928,28.937795,0,False,False,2026-10-14T03:13:59Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,f707603d-5318-4835-80c8-8859577e2c43,residential,True,2009-10-17T11:10:36Z,514.2,-100.40268,28.795579,0,False,False,2026-10-14T03:14:23Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+maverick,unnamed,f750a5e7-88b5-4c2e-9989-192cfa2bef4c,residential,True,2009-10-17T11:10:23Z,2202.5,-100.274019,28.690387,0,False,False,2026-10-14T03:14:09Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,named (control),0580945c-0621-4cff-8ccb-450b7e0cd31e,residential,False,2017-09-16T19:33:44Z,103.6,-99.262358,26.900899,2,True,True,2026-10-14T03:16:04Z,7b6066284ce324e7d2cee80747543079f0cdf4814cdeb84e6d44121a6bba77a2
+zapata,named (control),10969099-887e-48bf-b678-a08fd2619f9f,residential,False,2023-04-16T18:30:14Z,124.8,-99.263623,26.905656,2,True,True,2026-10-14T03:16:06Z,805f26895f46738b6a54eac25107675711e70f340ed7fa32f8166d9eb19b35e5
+zapata,named (control),297e7973-360c-4f63-bea9-a1632ff1008f,residential,False,2017-09-16T19:33:42Z,130.8,-99.262285,26.913567,2,True,True,2026-10-14T03:15:42Z,e6032a3bcfb558a02ba859341689b90fe5c9805a33e3febf99bc48b263830465
+zapata,named (control),2d2dcee5-7ecf-4732-b97b-6ebeed69671a,tertiary,False,2025-08-15T17:38:08Z,123.7,-99.26669,26.914196,1,True,True,2026-10-14T03:16:00Z,17f2da764f8d3abab54f528cdf705edf9c087039bb4ad45a5b289fb7280d4d9c
+zapata,named (control),2ef37e07-6d75-46a9-8f19-0f54690d7eb2,primary,False,2025-08-15T17:38:08Z,2056.2,-99.22153,26.940231,1,True,True,2026-10-14T03:15:56Z,ab739317b509765dcc5b57448db0dd29ca393b31ec56c7cbc10492205cdaf838
+zapata,named (control),35499bb1-fa92-48ae-b033-4785d59c5006,trunk,False,2026-06-01T21:57:31Z,55.7,-99.15568,26.814472,0,False,False,2026-10-14T03:15:41Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,named (control),3b62f279-6b39-4c3e-9351-2e40a5673582,residential,False,2022-06-28T04:26:18Z,103.2,-99.275853,26.907575,2,True,True,2026-10-14T03:15:57Z,8455948ba279e4f4a2ced9b0e9e629b47ff9b57a2d8d44b75650db39ceb9bc7c
+zapata,named (control),467ba4cb-b063-48f5-99ad-6fce213067f3,trunk,False,2026-06-01T21:57:31Z,314.6,-99.418395,27.233602,1,True,True,2026-10-14T03:16:05Z,643e72e03af1115032376b7dcf33272acb9537ac844fced755a87360c5bb01c0
+zapata,named (control),4a89a8c9-0a0a-4f89-a46d-c6bf0010a5c3,residential,False,2024-12-28T18:15:05Z,89.4,-99.257344,26.899264,2,True,True,2026-10-14T03:16:11Z,70a79ebde149282e23d8aa9552423f2e16d8b62c1eb6934a1eadb076f9e17e4b
+zapata,named (control),59f2e294-2e39-4e50-a33c-72a40ba36e6c,trunk,False,2026-06-01T21:57:31Z,1257.4,-99.286849,26.922339,1,True,True,2026-10-14T03:15:50Z,bc85fa3ec26cb06f7e2f3176aa71238a26662b2d34b5f21920425a150ed16588
+zapata,named (control),5e0af282-77c8-457c-ac42-ab3949f60e49,residential,False,2016-06-18T12:26:56Z,242.9,-99.251908,26.855774,2,True,True,2026-10-14T03:16:12Z,15e1b7c5cdfe6553e77804415275f0b14a253fc23a0fb438eb0c4a361aa9c3a8
+zapata,named (control),637b224f-e90a-4493-aac2-acbfc15e19ec,residential,False,2016-06-18T11:26:10Z,114.7,-99.277862,26.914629,2,True,True,2026-10-14T03:15:45Z,1935b58942d0ed3e81ddd2c4971c2478aa0e0f76896388650c16b6df3a772518
+zapata,named (control),7f262e50-4d5c-4e92-83a5-4edb40b67ecf,tertiary,False,2025-08-15T17:38:08Z,159.3,-99.272246,26.921083,3,True,True,2026-10-14T03:15:39Z,af4495247bc5f134169a10f7d319894b0797692700ad845216a207cab2f7cd9c
+zapata,named (control),87da408d-b5c2-4709-a0ec-62a56aed5605,primary,False,2025-05-22T07:38:09Z,102.8,-99.263968,26.912468,2,True,True,2026-10-14T03:15:49Z,f8db9342bf5a3ee4a6a6530a8541fb05ac6340a5f884121b0b7322b5a55159a5
+zapata,named (control),938fa04b-63ed-482b-a5f8-6fc457bf4623,residential,False,2016-06-18T15:28:42Z,39.5,-99.292254,26.870239,3,True,True,2026-10-14T03:16:08Z,f7580ab63e9eec2b67f3c33775766392659f3428b14258d40c8bbbbbaecefe73
+zapata,named (control),97ccf8aa-159b-4823-a946-4e507c945885,trunk,False,2026-06-01T21:57:31Z,305.9,-99.422286,27.276425,1,True,True,2026-10-14T03:15:38Z,1077f7e326433905d22dba5200f9fd19af77ca684c74365f4e3073043359a0f5
+zapata,named (control),992ef073-0799-42e3-8473-271eaa751abe,residential,False,2016-06-18T12:26:56Z,72.5,-99.253238,26.858478,2,True,True,2026-10-14T03:15:53Z,42320b364dd89f87c828d1ec3b97c52e7ed987647e00b1afdbb2770014ac0bc9
+zapata,named (control),9f0057a2-0a97-4cc8-bffd-6e55e1786735,residential,False,2015-11-17T17:08:49Z,110.4,-99.094826,26.63835,2,True,True,2026-10-14T03:15:44Z,b835b47f4588482bd8da18f7332d7446f1e7e01162a766c5e698205066e10a65
+zapata,named (control),a85989f1-c2b3-4742-a3e1-fdb0fdac599e,tertiary,False,2022-05-15T22:34:33Z,43.7,-99.271733,26.881636,3,True,True,2026-10-14T03:16:03Z,1e07f74af1d2114af3f4581b1b0985799792617df3578e348af29c234b6e0255
+zapata,named (control),aecab081-88e7-4fba-baab-398e079c42a7,residential,False,2023-04-21T04:17:27Z,111.5,-99.443046,27.043627,2,True,True,2026-10-14T03:15:58Z,42d713b83e910b7845f1522689fe8bc6339e43c9b12041d6b81a6befb7f17a8c
+zapata,named (control),b1270f84-4105-4056-b149-f5a6fa5df4db,residential,False,2017-09-16T19:33:40Z,112.4,-99.267984,26.902817,3,True,True,2026-10-14T03:16:01Z,b721f20296fd72e4e46a00c5136cc83580351f626afe051eb4176adda5202045
+zapata,named (control),b8e21a28-827c-4260-a293-81112f9b77c0,tertiary,False,2023-04-16T18:30:14Z,61.8,-99.257895,26.919272,2,True,True,2026-10-14T03:15:52Z,26c51676a9d4206a043e50a0f312e207b62946982697d1954da03afa113248b2
+zapata,named (control),c09e5424-e8b8-4ece-a3f4-93a3d9a87ee0,residential,False,2016-06-18T12:26:54Z,227.2,-99.254663,26.851372,3,True,True,2026-10-14T03:15:43Z,a838b20d810833eae4294431cdd32a3582387c17216a87b9308e23fe898e8825
+zapata,named (control),d5d9fabc-5f0f-47b1-86b8-88b0cb590466,residential,False,2022-06-28T04:26:18Z,104.5,-99.274575,26.908405,1,True,True,2026-10-14T03:15:55Z,b9290faec706e359f18f4871866896344473899205f51f41d4f7af8e7932e7e5
+zapata,named (control),d7d2d81b-e8e5-4e43-9daf-c74e0193f470,residential,False,2019-11-17T19:56:36Z,148.4,-99.120742,26.779338,2,True,True,2026-10-14T03:16:07Z,8265e4c525f558bd2d2da05e858601259b3e84e604fec19fe6f77c17788c1117
+zapata,named (control),da1422be-8b91-458d-986b-a3506b65c0ac,tertiary,False,2023-04-23T05:38:10Z,184.7,-99.262534,26.896746,2,True,True,2026-10-14T03:15:47Z,7011164403fed3a9f57fb11c3cb4141f6d915a694fb88966fb4901eec8a14e0e
+zapata,named (control),e0eac9de-1f9e-4905-b72f-c99eeca6e09b,residential,False,2016-06-18T11:26:05Z,61.7,-99.252097,26.921655,3,True,True,2026-10-14T03:16:09Z,744b72b703b59a95b05d974df405fff97357d9ee3e4a9231b4e5b5f80e741060
+zapata,named (control),f324bc24-722e-48c9-bde1-4bfb8de6cfba,residential,False,2016-06-18T12:26:39Z,97.5,-99.25624,26.870712,3,True,True,2026-10-14T03:15:59Z,82bf0462143f774350fa86cb112cd9ede8e1314083980423504f3147f0699dec
+zapata,named (control),f603627a-c636-4b45-aeb0-e2b9eda90501,residential,False,2016-06-18T11:26:10Z,125.3,-99.277084,26.92071,2,True,True,2026-10-14T03:15:46Z,fe0c6247111f26645aa3d67da2d17127b7e2510e160b5f8aaf209f0da3604cba
+zapata,named (control),fe4b1bdf-544b-4eaa-aecf-16ff70854c88,residential,False,2016-06-18T15:28:43Z,106.9,-99.284328,26.871172,2,True,True,2026-10-14T03:15:51Z,49abab821997f0127b4cbec009bfd3901302dfdea2c8379e637d390b61d9f2d8
+zapata,unnamed,015db873-be7b-4fc3-aad8-526f9e9d5e48,residential,False,2026-04-22T22:59:32Z,87.6,-99.383443,27.006102,1,True,True,2026-10-14T03:15:08Z,34c3bae4faa111d4ce6307ebaf5b243b2701df25fc22415482adacb7b52d41f4
+zapata,unnamed,0fd25b1d-45fa-481b-9bab-3e5f0efaa970,residential,False,2023-04-14T11:49:21Z,1344.0,-99.017624,27.247063,0,False,False,2026-10-14T03:15:33Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,1682fdd3-20b8-4d8a-971e-42c0be18174e,residential,False,2014-04-23T21:54:19Z,534.2,-98.968784,27.094475,0,False,False,2026-10-14T03:15:19Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,2d2aef57-d6ac-4194-92b1-1fb760958f50,residential,True,2009-09-07T17:55:41Z,2028.2,-99.100279,26.889324,0,False,False,2026-10-14T03:15:28Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,32b8f703-495a-4b2c-9c82-ef614d94cc77,residential,True,2009-09-07T17:55:07Z,314.4,-99.312456,27.001685,0,False,False,2026-10-14T03:15:23Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,3f5e93a4-7bff-47b2-947a-fc8d18eb891e,residential,True,2009-09-07T17:56:44Z,652.9,-99.005619,26.796269,0,False,False,2026-10-14T03:15:37Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,43426e78-a384-41bc-880a-147f7f37b582,residential,True,2009-09-07T17:47:00Z,974.8,-99.388837,27.155974,0,False,False,2026-10-14T03:15:30Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,44a8ab39-aa30-4861-8808-70fc41156b91,residential,True,2009-09-07T17:34:29Z,168.5,-99.183311,26.876507,0,False,False,2026-10-14T03:15:12Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,56a462bf-54a5-4ee9-bc21-8317618ecd9a,residential,True,2009-09-07T17:35:41Z,310.9,-99.327365,27.104398,0,False,False,2026-10-14T03:15:03Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,594e29b0-7f33-476c-82cd-b123e2d87f46,unclassified,False,2026-04-23T13:37:02Z,1386.4,-99.420648,27.037481,1,True,True,2026-10-14T03:15:17Z,415c274681592c91ab1ddec6a8a34fe768a82b857cd6317c4e73833843075a62
+zapata,unnamed,5ec7fe8f-387c-4078-ace8-ae107d710e6b,residential,False,2016-06-18T15:39:31Z,139.0,-99.275472,26.953628,0,False,False,2026-10-14T03:15:06Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,67c65214-c062-4300-8a0a-478f253220e8,residential,False,2023-05-17T04:28:53Z,1950.7,-99.429635,27.23265,0,False,False,2026-10-14T03:15:35Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,75b2ab1e-f157-4619-88f6-0e9675d0f0d8,unclassified,False,2022-04-25T06:34:05Z,1907.4,-99.013965,26.990458,0,False,False,2026-10-14T03:15:09Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,785c69e2-0381-4acb-9cb7-be0582fc0384,residential,True,2009-09-07T17:50:25Z,1623.8,-99.225901,27.215287,0,False,False,2026-10-14T03:15:13Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,79e8363d-4948-441b-93ab-267cf657b750,residential,True,2009-09-07T17:35:34Z,855.3,-99.039417,26.850079,0,False,False,2026-10-14T03:15:16Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,7c09e761-0b45-42d4-b45e-34e8c2997de2,residential,False,2026-05-20T18:54:24Z,2519.5,-99.038627,27.070556,0,False,False,2026-10-14T03:15:26Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,82c64d13-4029-4e93-ad6c-1fc1e0b587cb,residential,True,2009-11-18T01:07:32Z,1494.3,-99.161211,27.216485,0,False,False,2026-10-14T03:15:29Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,89b15546-269b-44cc-b9d6-15c9704f2068,residential,True,2009-09-07T17:32:44Z,142.4,-99.374025,27.140175,0,False,False,2026-10-14T03:15:22Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,933b39df-9f3b-438d-a3d1-f4bccad926a1,residential,True,2009-09-07T17:55:11Z,841.5,-99.068882,27.10624,0,False,False,2026-10-14T03:15:05Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,a0a4699d-ec3d-4850-8519-e80a0ad4ae13,residential,True,2009-09-07T17:35:06Z,2436.9,-99.09472,26.948309,0,False,False,2026-10-14T03:15:18Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,abb64ecf-1da9-42ac-8128-53022bdf8d09,unclassified,False,2022-04-21T14:17:51Z,72.6,-99.206977,26.8924,0,False,False,2026-10-14T03:15:04Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,ad29253a-7497-4a88-843a-7c781de3fd26,residential,False,2025-01-04T14:32:44Z,7234.2,-99.16189,27.090184,0,False,False,2026-10-14T03:15:31Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,af766506-9ea4-430a-953e-eb3c7e5a94a0,residential,False,2025-05-19T05:55:04Z,496.1,-99.335407,26.935143,0,False,False,2026-10-14T03:15:10Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,b022bc12-7e42-4d23-b0fe-2319b8e8fcef,residential,True,2009-09-07T17:37:14Z,175.2,-99.050332,26.86446,0,False,False,2026-10-14T03:15:25Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,b21cde11-1175-4558-8a2e-58c790fac9e5,residential,False,2026-05-20T19:35:40Z,503.1,-99.059093,27.115115,0,False,False,2026-10-14T03:15:34Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,c4a6d5fa-a5ee-461b-a6be-8133a3278991,unclassified,False,2022-04-25T06:26:28Z,69.0,-99.032463,26.972381,0,False,False,2026-10-14T03:15:20Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,c74abe5d-bc9c-4b36-ada6-bbc39d4cc85a,residential,True,2009-11-18T01:07:32Z,699.6,-99.173736,27.158835,0,False,False,2026-10-14T03:15:27Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,d339aa6e-9757-4e77-adae-16da07c05dfa,residential,False,2022-04-25T06:20:15Z,2235.4,-98.982602,26.974843,0,False,False,2026-10-14T03:15:15Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,d417e98a-0a47-48b7-a381-d891e475bbe6,unclassified,False,2022-04-25T06:37:14Z,886.9,-99.010273,26.952208,0,False,False,2026-10-14T03:15:36Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zapata,unnamed,f7c29477-1aff-4f5e-91eb-b41332e38e7f,residential,True,2011-11-19T08:32:46Z,572.2,-99.010607,26.865686,1,True,True,2026-10-14T03:15:11Z,e1f627210f0ac043f820a510952ba8c95910947227548929a5ba35ab08f1605a
+zavala,named (control),07d91679-5b26-441a-91a5-19c7f5e1ed40,residential,False,2025-06-06T12:25:49Z,327.3,-99.825338,28.682545,2,True,True,2026-10-14T03:19:57Z,e0e0e6bb2f70329e2e81b4744c54d922a9842f03b9c326ff6456e1bf0046885f
+zavala,named (control),0b4fea61-d305-44c2-a8f0-c1dcb5e8b632,residential,False,2016-02-23T03:16:45Z,258.3,-99.828276,28.6939,2,True,True,2026-10-14T03:19:42Z,df6497709a78806883ff6e8736ba60c3b19dd4a0503271c4e38bef3a4f3b1cb5
+zavala,named (control),0bebfe6c-1ef0-4a8f-a205-6d689a178d01,residential,False,2021-05-28T10:14:14Z,34.2,-99.618095,28.961259,1,True,True,2026-10-14T03:19:44Z,56713b1c4da6f8c2c927fdd016422261f772e6a6775db8e4ca4585f873f2e9b3
+zavala,named (control),17621834-ad2e-447f-91a1-3a4f6f3f946d,residential,True,2010-04-07T13:53:50Z,225.4,-99.804475,28.65889,1,True,True,2026-10-14T03:20:15Z,c8c859435817459ff856d5e5f934661096f23f39dbb8299fe68de75564c72992
+zavala,named (control),1e69f6d2-4b60-4147-9dda-0d7c1e48c45d,residential,False,2021-02-28T18:18:58Z,103.0,-99.850013,28.950944,2,True,True,2026-10-14T03:19:48Z,9ef3657a7b659fde0fad936448c1d6299520559b5b5cf9ee1853a18224700cf5
+zavala,named (control),251d6ef3-537f-4cb7-8878-5809fd51ac66,residential,True,2010-04-07T13:53:57Z,89.1,-99.816035,28.676185,2,True,True,2026-10-14T03:19:43Z,48343651ef7416e868c55b7c6b2934429a6ef1febdcfbcf88a79853593a482aa
+zavala,named (control),2e7e4958-5c16-4229-85e2-f28987542556,trunk,False,2025-05-22T07:38:32Z,163.0,-99.850075,28.941375,6,True,True,2026-10-14T03:19:49Z,056735745bcffd558ff5d047deb212e6a5df135794ee86d7229c835681700104
+zavala,named (control),3aa7facd-8bd5-4bc7-a65e-1389b38990b8,residential,True,2010-04-07T13:53:37Z,149.3,-99.618651,28.960683,2,True,True,2026-10-14T03:20:08Z,407b64502fed7ea377adbf0cd85b2c05196126af3abdd550e4b5da6351aaba39
+zavala,named (control),3ca9faf1-e5f9-4433-bb8d-af8564740da7,residential,False,2025-05-18T13:54:48Z,133.6,-99.84832,28.948276,2,True,True,2026-10-14T03:19:56Z,198d3bc9b0d779268c6e00c0c500d72b3b36f18460f7002b59369a3ffaf68a83
+zavala,named (control),44cf5f23-ae7a-4e4b-bb00-f2153ca43604,residential,True,2010-04-07T13:54:23Z,830.8,-99.715292,28.658761,1,True,True,2026-10-14T03:19:45Z,615cb46961c8721917afa4ab985f1d3fc9fd414f97487764112cce7dedb08241
+zavala,named (control),607fa233-d132-4853-a94c-fa4e5a5c9134,residential,False,2023-12-07T01:01:50Z,112.4,-99.828595,28.680528,1,True,True,2026-10-14T03:20:01Z,e68b698244d4e4931e50590c4e4db9ba4df422d7c0223d30005706b1226e1b4c
+zavala,named (control),7245ab9a-b45e-41a4-8eec-a4bd6d125a30,residential,True,2010-04-07T13:53:48Z,95.7,-99.818112,28.679423,2,True,True,2026-10-14T03:19:53Z,1162f04d252113116ded90bbfcb2def45aaa7bd004ea11a962ad5c1459b9effe
+zavala,named (control),7bb79433-59af-4465-9c59-9f00bd075058,residential,False,2025-05-18T13:54:48Z,132.3,-99.844589,28.939339,2,True,True,2026-10-14T03:20:04Z,01aa8fd658680299f279ae2ce3110bbb8e30da06b133ed48eb98e827802d4829
+zavala,named (control),86a2d7d9-eb19-49f0-8c70-ca5e500e794e,residential,False,2025-05-18T13:54:48Z,131.2,-99.844115,28.938232,3,True,True,2026-10-14T03:20:13Z,b1bf18cffc4e6abb06b8e334e7d264fdd90bfdac19bb198810a10043e309e5a6
+zavala,named (control),8ed80a00-2874-46fe-a05c-4a7865daffbc,residential,True,2009-11-28T03:29:56Z,1151.9,-99.865143,28.736155,0,False,False,2026-10-14T03:19:55Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,named (control),8f070365-0aba-4082-aa67-6044b4c39b92,residential,False,2025-05-18T13:54:48Z,131.4,-99.845861,28.93895,2,True,True,2026-10-14T03:20:14Z,706898d1c7d33d20956ad1f4e6d9b562de03988101ef14d055979f0d43cbad65
+zavala,named (control),985cdeb6-e12e-428e-aa42-f6c75bda01f5,trunk,False,2025-06-10T12:50:31Z,349.4,-100.101941,28.929327,1,True,True,2026-10-14T03:19:50Z,9f6ee46269a4c0acee5d12c203c6fc2dba585a6de453ee35f63d70d957fcf9fa
+zavala,named (control),9861134b-8da6-4a4e-a31c-7ca7161c8796,residential,True,2010-04-07T13:54:46Z,353.9,-99.613883,28.949319,1,True,True,2026-10-14T03:19:59Z,8ee4e5cae231bd15aac1b11adf301cec3784226e61849a70483035f720736034
+zavala,named (control),a4f722be-87c7-4e75-93a7-83ee8772ff9f,residential,False,2021-02-28T18:18:58Z,136.3,-99.853367,28.949867,2,True,True,2026-10-14T03:20:12Z,19ce31441e66a5dbd33d61141ce0fa6d6f02eda86ec99a81e7faba6445f4e501
+zavala,named (control),ac8f196f-21a8-45ce-9f6a-2f15f7cae313,residential,False,2023-12-07T01:01:50Z,20.4,-99.818347,28.682648,1,True,True,2026-10-14T03:20:03Z,fdb6b429ad52c42f26844a550deb25f29806ec218c0a1d46c9fca56205298e8e
+zavala,named (control),add478e7-9535-46f3-92ea-e40e3145f46f,residential,False,2021-03-15T19:17:19Z,28.5,-99.799355,28.80466,2,True,True,2026-10-14T03:19:40Z,a2c03694b12326c645c48f9d0417c0641425fef11b6d86a50d78300bf78f1443
+zavala,named (control),b419a501-eee2-4c6d-9bb9-08b22f11ed82,trunk,False,2026-06-01T21:57:31Z,1367.0,-99.851401,28.794698,1,True,True,2026-10-14T03:20:02Z,8aae291db6e14673dc8e876473c36849644c0f0366ca2e99d79c9cf7fc4c4af3
+zavala,named (control),b4afacb7-aa21-4742-b1f9-26a9ab5e9951,residential,False,2016-02-23T03:16:44Z,106.9,-99.829248,28.690541,2,True,True,2026-10-14T03:19:46Z,39e76e9cb67505d6ad4d4e80a1b9d4553adc1d34a2712407202c6b63f0d2a41c
+zavala,named (control),ba34c1b8-a4d4-4b2c-bb98-844154e89171,residential,False,2025-05-18T13:54:48Z,133.3,-99.845521,28.94156,2,True,True,2026-10-14T03:19:58Z,9d5d84bdb3ecd026e6ea5fb1285ecfc6f50e499ed7c42328102b31c61a34da47
+zavala,named (control),c0a69878-85c9-4d6a-a253-fc1a263700e6,residential,True,2009-11-28T03:59:29Z,613.6,-99.624453,28.980662,1,True,True,2026-10-14T03:20:09Z,b4f456ff39e012888df25660ee03239b9c863d58c535772e4ca6346d1491239b
+zavala,named (control),c76acdb2-d1c2-4b2f-9890-ae4bc8eff1ac,secondary,False,2025-06-02T06:16:02Z,1451.0,-99.78581,28.65464,1,True,True,2026-10-14T03:19:52Z,44c07e763691ad2d009b3d08af4704cf7dbc8adb704d0557da5ac7a54cc456e0
+zavala,named (control),d11c38cc-aace-45e7-9bd2-8c8450606f99,residential,True,2010-04-07T13:54:38Z,626.6,-99.765167,28.79487,1,True,True,2026-10-14T03:19:51Z,dde821914cfd95ad8e83015c8eec6c42ee46c1acabdb22a2b87a77b04285261a
+zavala,named (control),e138f0fd-b765-409c-9756-543f7c13ab0d,trunk,False,2026-06-01T21:57:31Z,1217.9,-99.839984,29.072792,1,True,True,2026-10-14T03:20:07Z,9edf0d1d0a808fc4fb1488603d10112322abef948ef9e51b6bd79d0f7fd6ac33
+zavala,named (control),ee02d86f-fd5e-41b4-934d-50e458713974,residential,True,2010-04-07T13:54:18Z,146.1,-99.805275,28.659898,1,True,True,2026-10-14T03:20:11Z,24a4f5918fdcca07cf7b395ff651319cd58f26af5ce212301bb42c2a6e51306c
+zavala,named (control),f0e29961-79d1-43f6-8ebc-23345413fd2c,residential,False,2025-05-18T13:54:48Z,131.9,-99.840931,28.951276,1,True,True,2026-10-14T03:20:06Z,ab722eae6c150b3955d303002661d9f0ea3cf7f3f73fbd77589a85191f58eb75
+zavala,unnamed,04c888d6-ef17-4702-9104-fdfdb6aa467d,residential,True,2009-11-28T03:22:26Z,365.7,-99.810096,29.02796,0,False,False,2026-10-14T03:19:10Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,0d2d2ed8-3689-42ae-a2ab-512d125b8897,residential,True,2009-11-28T03:18:26Z,680.4,-100.072455,28.775337,0,False,False,2026-10-14T03:19:36Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,1193a1a5-5deb-4302-9448-068328a735e9,residential,True,2009-11-28T03:50:30Z,1528.0,-99.903394,29.08318,0,False,False,2026-10-14T03:19:15Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,13ffe352-ee68-48ac-bc15-af472ff18fdd,residential,True,2009-11-28T03:26:31Z,559.9,-100.046767,28.967602,0,False,False,2026-10-14T03:19:14Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,1b4d4d05-f696-48ce-b8bf-4ddc8270c532,residential,True,2009-11-28T03:31:22Z,2781.2,-99.572756,29.078421,0,False,False,2026-10-14T03:19:35Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,1c43f6a1-cf0d-4a3e-b96c-0fdd4dc9ea0b,residential,True,2009-11-28T03:18:23Z,465.4,-99.419573,29.076266,0,False,False,2026-10-14T03:19:27Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,1d360642-7eec-413c-b680-7a95cec6c397,residential,True,2009-11-28T03:53:51Z,779.4,-100.020208,28.74409,0,False,False,2026-10-14T03:19:32Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,28225c58-88f5-41e1-821a-7e2bb431cad7,residential,True,2009-11-28T03:52:39Z,1183.7,-99.918033,28.956089,0,False,False,2026-10-14T03:19:24Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,58e23c75-998e-4226-abd0-8df96b92eca0,residential,True,2009-11-28T03:38:38Z,79.1,-100.0197,28.711499,0,False,False,2026-10-14T03:19:38Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,5c0539d0-42e5-47b1-8dbd-48efafe07868,residential,True,2009-11-28T03:20:36Z,57.9,-99.937102,28.891866,0,False,False,2026-10-14T03:19:18Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,6a352607-1dd0-4bc3-bd88-0c9e705ac91b,residential,False,2020-11-25T07:58:05Z,1406.1,-99.707827,28.711911,0,False,False,2026-10-14T03:19:13Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,7025eeb8-f3aa-4d24-9fb4-7f5ba53d99ff,residential,True,2009-11-28T03:26:25Z,104.3,-99.897898,28.882254,0,False,False,2026-10-14T03:19:07Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,7aa803e0-05c2-4392-b9f9-18513e26f068,residential,True,2009-11-28T03:43:31Z,556.0,-99.963367,28.734344,0,False,False,2026-10-14T03:19:34Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,7d491c3a-db61-4360-a9b2-e02af8e63801,residential,True,2009-11-28T03:45:04Z,2294.6,-99.426823,29.064708,0,False,False,2026-10-14T03:19:12Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,8289ee20-9d68-4b70-8af5-04c515320137,residential,True,2009-11-28T03:44:29Z,832.0,-100.024963,29.065843,0,False,False,2026-10-14T03:19:20Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,84c8a765-ce5b-4e12-a47b-7e1641f4af3d,residential,False,2025-01-09T16:05:19Z,810.8,-99.880646,28.66662,0,False,False,2026-10-14T03:19:08Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,8a02a18a-e8dc-4271-9599-1972f475098e,residential,True,2009-11-28T03:32:30Z,1958.3,-99.903459,29.015049,0,False,False,2026-10-14T03:19:09Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,8b77c4ce-315e-4e10-8f8f-2ff43c910c77,residential,True,2009-11-28T03:41:42Z,1981.9,-99.77249,28.890935,0,False,False,2026-10-14T03:19:33Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,90f2ef29-2f89-48c5-bd9a-07c9a31ba22a,residential,True,2009-11-28T03:52:24Z,624.5,-99.867531,28.959027,1,True,True,2026-10-14T03:19:04Z,da9d2923da62b27ed4a43755bf4c3bd42c31df7e5e11507cdae599ae9f3a42d7
+zavala,unnamed,9aa58226-ea75-4a14-ba0a-ebdc0c8b84e5,secondary,False,2025-06-02T06:13:39Z,2278.4,-100.084629,29.055788,1,True,True,2026-10-14T03:19:28Z,b38d9b26114b776cacadef42238d4823ae26363fb324dd5e092c6fdf9a17534c
+zavala,unnamed,9ff92f44-81dd-4e51-bcb4-ab1d07091aec,residential,False,2020-11-16T09:40:01Z,5013.5,-99.805492,28.827972,0,False,False,2026-10-14T03:19:21Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,a58db61a-4ba4-4efa-9a2f-30c7cf1e2534,residential,True,2009-11-28T03:47:07Z,1075.9,-99.558316,28.950043,0,False,False,2026-10-14T03:19:26Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,abaea92c-9c9d-41fa-974d-b3c992a078b9,residential,True,2009-11-28T03:20:01Z,259.8,-100.057382,28.687303,0,False,False,2026-10-14T03:19:22Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,b38b8659-c9c0-4526-a2e9-c05ed0322e0f,residential,True,2009-11-28T03:32:10Z,835.2,-99.785778,29.074102,0,False,False,2026-10-14T03:19:17Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,b47e9ba6-ab63-42c7-92b3-4cb1d2bf8f58,residential,True,2009-11-28T03:31:15Z,961.9,-100.106572,28.922169,0,False,False,2026-10-14T03:19:30Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,bb673bb3-6a35-47c5-85dc-3e9233b218cc,residential,True,2009-11-28T03:20:51Z,530.6,-99.872196,28.949247,1,True,True,2026-10-14T03:19:16Z,879e72ee75287b120a58a72894c98e397ddd33557bc189a86da3590c7bfdbf82
+zavala,unnamed,c785934f-a149-4cc5-89ee-1e10f60d7720,residential,True,2009-11-28T03:28:24Z,324.0,-99.822038,28.696848,1,True,True,2026-10-14T03:19:39Z,0686994fc904fbab0401cde14aa92103dfa3a4ee5aa6653658ba188eaaeaae81
+zavala,unnamed,ca9ddeba-ea3d-4894-ab0c-8c50755866da,residential,True,2009-11-28T03:49:01Z,699.3,-99.559329,28.991817,0,False,False,2026-10-14T03:19:23Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,e1339e16-99d3-44c1-87ec-53c2d4ba172f,residential,True,2009-11-28T03:43:33Z,190.7,-99.620735,28.983298,0,False,False,2026-10-14T03:19:29Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808
+zavala,unnamed,e40761a9-ffae-4ea1-ba6a-2a037344159b,residential,True,2009-11-28T03:20:36Z,1969.1,-99.912278,28.910566,0,False,False,2026-10-14T03:19:06Z,1fc423ae159c0a6192968e2e21dcdcc14f433100443c8a90144534292b03c808

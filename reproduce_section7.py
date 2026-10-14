@@ -1,12 +1,13 @@
 """One command for everything in WRITEUP §7 (Best Bias Discovery).
 
     PYTHONUTF8=1 python reproduce_section7.py            # tables + offline spot-check + figure (needs the challenge data)
-    PYTHONUTF8=1 python reproduce_section7.py --offline  # only the TxDOT spot-check from the frozen responses (no data, no network)
+    PYTHONUTF8=1 python reproduce_section7.py --offline  # only the TxDOT spot-check table from our results CSV (no data, no network)
     PYTHONUTF8=1 python reproduce_section7.py --online   # also re-query the TxDOT service (>= 0.5 s between requests)
 
 Steps, in order:
   1. bias_discovery.py          -> bias_discovery_out.md (every number in §7.2, §7.3 and the import-era stratum); ~5 min
-  2. spotcheck_txdot.py --offline -> verifies spotcheck/txdot_responses/SHA256SUMS and rebuilds spotcheck/spotcheck_txdot_summary.md
+  2. spotcheck_txdot.py --offline -> rebuilds spotcheck/spotcheck_txdot_summary.md from spotcheck/spotcheck_txdot_results.csv
+     (raw TxDOT responses are not redistributed; `python spotcheck_txdot.py` re-queries the service online)
   3. figure_unnamed_roads.py    -> figures/fig_unnamed_roads.png
 Data folder: ./data next to the scripts, or ZINDI_WORK. Each step is an ordinary script; run them separately if preferred.
 """

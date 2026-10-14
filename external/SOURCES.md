@@ -19,4 +19,4 @@ facilities, CBP establishments).
 ## 2. TxDOT Roadway Inventory (ground-truth spot-check)
 
 See `../spotcheck/TXDOT_SOURCE.md` for the feature-service URL, the exact query parameters, the retrieval date, the
-licence statement and the frozen responses with their SHA-256 manifest.
+licence statement, what is published (our per-segment observations and the SHA-256 of each response; raw responses are not redistributed) and the online reproduction command.

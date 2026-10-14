@@ -1,4 +1,4 @@
-TxDOT Roadway Inventory within 30 m of the segment midpoint; 6 counties (brooks, edwards, kinney, maverick, zapata, zavala); retrieved 2026-10-14 to 2026-10-14 UTC.
+TxDOT Roadway Inventory within 30 m of the segment midpoint; 6 counties (brooks, edwards, kinney, maverick, zapata, zavala); retrieved 2026-10-14 to 2026-10-14 UTC. Derived from our per-segment observation table (`spotcheck_txdot_results.csv`); raw responses are not redistributed (see TXDOT_SOURCE.md).
 
 Pooled: unnamed 163/180 absent from the inventory (89.5% of sampled unnamed km), 17/180 carry a TxDOT name or highway id; named controls 161/180 in the inventory, 161/180 with a TxDOT name or highway id.
 
