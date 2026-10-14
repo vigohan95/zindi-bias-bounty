@@ -1,0 +1,477 @@
+USPS,STATEFP,COUNTYFP,NAME
+AZ,04,001,Apache County
+AZ,04,003,Cochise County
+AZ,04,005,Coconino County
+AZ,04,007,Gila County
+AZ,04,009,Graham County
+AZ,04,011,Greenlee County
+AZ,04,012,La Paz County
+AZ,04,013,Maricopa County
+AZ,04,015,Mohave County
+AZ,04,017,Navajo County
+AZ,04,019,Pima County
+AZ,04,021,Pinal County
+AZ,04,023,Santa Cruz County
+AZ,04,025,Yavapai County
+AZ,04,027,Yuma County
+CA,06,001,Alameda County
+CA,06,003,Alpine County
+CA,06,005,Amador County
+CA,06,007,Butte County
+CA,06,009,Calaveras County
+CA,06,011,Colusa County
+CA,06,013,Contra Costa County
+CA,06,015,Del Norte County
+CA,06,017,El Dorado County
+CA,06,019,Fresno County
+CA,06,021,Glenn County
+CA,06,023,Humboldt County
+CA,06,025,Imperial County
+CA,06,027,Inyo County
+CA,06,029,Kern County
+CA,06,031,Kings County
+CA,06,033,Lake County
+CA,06,035,Lassen County
+CA,06,037,Los Angeles County
+CA,06,039,Madera County
+CA,06,041,Marin County
+CA,06,043,Mariposa County
+CA,06,045,Mendocino County
+CA,06,047,Merced County
+CA,06,049,Modoc County
+CA,06,051,Mono County
+CA,06,053,Monterey County
+CA,06,055,Napa County
+CA,06,057,Nevada County
+CA,06,059,Orange County
+CA,06,061,Placer County
+CA,06,063,Plumas County
+CA,06,065,Riverside County
+CA,06,067,Sacramento County
+CA,06,069,San Benito County
+CA,06,071,San Bernardino County
+CA,06,073,San Diego County
+CA,06,075,San Francisco County
+CA,06,077,San Joaquin County
+CA,06,079,San Luis Obispo County
+CA,06,081,San Mateo County
+CA,06,083,Santa Barbara County
+CA,06,085,Santa Clara County
+CA,06,087,Santa Cruz County
+CA,06,089,Shasta County
+CA,06,091,Sierra County
+CA,06,093,Siskiyou County
+CA,06,095,Solano County
+CA,06,097,Sonoma County
+CA,06,099,Stanislaus County
+CA,06,101,Sutter County
+CA,06,103,Tehama County
+CA,06,105,Trinity County
+CA,06,107,Tulare County
+CA,06,109,Tuolumne County
+CA,06,111,Ventura County
+CA,06,113,Yolo County
+CA,06,115,Yuba County
+NM,35,001,Bernalillo County
+NM,35,003,Catron County
+NM,35,005,Chaves County
+NM,35,006,Cibola County
+NM,35,007,Colfax County
+NM,35,009,Curry County
+NM,35,011,De Baca County
+NM,35,013,Doña Ana County
+NM,35,015,Eddy County
+NM,35,017,Grant County
+NM,35,019,Guadalupe County
+NM,35,021,Harding County
+NM,35,023,Hidalgo County
+NM,35,025,Lea County
+NM,35,027,Lincoln County
+NM,35,028,Los Alamos County
+NM,35,029,Luna County
+NM,35,031,McKinley County
+NM,35,033,Mora County
+NM,35,035,Otero County
+NM,35,037,Quay County
+NM,35,039,Rio Arriba County
+NM,35,041,Roosevelt County
+NM,35,043,Sandoval County
+NM,35,045,San Juan County
+NM,35,047,San Miguel County
+NM,35,049,Santa Fe County
+NM,35,051,Sierra County
+NM,35,053,Socorro County
+NM,35,055,Taos County
+NM,35,057,Torrance County
+NM,35,059,Union County
+NM,35,061,Valencia County
+OK,40,001,Adair County
+OK,40,003,Alfalfa County
+OK,40,005,Atoka County
+OK,40,007,Beaver County
+OK,40,009,Beckham County
+OK,40,011,Blaine County
+OK,40,013,Bryan County
+OK,40,015,Caddo County
+OK,40,017,Canadian County
+OK,40,019,Carter County
+OK,40,021,Cherokee County
+OK,40,023,Choctaw County
+OK,40,025,Cimarron County
+OK,40,027,Cleveland County
+OK,40,029,Coal County
+OK,40,031,Comanche County
+OK,40,033,Cotton County
+OK,40,035,Craig County
+OK,40,037,Creek County
+OK,40,039,Custer County
+OK,40,041,Delaware County
+OK,40,043,Dewey County
+OK,40,045,Ellis County
+OK,40,047,Garfield County
+OK,40,049,Garvin County
+OK,40,051,Grady County
+OK,40,053,Grant County
+OK,40,055,Greer County
+OK,40,057,Harmon County
+OK,40,059,Harper County
+OK,40,061,Haskell County
+OK,40,063,Hughes County
+OK,40,065,Jackson County
+OK,40,067,Jefferson County
+OK,40,069,Johnston County
+OK,40,071,Kay County
+OK,40,073,Kingfisher County
+OK,40,075,Kiowa County
+OK,40,077,Latimer County
+OK,40,079,Le Flore County
+OK,40,081,Lincoln County
+OK,40,083,Logan County
+OK,40,085,Love County
+OK,40,087,McClain County
+OK,40,089,McCurtain County
+OK,40,091,McIntosh County
+OK,40,093,Major County
+OK,40,095,Marshall County
+OK,40,097,Mayes County
+OK,40,099,Murray County
+OK,40,101,Muskogee County
+OK,40,103,Noble County
+OK,40,105,Nowata County
+OK,40,107,Okfuskee County
+OK,40,109,Oklahoma County
+OK,40,111,Okmulgee County
+OK,40,113,Osage County
+OK,40,115,Ottawa County
+OK,40,117,Pawnee County
+OK,40,119,Payne County
+OK,40,121,Pittsburg County
+OK,40,123,Pontotoc County
+OK,40,125,Pottawatomie County
+OK,40,127,Pushmataha County
+OK,40,129,Roger Mills County
+OK,40,131,Rogers County
+OK,40,133,Seminole County
+OK,40,135,Sequoyah County
+OK,40,137,Stephens County
+OK,40,139,Texas County
+OK,40,141,Tillman County
+OK,40,143,Tulsa County
+OK,40,145,Wagoner County
+OK,40,147,Washington County
+OK,40,149,Washita County
+OK,40,151,Woods County
+OK,40,153,Woodward County
+TX,48,001,Anderson County
+TX,48,003,Andrews County
+TX,48,005,Angelina County
+TX,48,007,Aransas County
+TX,48,009,Archer County
+TX,48,011,Armstrong County
+TX,48,013,Atascosa County
+TX,48,015,Austin County
+TX,48,017,Bailey County
+TX,48,019,Bandera County
+TX,48,021,Bastrop County
+TX,48,023,Baylor County
+TX,48,025,Bee County
+TX,48,027,Bell County
+TX,48,029,Bexar County
+TX,48,031,Blanco County
+TX,48,033,Borden County
+TX,48,035,Bosque County
+TX,48,037,Bowie County
+TX,48,039,Brazoria County
+TX,48,041,Brazos County
+TX,48,043,Brewster County
+TX,48,045,Briscoe County
+TX,48,047,Brooks County
+TX,48,049,Brown County
+TX,48,051,Burleson County
+TX,48,053,Burnet County
+TX,48,055,Caldwell County
+TX,48,057,Calhoun County
+TX,48,059,Callahan County
+TX,48,061,Cameron County
+TX,48,063,Camp County
+TX,48,065,Carson County
+TX,48,067,Cass County
+TX,48,069,Castro County
+TX,48,071,Chambers County
+TX,48,073,Cherokee County
+TX,48,075,Childress County
+TX,48,077,Clay County
+TX,48,079,Cochran County
+TX,48,081,Coke County
+TX,48,083,Coleman County
+TX,48,085,Collin County
+TX,48,087,Collingsworth County
+TX,48,089,Colorado County
+TX,48,091,Comal County
+TX,48,093,Comanche County
+TX,48,095,Concho County
+TX,48,097,Cooke County
+TX,48,099,Coryell County
+TX,48,101,Cottle County
+TX,48,103,Crane County
+TX,48,105,Crockett County
+TX,48,107,Crosby County
+TX,48,109,Culberson County
+TX,48,111,Dallam County
+TX,48,113,Dallas County
+TX,48,115,Dawson County
+TX,48,117,Deaf Smith County
+TX,48,119,Delta County
+TX,48,121,Denton County
+TX,48,123,DeWitt County
+TX,48,125,Dickens County
+TX,48,127,Dimmit County
+TX,48,129,Donley County
+TX,48,131,Duval County
+TX,48,133,Eastland County
+TX,48,135,Ector County
+TX,48,137,Edwards County
+TX,48,139,Ellis County
+TX,48,141,El Paso County
+TX,48,143,Erath County
+TX,48,145,Falls County
+TX,48,147,Fannin County
+TX,48,149,Fayette County
+TX,48,151,Fisher County
+TX,48,153,Floyd County
+TX,48,155,Foard County
+TX,48,157,Fort Bend County
+TX,48,159,Franklin County
+TX,48,161,Freestone County
+TX,48,163,Frio County
+TX,48,165,Gaines County
+TX,48,167,Galveston County
+TX,48,169,Garza County
+TX,48,171,Gillespie County
+TX,48,173,Glasscock County
+TX,48,175,Goliad County
+TX,48,177,Gonzales County
+TX,48,179,Gray County
+TX,48,181,Grayson County
+TX,48,183,Gregg County
+TX,48,185,Grimes County
+TX,48,187,Guadalupe County
+TX,48,189,Hale County
+TX,48,191,Hall County
+TX,48,193,Hamilton County
+TX,48,195,Hansford County
+TX,48,197,Hardeman County
+TX,48,199,Hardin County
+TX,48,201,Harris County
+TX,48,203,Harrison County
+TX,48,205,Hartley County
+TX,48,207,Haskell County
+TX,48,209,Hays County
+TX,48,211,Hemphill County
+TX,48,213,Henderson County
+TX,48,215,Hidalgo County
+TX,48,217,Hill County
+TX,48,219,Hockley County
+TX,48,221,Hood County
+TX,48,223,Hopkins County
+TX,48,225,Houston County
+TX,48,227,Howard County
+TX,48,229,Hudspeth County
+TX,48,231,Hunt County
+TX,48,233,Hutchinson County
+TX,48,235,Irion County
+TX,48,237,Jack County
+TX,48,239,Jackson County
+TX,48,241,Jasper County
+TX,48,243,Jeff Davis County
+TX,48,245,Jefferson County
+TX,48,247,Jim Hogg County
+TX,48,249,Jim Wells County
+TX,48,251,Johnson County
+TX,48,253,Jones County
+TX,48,255,Karnes County
+TX,48,257,Kaufman County
+TX,48,259,Kendall County
+TX,48,261,Kenedy County
+TX,48,263,Kent County
+TX,48,265,Kerr County
+TX,48,267,Kimble County
+TX,48,269,King County
+TX,48,271,Kinney County
+TX,48,273,Kleberg County
+TX,48,275,Knox County
+TX,48,277,Lamar County
+TX,48,279,Lamb County
+TX,48,281,Lampasas County
+TX,48,283,La Salle County
+TX,48,285,Lavaca County
+TX,48,287,Lee County
+TX,48,289,Leon County
+TX,48,291,Liberty County
+TX,48,293,Limestone County
+TX,48,295,Lipscomb County
+TX,48,297,Live Oak County
+TX,48,299,Llano County
+TX,48,301,Loving County
+TX,48,303,Lubbock County
+TX,48,305,Lynn County
+TX,48,307,McCulloch County
+TX,48,309,McLennan County
+TX,48,311,McMullen County
+TX,48,313,Madison County
+TX,48,315,Marion County
+TX,48,317,Martin County
+TX,48,319,Mason County
+TX,48,321,Matagorda County
+TX,48,323,Maverick County
+TX,48,325,Medina County
+TX,48,327,Menard County
+TX,48,329,Midland County
+TX,48,331,Milam County
+TX,48,333,Mills County
+TX,48,335,Mitchell County
+TX,48,337,Montague County
+TX,48,339,Montgomery County
+TX,48,341,Moore County
+TX,48,343,Morris County
+TX,48,345,Motley County
+TX,48,347,Nacogdoches County
+TX,48,349,Navarro County
+TX,48,351,Newton County
+TX,48,353,Nolan County
+TX,48,355,Nueces County
+TX,48,357,Ochiltree County
+TX,48,359,Oldham County
+TX,48,361,Orange County
+TX,48,363,Palo Pinto County
+TX,48,365,Panola County
+TX,48,367,Parker County
+TX,48,369,Parmer County
+TX,48,371,Pecos County
+TX,48,373,Polk County
+TX,48,375,Potter County
+TX,48,377,Presidio County
+TX,48,379,Rains County
+TX,48,381,Randall County
+TX,48,383,Reagan County
+TX,48,385,Real County
+TX,48,387,Red River County
+TX,48,389,Reeves County
+TX,48,391,Refugio County
+TX,48,393,Roberts County
+TX,48,395,Robertson County
+TX,48,397,Rockwall County
+TX,48,399,Runnels County
+TX,48,401,Rusk County
+TX,48,403,Sabine County
+TX,48,405,San Augustine County
+TX,48,407,San Jacinto County
+TX,48,409,San Patricio County
+TX,48,411,San Saba County
+TX,48,413,Schleicher County
+TX,48,415,Scurry County
+TX,48,417,Shackelford County
+TX,48,419,Shelby County
+TX,48,421,Sherman County
+TX,48,423,Smith County
+TX,48,425,Somervell County
+TX,48,427,Starr County
+TX,48,429,Stephens County
+TX,48,431,Sterling County
+TX,48,433,Stonewall County
+TX,48,435,Sutton County
+TX,48,437,Swisher County
+TX,48,439,Tarrant County
+TX,48,441,Taylor County
+TX,48,443,Terrell County
+TX,48,445,Terry County
+TX,48,447,Throckmorton County
+TX,48,449,Titus County
+TX,48,451,Tom Green County
+TX,48,453,Travis County
+TX,48,455,Trinity County
+TX,48,457,Tyler County
+TX,48,459,Upshur County
+TX,48,461,Upton County
+TX,48,463,Uvalde County
+TX,48,465,Val Verde County
+TX,48,467,Van Zandt County
+TX,48,469,Victoria County
+TX,48,471,Walker County
+TX,48,473,Waller County
+TX,48,475,Ward County
+TX,48,477,Washington County
+TX,48,479,Webb County
+TX,48,481,Wharton County
+TX,48,483,Wheeler County
+TX,48,485,Wichita County
+TX,48,487,Wilbarger County
+TX,48,489,Willacy County
+TX,48,491,Williamson County
+TX,48,493,Wilson County
+TX,48,495,Winkler County
+TX,48,497,Wise County
+TX,48,499,Wood County
+TX,48,501,Yoakum County
+TX,48,503,Young County
+TX,48,505,Zapata County
+TX,48,507,Zavala County
+WA,53,001,Adams County
+WA,53,003,Asotin County
+WA,53,005,Benton County
+WA,53,007,Chelan County
+WA,53,009,Clallam County
+WA,53,011,Clark County
+WA,53,013,Columbia County
+WA,53,015,Cowlitz County
+WA,53,017,Douglas County
+WA,53,019,Ferry County
+WA,53,021,Franklin County
+WA,53,023,Garfield County
+WA,53,025,Grant County
+WA,53,027,Grays Harbor County
+WA,53,029,Island County
+WA,53,031,Jefferson County
+WA,53,033,King County
+WA,53,035,Kitsap County
+WA,53,037,Kittitas County
+WA,53,039,Klickitat County
+WA,53,041,Lewis County
+WA,53,043,Lincoln County
+WA,53,045,Mason County
+WA,53,047,Okanogan County
+WA,53,049,Pacific County
+WA,53,051,Pend Oreille County
+WA,53,053,Pierce County
+WA,53,055,San Juan County
+WA,53,057,Skagit County
+WA,53,059,Skamania County
+WA,53,061,Snohomish County
+WA,53,063,Spokane County
+WA,53,065,Stevens County
+WA,53,067,Thurston County
+WA,53,069,Wahkiakum County
+WA,53,071,Walla Walla County
+WA,53,073,Whatcom County
+WA,53,075,Whitman County
+WA,53,077,Yakima County

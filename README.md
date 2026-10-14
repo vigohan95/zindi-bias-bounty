@@ -1,19 +1,31 @@
-# Bias Bounty Mapping Equity Challenge — label-free coverage-gap model and the unnamed-roads bias discovery
+# Bias Bounty Mapping Equity Challenge — label-free coverage-gap model and the phantom-roads bias discovery
 
-Entry for the Zindi [Bias Bounty Mapping Equity Challenge](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge).
-Everything here uses only the challenge data (Overture 2026-08-19.0 extracts, ACS, strata) and open-source Python packages; nothing is random, so every output reproduces bit-for-bit.
+Entry for the Zindi [Bias Bounty Mapping Equity Challenge](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge) by Zindi user **vigohan** — leaderboard submissions **THErq5e9** (`blend_all5.csv`) and **fhLZv9UF** (`blend_top3.csv`); entered for **Best Bias Discovery** (WRITEUP §7) and **Best Documentation** (WRITEUP §§0–5, 8).
 
-- **`WRITEUP.md`** — the full methodology: method card (§0), data (§2), features (§3), the expected-gap model (§4), what the public leaderboard taught us and the blends (§5), scorecard reflection (§6), **Best Bias Discovery: unnamed roads (§7)**, reproduction and file integrity (§8).
-- **`writeup.ipynb`** — executed notebook: reruns the pipeline end to end on the Eastern WA slice in about a minute and reproduces every §7 table.
-- **`figures/fig_unnamed_roads.png`** — Figure 1: Maverick County TX and Washita County OK choropleths of the unnamed-road share, and the share by scorecard stratum.
+The scored submission uses only the challenge data (Overture 2026-08-19.0 extracts, ACS, strata) and open-source Python packages; nothing is random, so every output reproduces bit-for-bit. The discovery section additionally uses two documented external public sources (TxDOT's public-road inventory as ground truth, a Census county-name list for labels), with frozen responses and SHA-256 hashes.
+
+- **`WRITEUP.md`** — the full methodology: method card (§0), data (§2), features (§3), the expected-gap model (§4, edge cases in §4.4), what the public leaderboard taught us and the blends (§5), scorecard reflection (§6), **Best Bias Discovery — phantom roads: the unreviewed 2007–08 TIGER import that pads Overture's road layer around the Texas border colonias (§7)**, reproduction and file integrity (§8).
+- **`bias_discovery_out.md`** — every table behind §7 (edit age by region and stratum, scored-class check, within-region Mann-Whitney tests, WLS, the import-era stratum, named tracts, per-cluster hazard columns), as printed by `bias_discovery.py`.
+- **`spotcheck/`** — the TxDOT ground-truth check: `spotcheck_txdot_summary.md`, per-segment `spotcheck_txdot_results.csv`, every raw response frozen under `txdot_responses/` with `SHA256SUMS`, and `TXDOT_SOURCE.md` (service URL, query parameters, retrieval date, licence).
+- **`writeup.ipynb`** — executed notebook: reruns the pipeline end to end on the Eastern WA slice in about a minute, reproduces the §7 tables from the cached five-region extraction, and verifies the frozen spot-check offline.
+- **`figures/fig_unnamed_roads.png`** — Figure 1.
 
 ![Figure 1](figures/fig_unnamed_roads.png)
 
-## Run it
+## Reproduce Section 7 (Best Bias Discovery) with one command
 
 ```bash
-pip install -r requirements.txt          # Python 3.11
+pip install -r requirements.txt            # Python 3.11
+PYTHONUTF8=1 python reproduce_section7.py  # after the data download below (~5 min); runs:
+#   bias_discovery.py              -> bias_discovery_out.md (every number in §7, incl. edit age)
+#   spotcheck_txdot.py --offline   -> verifies spotcheck/txdot_responses/SHA256SUMS, rebuilds the TxDOT table (no network)
+#   figure_unnamed_roads.py        -> figures/fig_unnamed_roads.png
+PYTHONUTF8=1 python reproduce_section7.py --offline   # only the spot-check verification: needs neither the data nor the network
+```
 
+## Full run
+
+```bash
 # 1. data (public bucket, no credentials). Eastern WA alone is 175 MB; all five regions about 3.1 GB.
 #    The notebook downloads the Eastern WA files itself. For the full run:
 B=https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge
@@ -31,14 +43,13 @@ cd ..
 # 2. notebook (Eastern WA, ~1 min)
 jupyter nbconvert --execute --to notebook --inplace writeup.ipynb
 
-# 3. full five-region pipeline (~20 min, Texas dominates). Data folder: ./data, or set ZINDI_WORK.
+# 3. five-region pipeline (~20 min, Texas dominates). Data folder: ./data, or set ZINDI_WORK.
 PYTHONUTF8=1 python features.py
 PYTHONUTF8=1 python baseline_v1.py
 PYTHONUTF8=1 python make_submission.py baseline_v1 --out baseline_v2
 PYTHONUTF8=1 python hypotheses.py            # six single-signal priors
 PYTHONUTF8=1 python blend.py                 # blend_all5.csv / blend_top3.csv (the submitted files)
-PYTHONUTF8=1 python bias_discovery.py        # Section 7 tables (~4 min)
-PYTHONUTF8=1 python figure_unnamed_roads.py  # Figure 1
+PYTHONUTF8=1 python reproduce_section7.py    # Section 7
 ```
 
 Outputs land in `data/features/`, `data/pred/`, `data/submissions/`. The SHA-256 digests of the two submitted files are in WRITEUP §8.2 and are recomputed by the notebook.
@@ -52,10 +63,13 @@ Outputs land in `data/features/`, `data/pred/`, `data/submissions/`. The SHA-256
 | `make_submission.py` | alignment to the official sample submission with format checks |
 | `hypotheses.py` | six structurally different single-signal priors, each re-centred to the leaderboard-implied truth moments |
 | `blend.py`, `blend_v2.py` | linear blends weighted by the leaderboard-implied correlations |
-| `bias_discovery.py` | unnamed / unsurfaced / unposted road km by tract and stratum, WLS, most-affected tracts |
+| `bias_discovery.py` | §7: unnamed / import-era road km by tract and stratum, scored-class check, Mann-Whitney, WLS, import-era stratum, named tracts, hazard columns |
+| `spotcheck_txdot.py` | §7: six-county ground truth against TxDOT's Roadway Inventory; freezes raw responses; `--offline` reproduces from the frozen files |
 | `figure_unnamed_roads.py` | Figure 1 |
-| `spotcheck_txdot.py`, `spotcheck_txdot_maverick.csv` | §7 spot-check of 30 unnamed + 30 named Maverick County segments against TxDOT's public Roadway Inventory (external public data; not used by the submission) |
+| `reproduce_section7.py` | runs the three §7 scripts in order |
+| `external/` | Census Gazetteer county-name extract and `SOURCES.md` (URLs, retrieval dates, hashes) |
+| `spotcheck/` | frozen TxDOT responses + `SHA256SUMS`, results CSV, summary table, `TXDOT_SOURCE.md` |
 
 ## Licence
 
-Code and text: MIT (see `LICENSE`). Data: Overture Maps (ODbL / CDLA-Permissive 2.0, © Overture Maps Foundation and contributors including OpenStreetMap), US Census (public domain), and the strata sources listed in the challenge bucket README.
+Code and text: MIT (see `LICENSE`). Data: Overture Maps (ODbL / CDLA-Permissive 2.0, © Overture Maps Foundation and contributors including OpenStreetMap), US Census (public domain), the strata sources listed in the challenge bucket README; TxDOT Roadway Inventory excerpts © Texas Department of Transportation, licence statement in `spotcheck/TXDOT_SOURCE.md`.
